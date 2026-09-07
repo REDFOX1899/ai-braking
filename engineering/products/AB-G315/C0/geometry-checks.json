@@ -1,0 +1,79 @@
+{
+  "parts": [
+    {
+      "part": "AB-G315-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 1.676828777058339e-15
+    },
+    {
+      "part": "AB-G315-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-G315-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 9.588586199094194e-14
+    },
+    {
+      "part": "AB-G315-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 4.118689513110553e-14
+    },
+    {
+      "part": "AB-G315-005",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 4.118689513110553e-14
+    },
+    {
+      "part": "AB-G315-006",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 4.118689513110553e-14
+    },
+    {
+      "part": "AB-G315-007",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 4.118689513110553e-14
+    }
+  ],
+  "intersections": [
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-003",
+      "volume_mm3": 4710720.01,
+      "status": "nonphysical reserved-volume overlap"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-004",
+      "volume_mm3": 11015.55,
+      "status": "nonphysical reserved-volume overlap"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-005",
+      "volume_mm3": 11015.55,
+      "status": "nonphysical reserved-volume overlap"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-006",
+      "volume_mm3": 11015.55,
+      "status": "nonphysical reserved-volume overlap"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-007",
+      "volume_mm3": 11015.55,
+      "status": "nonphysical reserved-volume overlap"
+    }
+  ],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

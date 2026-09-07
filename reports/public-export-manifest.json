@@ -32,6 +32,10 @@
     "sha256": "e7b40bf240f7e21f4e773990dfcafe9913450b194740e104c9b798c8a9bc398a"
   },
   {
+    "path": "downloads/director-brief.md",
+    "sha256": "8795e6c78c150a7159327e324fc409d49e5c77ec063eb76f7c0efbf53420cc8e"
+  },
+  {
     "path": "downloads/domain-handoff.md",
     "sha256": "78f0441e91486235d831cad45c66b278dfbedb1d32b2ff291a57441fbc340aa2"
   },
@@ -1226,5 +1230,97 @@
   {
     "path": "products/rail-clamp-study/parts/AB-SPEC-007/AB-SPEC-007.svg",
     "sha256": "fafd95476dd502a4f8b4ea572ae11abaa420f833f6d826af6093b91605a06b8b"
+  },
+  {
+    "path": "products/galvi-315-reference/AB-G315-assembly.step",
+    "sha256": "e88032d6434e5e790fc6543c3219006107a932b0c46887892c2eee9ece7fbdd3"
+  },
+  {
+    "path": "products/galvi-315-reference/AB-G315-review-pack.pdf",
+    "sha256": "6d504cff2322ed06ad126bf9d9675f48c85360603771326cf829cc4a0b7cc7ca"
+  },
+  {
+    "path": "products/galvi-315-reference/AB-G315-C0-review.zip",
+    "sha256": "d4fcc8c7864480eff4b6af9982e9f184a5d26f1ca6cfe65dacd9b9e893fd931d"
+  },
+  {
+    "path": "products/galvi-315-reference/bom.csv",
+    "sha256": "ede4391f76952c6e62e53d29f3019deef8b8c7010158b0a03ec297fdb18eafa4"
+  },
+  {
+    "path": "products/galvi-315-reference/geometry-checks.json",
+    "sha256": "54e69fbe7a35158bcac39b3fb5e1da14ee39a19ec54671941acda37e544e601c"
+  },
+  {
+    "path": "products/galvi-315-reference/README.md",
+    "sha256": "8ed29be12e0f05359267c697798941506f033c78101fa57dad5b29fffdd9b237"
+  },
+  {
+    "path": "products/galvi-315-reference/mesh.json",
+    "sha256": "b06b70aa536d57ab8d2b88239bee38dd909f26e302820649376aee46d46a9659"
+  },
+  {
+    "path": "products/galvi-315-reference/preview.svg",
+    "sha256": "9d073b056a935f22816fcf0f928bbc6b67a16b3fe42c62b5fa5d136eefbe0153"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-001/AB-G315-001.step",
+    "sha256": "ba725a89f256348daea1bddac45a3bf8ac39432482e3dfb6063933c49ca17d43"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-001/AB-G315-001.svg",
+    "sha256": "6c01f0bcda91d70ce04a007f6801fa590e6db169b693d74d62e3a5d3c3d09266"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-002/AB-G315-002.step",
+    "sha256": "fc73d0d0e7a4e7a5f2eed10b448e86d0455249b8e7a4ada363303a94d421946f"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-002/AB-G315-002.svg",
+    "sha256": "9cbfb5a14572271fad70fe14071a7fe39d5db982cb37c3c75a1700f4c3b2ab0c"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-003/AB-G315-003.step",
+    "sha256": "c270fbffcac12525320b86e0f53ea348cc8d8064cdb48a0a4dafd31496c7c3b3"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-003/AB-G315-003.svg",
+    "sha256": "a4fb84efe2135df8315f66527ca98e9d8d2280b6c1689f3b7c14e801f5d6db59"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-004/AB-G315-004.step",
+    "sha256": "6e07bc5a6548ba325f21c46a0675c6c2e99ea692cc178c3b9c0dce1d6f04d5c5"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-004/AB-G315-004.svg",
+    "sha256": "c0bc2c0b5d2b15d52a92cd44ebfb4ddff84b3baac328ebeda117c38b00575d60"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-005/AB-G315-005.step",
+    "sha256": "062de6fa569029f728ff1cfafbce7e4bbb5debd81144ddb87b15a0ed533a7bb8"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-005/AB-G315-005.svg",
+    "sha256": "e3a5289441bc5059485c77198a9aa6493dce7961b44cf4a462036fe14badf2ca"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-006/AB-G315-006.step",
+    "sha256": "9aab0ef5942345f530c1ef7da6bd813ca5771463e7ac2346d7034b1b372256ec"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-006/AB-G315-006.svg",
+    "sha256": "fa613fa4f30b6379e242137b244bbdb40837ef262ef9624d83d9fee1bdb7995a"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-007/AB-G315-007.step",
+    "sha256": "21369690f591aee2059cda1268fe84db2199ea1341f44c4ccc2592e6138216be"
+  },
+  {
+    "path": "products/galvi-315-reference/parts/AB-G315-007/AB-G315-007.svg",
+    "sha256": "d89fe5a5f55e9df2ade2706b3e327eb1ad6f02e56c048f0cf021a2b2fc5df0d2"
+  },
+  {
+    "path": "products/galvi-315-reference/dimension-register.json",
+    "sha256": "7a2de792761b02e818aab92cc2bb1555bb72be17c6a384ec474efb82873850c0"
   }
 ]

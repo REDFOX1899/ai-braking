@@ -1,0 +1,77 @@
+{
+  "slug": "galvi-315-reference",
+  "short": "GALVI 315 interface study",
+  "subtitle": "A defined basis for the partnership conversation",
+  "level": "Published-interface study",
+  "priority": 0,
+  "description": "Original integration geometry referencing GALVI N.315.HYD.030/05 and PD.315 catalogue dimensions. This is not a GALVI manufacturing model or verified replacement. Purchased brake internals, load paths and shaft locking are not released.",
+  "targets": [
+    [
+      "Drum outside diameter",
+      "315 mm",
+      "GALVI PD.315; PDF page 15"
+    ],
+    [
+      "Brake axis height",
+      "230 mm",
+      "GALVI N.315; PDF page 4"
+    ],
+    [
+      "Four mounting holes",
+      "\u00d818; 440 \u00d7 80 mm pitch",
+      "GALVI N.315; PDF page 4"
+    ],
+    [
+      "Drum band width",
+      "118 mm",
+      "GALVI PD.315 B1; PDF page 15"
+    ],
+    [
+      "Finished bore selected",
+      "50 mm nominal",
+      "Our selection within published R max 80; shaft requirement pending"
+    ]
+  ],
+  "decisions": [
+    "Buy or partner for the complete brake and actuator; focus our first integration effort on the mounting and drum/shaft interface.",
+    "Use published dimensions for external interfaces only. Keep proposed section thickness and shaft selection visibly separate.",
+    "Request a current GALVI drawing before establishing compatibility or manufacturing release."
+  ],
+  "materials": [
+    "GALVI publishes EN-GJL-250 and EN-GJS-500-7 drum variants; neither is selected for production here.",
+    "Our adapter plate: S355J2+N candidate, 20 mm illustrative thickness; no strength or bolt-joint approval."
+  ],
+  "risks": [
+    "Catalogue revision February 2016; current availability and dimensions unconfirmed.",
+    "Drum wall/web geometry is an original simplification, not published manufacturing geometry.",
+    "Brake envelope contains no levers, shoes, springs or actuation mechanism; do not manufacture it.",
+    "No verified shaft connection, preload, tolerances, thermal capacity or operating rating."
+  ],
+  "steps": [
+    "Confirm source revision and purchased brake option with supplier.",
+    "Inspect 440 x 80 four-hole pattern and datum plane on proposed adapter.",
+    "Place the brake so its drum axis is 230 mm above its mounting plane.",
+    "Confirm PD.315 axial position and shaft attachment from machine and supplier drawings.",
+    "Approve detailed joints, load paths and guarded test plan before prototype manufacture."
+  ],
+  "validation": [
+    "Check supplier CAD and physical first article against the published interface.",
+    "Size adapter, foundation, shaft connection and drum for approved duty.",
+    "Perform independent dimensional, torque, thermal and endurance validation."
+  ],
+  "hypotheses": [
+    [
+      "First-build scope",
+      "Partner for the brake mechanism",
+      "Validate purchasing and integration economics with supplier quotations."
+    ],
+    [
+      "Traceability",
+      "Every key interface has a source",
+      "Confirm against current controlled vendor drawings before release."
+    ]
+  ],
+  "sensors": [
+    "Request thruster supply/duty, position-switch options, wear sensing, connector and machine-safe-state requirements."
+  ]
+}

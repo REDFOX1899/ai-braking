@@ -1,0 +1,179 @@
+{
+  "source": {
+    "url": "https://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe%20Brakes.pdf",
+    "sha256": "08b6d7d0f37c2e4973c8cc67c7c8325d25c32cd6ee42d56403ce615c3b5e5675",
+    "revision": "February 2016",
+    "pdf_pages": [
+      4,
+      15
+    ],
+    "printed_pages": [
+      "4\u20135",
+      "26\u201327"
+    ],
+    "verified_on": "2026-09-07",
+    "current_supplier_confirmation": false
+  },
+  "dimensions": [
+    {
+      "symbol": "A",
+      "label": "Drum diameter",
+      "value": 315,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "B",
+      "label": "Brake axis height above mounting plane",
+      "value": 230,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "D",
+      "label": "Brake base length",
+      "value": 722,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "E",
+      "label": "Left base edge to drum axis",
+      "value": 240,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "F",
+      "label": "Drum axis to right base edge",
+      "value": 482,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "H",
+      "label": "Mounting-hole half-pitch from drum axis",
+      "value": 220,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "I",
+      "label": "Mounting-hole transverse pitch",
+      "value": 80,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "M",
+      "label": "Four brake mounting holes",
+      "value": 18,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "Cmax",
+      "label": "Brake maximum height",
+      "value": 595,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "Gmax",
+      "label": "Brake maximum length",
+      "value": 784,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "T",
+      "label": "Standard shoe width",
+      "value": 110,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-A",
+      "label": "PD.315 outer diameter",
+      "value": 315,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-B",
+      "label": "PD.315 dimension B",
+      "value": 133,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-B1",
+      "label": "PD.315 friction-band width B1",
+      "value": 118,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-C",
+      "label": "PD.315 overall axial length",
+      "value": 153,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-D",
+      "label": "PD.315 hub outside diameter",
+      "value": 130,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-E",
+      "label": "PD.315 coupling-hole pitch circle",
+      "value": 200,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-F",
+      "label": "PD.315 machined coupling-hole diameter",
+      "value": 50,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-X",
+      "label": "PD.315 coupling-hole count",
+      "value": 6,
+      "unit": "count",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-Rmax",
+      "label": "PD.315 maximum finished shaft bore",
+      "value": 80,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    }
+  ]
+}

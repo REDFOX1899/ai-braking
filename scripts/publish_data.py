@@ -45,7 +45,7 @@ public=dict(release='2026-09-07',domain='braking.fde.guru',manufacturers=manufac
 (P/'research.json').write_text(json.dumps(public,ensure_ascii=False))
 (R/'website/app/research-data.json').write_text(json.dumps(public,ensure_ascii=False))
 # Only named original reports and selected factual exports are published.
-exports={'engineering-handbook.md':'engineering/ENGINEERING-HANDBOOK.md','supplier-requirements.csv':'engineering/SUPPLIER-REQUIREMENTS.csv','requirements-template.csv':'engineering/REQUIREMENTS-TEMPLATE.csv','product-portfolio.md':'reports/PRODUCT-PORTFOLIO.md','programme-and-budget.md':'reports/PROGRAMME-AND-BUDGET.md','research-method.md':'reports/RESEARCH-METHOD.md','domain-handoff.md':'reports/CLOUDFLARE-DEPLOYMENT.md','mechanical-development-plan.md':'reports/MECHANICAL-DEVELOPMENT-PLAN.md','mechanical-C0-build-log.md':'build-logs/2026-09-07-mechanical-C0.md','reviewed-specifications.csv':'research/normalized/reviewed-specifications.csv','portfolio.csv':'engineering/portfolio.csv'}
+exports={'engineering-handbook.md':'engineering/ENGINEERING-HANDBOOK.md','supplier-requirements.csv':'engineering/SUPPLIER-REQUIREMENTS.csv','requirements-template.csv':'engineering/REQUIREMENTS-TEMPLATE.csv','product-portfolio.md':'reports/PRODUCT-PORTFOLIO.md','programme-and-budget.md':'reports/PROGRAMME-AND-BUDGET.md','research-method.md':'reports/RESEARCH-METHOD.md','director-brief.md':'reports/DIRECTOR-BRIEF.md','domain-handoff.md':'reports/CLOUDFLARE-DEPLOYMENT.md','mechanical-development-plan.md':'reports/MECHANICAL-DEVELOPMENT-PLAN.md','mechanical-C0-build-log.md':'build-logs/2026-09-07-mechanical-C0.md','reviewed-specifications.csv':'research/normalized/reviewed-specifications.csv','portfolio.csv':'engineering/portfolio.csv'}
 (P/'downloads').mkdir(exist_ok=True)
 for target,source in exports.items():shutil.copyfile(R/source,P/'downloads'/target)
 shutil.copyfile(R/'output/pdf/ai-braking-engineering-handbook.pdf',P/'downloads/engineering-handbook.pdf')
@@ -56,11 +56,12 @@ expected=['favicon.svg','research.json']+['downloads/'+k for k in exports]+['dow
 # Explicit original C0 release paths; no general archive-directory publication.
 products_path=R/'website/app/products-data.json'
 if products_path.exists():
- for prod in json.loads(products_path.read_text()):
+ for prod in json.loads(products_path.read_text()) + ([json.loads((R/'website/app/galvi-study.json').read_text())] if (R/'website/app/galvi-study.json').exists() else []):
   base='products/'+prod['slug']+'/'
   expected += [base+name for name in [prod['downloads']['step'],prod['downloads']['pdf'],prod['downloads']['zip'],'bom.csv','geometry-checks.json','README.md','mesh.json','preview.svg']]
   for part in prod['parts']:
    expected += [base+'parts/'+part['id']+'/'+part['id']+ext for ext in ['.step','.svg']]
+if (R/'website/app/galvi-study.json').exists():expected.append('products/galvi-315-reference/dimension-register.json')
 allowed=[dict(path=rel,sha256=hashlib.sha256((P/rel).read_bytes()).hexdigest()) for rel in expected]
 (R/'reports/public-export-manifest.json').write_text(json.dumps(allowed,indent=2))
 print(json.dumps(public['counts']))

@@ -1,0 +1,567 @@
+{
+  "code": "AB-G315",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "galvi-315-reference",
+  "short": "GALVI 315 interface study",
+  "subtitle": "A defined basis for the partnership conversation",
+  "level": "Published-interface study",
+  "priority": 0,
+  "description": "Original integration geometry referencing GALVI N.315.HYD.030/05 and PD.315 catalogue dimensions. This is not a GALVI manufacturing model or verified replacement. Purchased brake internals, load paths and shaft locking are not released.",
+  "targets": [
+    [
+      "Drum outside diameter",
+      "315 mm",
+      "GALVI PD.315; PDF page 15"
+    ],
+    [
+      "Brake axis height",
+      "230 mm",
+      "GALVI N.315; PDF page 4"
+    ],
+    [
+      "Four mounting holes",
+      "\u00d818; 440 \u00d7 80 mm pitch",
+      "GALVI N.315; PDF page 4"
+    ],
+    [
+      "Drum band width",
+      "118 mm",
+      "GALVI PD.315 B1; PDF page 15"
+    ],
+    [
+      "Finished bore selected",
+      "50 mm nominal",
+      "Our selection within published R max 80; shaft requirement pending"
+    ]
+  ],
+  "decisions": [
+    "Buy or partner for the complete brake and actuator; focus our first integration effort on the mounting and drum/shaft interface.",
+    "Use published dimensions for external interfaces only. Keep proposed section thickness and shaft selection visibly separate.",
+    "Request a current GALVI drawing before establishing compatibility or manufacturing release."
+  ],
+  "materials": [
+    "GALVI publishes EN-GJL-250 and EN-GJS-500-7 drum variants; neither is selected for production here.",
+    "Our adapter plate: S355J2+N candidate, 20 mm illustrative thickness; no strength or bolt-joint approval."
+  ],
+  "risks": [
+    "Catalogue revision February 2016; current availability and dimensions unconfirmed.",
+    "Drum wall/web geometry is an original simplification, not published manufacturing geometry.",
+    "Brake envelope contains no levers, shoes, springs or actuation mechanism; do not manufacture it.",
+    "No verified shaft connection, preload, tolerances, thermal capacity or operating rating."
+  ],
+  "steps": [
+    "Confirm source revision and purchased brake option with supplier.",
+    "Inspect 440 x 80 four-hole pattern and datum plane on proposed adapter.",
+    "Place the brake so its drum axis is 230 mm above its mounting plane.",
+    "Confirm PD.315 axial position and shaft attachment from machine and supplier drawings.",
+    "Approve detailed joints, load paths and guarded test plan before prototype manufacture."
+  ],
+  "validation": [
+    "Check supplier CAD and physical first article against the published interface.",
+    "Size adapter, foundation, shaft connection and drum for approved duty.",
+    "Perform independent dimensional, torque, thermal and endurance validation."
+  ],
+  "hypotheses": [
+    [
+      "First-build scope",
+      "Partner for the brake mechanism",
+      "Validate purchasing and integration economics with supplier quotations."
+    ],
+    [
+      "Traceability",
+      "Every key interface has a source",
+      "Confirm against current controlled vendor drawings before release."
+    ]
+  ],
+  "sensors": [
+    "Request thruster supply/duty, position-switch options, wear sensing, connector and machine-safe-state requirements."
+  ],
+  "parts": [
+    {
+      "id": "AB-G315-001",
+      "item": 1,
+      "name": "Our mounting adapter concept",
+      "pos": [
+        121,
+        0,
+        -10
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "4 x \u00d818 THRU. Assembly X +/-220, Y +/-40; part-local X -341/+99, Y +/-40. Full pitch 440 x 80.",
+        "Plate 762 x 220 x 20 is our proposal; foundation holes, strength and flatness unapproved."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        -90
+      ],
+      "dimensions": [
+        762.0,
+        220.0,
+        20.0
+      ],
+      "volume_mm3": 3332442.48,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-002",
+      "item": 2,
+      "name": "Purchased brake installation envelope",
+      "pos": [
+        148,
+        0,
+        297.5
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy complete brake; replace this envelope with current vendor STEP",
+      "notes": [
+        "Published maximum extents O/P: X -244 / +540; height C=595.",
+        "200 mm transverse envelope is our assumed display width; actual full width requires vendor CAD.",
+        "Volume is reserved space, not a physical solid to manufacture."
+      ],
+      "role": "interface-envelope",
+      "color": "#a2b6c7",
+      "explode": [
+        250,
+        0,
+        100
+      ],
+      "dimensions": [
+        784.0,
+        200.0,
+        595.0
+      ],
+      "volume_mm3": 93296000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-003",
+      "item": 3,
+      "name": "PD.315-referenced drum concept",
+      "pos": [
+        0,
+        76.5,
+        230
+      ],
+      "material": "GALVI material options: EN-GJL-250 / EN-GJS-500-7; selection pending",
+      "process": "Supplier-controlled drum preferred; our simplified CAD for interface review only",
+      "notes": [
+        "Published: OD 315, band 118, overall length 153, hub OD 130, 6 x \u00d850 on PCD200.",
+        "Our choices: shaft bore 50, rim inner diameter 275, 15 mm flat web. Internal section is NOT GALVI geometry.",
+        "Coupling holes are pin interfaces, not six mounting-bolt holes. No speed or torque rating transferred."
+      ],
+      "role": "reference-concept",
+      "color": "#38a5d0",
+      "explode": [
+        0,
+        -190,
+        0
+      ],
+      "dimensions": [
+        315.0,
+        153.0,
+        315.0
+      ],
+      "volume_mm3": 4710720.009,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-004",
+      "item": 4,
+      "name": "M16 mounting hardware envelope",
+      "pos": [
+        -220,
+        -40,
+        0
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy after joint/preload calculation",
+      "notes": [
+        "M16 is our candidate for \u00d818 clearance holes, not a GALVI specified bolt.",
+        "Nut, washer stack, grip, grade and preload unresolved; envelope only."
+      ],
+      "role": "bought-envelope",
+      "color": "#415a77",
+      "explode": [
+        0,
+        0,
+        75
+      ],
+      "dimensions": [
+        27.7,
+        23.989,
+        70.0
+      ],
+      "volume_mm3": 17047.411,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-005",
+      "item": 5,
+      "name": "M16 mounting hardware envelope",
+      "pos": [
+        -220,
+        40,
+        0
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy after joint/preload calculation",
+      "notes": [
+        "M16 is our candidate for \u00d818 clearance holes, not a GALVI specified bolt.",
+        "Nut, washer stack, grip, grade and preload unresolved; envelope only."
+      ],
+      "role": "bought-envelope",
+      "color": "#76c6dc",
+      "explode": [
+        0,
+        0,
+        75
+      ],
+      "dimensions": [
+        27.7,
+        23.989,
+        70.0
+      ],
+      "volume_mm3": 17047.411,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-006",
+      "item": 6,
+      "name": "M16 mounting hardware envelope",
+      "pos": [
+        220,
+        -40,
+        0
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy after joint/preload calculation",
+      "notes": [
+        "M16 is our candidate for \u00d818 clearance holes, not a GALVI specified bolt.",
+        "Nut, washer stack, grip, grade and preload unresolved; envelope only."
+      ],
+      "role": "bought-envelope",
+      "color": "#d3dde5",
+      "explode": [
+        0,
+        0,
+        75
+      ],
+      "dimensions": [
+        27.7,
+        23.989,
+        70.0
+      ],
+      "volume_mm3": 17047.411,
+      "quantity": 1
+    },
+    {
+      "id": "AB-G315-007",
+      "item": 7,
+      "name": "M16 mounting hardware envelope",
+      "pos": [
+        220,
+        40,
+        0
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy after joint/preload calculation",
+      "notes": [
+        "M16 is our candidate for \u00d818 clearance holes, not a GALVI specified bolt.",
+        "Nut, washer stack, grip, grade and preload unresolved; envelope only."
+      ],
+      "role": "bought-envelope",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        75
+      ],
+      "dimensions": [
+        27.7,
+        23.989,
+        70.0
+      ],
+      "volume_mm3": 17047.411,
+      "quantity": 1
+    }
+  ],
+  "intersections": [
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-003",
+      "volume_mm3": 4710720.01,
+      "status": "open: review contact/envelope interference; not approved fit"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-004",
+      "volume_mm3": 11015.55,
+      "status": "open: review contact/envelope interference; not approved fit"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-005",
+      "volume_mm3": 11015.55,
+      "status": "open: review contact/envelope interference; not approved fit"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-006",
+      "volume_mm3": 11015.55,
+      "status": "open: review contact/envelope interference; not approved fit"
+    },
+    {
+      "a": "AB-G315-002",
+      "b": "AB-G315-007",
+      "volume_mm3": 11015.55,
+      "status": "open: review contact/envelope interference; not approved fit"
+    }
+  ],
+  "part_count": 7,
+  "downloads": {
+    "step": "AB-G315-assembly.step",
+    "pdf": "AB-G315-review-pack.pdf",
+    "zip": "AB-G315-C0-review.zip"
+  },
+  "source": {
+    "url": "https://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe%20Brakes.pdf",
+    "sha256": "08b6d7d0f37c2e4973c8cc67c7c8325d25c32cd6ee42d56403ce615c3b5e5675",
+    "revision": "February 2016",
+    "pdf_pages": [
+      4,
+      15
+    ],
+    "printed_pages": [
+      "4\u20135",
+      "26\u201327"
+    ],
+    "verified_on": "2026-09-07",
+    "current_supplier_confirmation": false
+  },
+  "dimensions": [
+    {
+      "symbol": "A",
+      "label": "Drum diameter",
+      "value": 315,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "B",
+      "label": "Brake axis height above mounting plane",
+      "value": 230,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "D",
+      "label": "Brake base length",
+      "value": 722,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "E",
+      "label": "Left base edge to drum axis",
+      "value": 240,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "F",
+      "label": "Drum axis to right base edge",
+      "value": 482,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "H",
+      "label": "Mounting-hole half-pitch from drum axis",
+      "value": 220,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "I",
+      "label": "Mounting-hole transverse pitch",
+      "value": 80,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "M",
+      "label": "Four brake mounting holes",
+      "value": 18,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "Cmax",
+      "label": "Brake maximum height",
+      "value": 595,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "Gmax",
+      "label": "Brake maximum length",
+      "value": 784,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "T",
+      "label": "Standard shoe width",
+      "value": 110,
+      "unit": "mm",
+      "page": 4,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-A",
+      "label": "PD.315 outer diameter",
+      "value": 315,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-B",
+      "label": "PD.315 dimension B",
+      "value": 133,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-B1",
+      "label": "PD.315 friction-band width B1",
+      "value": 118,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-C",
+      "label": "PD.315 overall axial length",
+      "value": 153,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-D",
+      "label": "PD.315 hub outside diameter",
+      "value": 130,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-E",
+      "label": "PD.315 coupling-hole pitch circle",
+      "value": 200,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-F",
+      "label": "PD.315 machined coupling-hole diameter",
+      "value": 50,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-X",
+      "label": "PD.315 coupling-hole count",
+      "value": 6,
+      "unit": "count",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    },
+    {
+      "symbol": "PD-Rmax",
+      "label": "PD.315 maximum finished shaft bore",
+      "value": 80,
+      "unit": "mm",
+      "page": 15,
+      "status": "published; current revision unconfirmed"
+    }
+  ],
+  "annotations": [
+    {
+      "label": "\u00d8315 mm \u00b7 GALVI PD.315",
+      "a": [
+        -157.5,
+        -100,
+        230
+      ],
+      "b": [
+        157.5,
+        -100,
+        230
+      ],
+      "status": "published"
+    },
+    {
+      "label": "230 mm axis height \u00b7 GALVI B",
+      "a": [
+        -210,
+        -100,
+        0
+      ],
+      "b": [
+        -210,
+        -100,
+        230
+      ],
+      "status": "published"
+    },
+    {
+      "label": "440 mm full pitch \u00b7 2 \u00d7 GALVI H",
+      "a": [
+        -220,
+        -65,
+        -20
+      ],
+      "b": [
+        220,
+        -65,
+        -20
+      ],
+      "status": "published"
+    },
+    {
+      "label": "153 mm axial length \u00b7 GALVI PD.C",
+      "a": [
+        190,
+        -76.5,
+        230
+      ],
+      "b": [
+        190,
+        76.5,
+        230
+      ],
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-G315-001,1,Our mounting adapter concept,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[762.0, 220.0, 20.0]"
+AB-G315-002,2,Purchased brake installation envelope,1,interface-envelope,Supplier-controlled; illustrative reserved envelope,Buy complete brake; replace this envelope with current vendor STEP,"[784.0, 200.0, 595.0]"
+AB-G315-003,3,PD.315-referenced drum concept,1,reference-concept,GALVI material options: EN-GJL-250 / EN-GJS-500-7; selection pending,Supplier-controlled drum preferred; our simplified CAD for interface review only,"[315.0, 153.0, 315.0]"
+AB-G315-004,4,M16 mounting hardware envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy after joint/preload calculation,"[27.7, 23.989, 70.0]"
+AB-G315-005,5,M16 mounting hardware envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy after joint/preload calculation,"[27.7, 23.989, 70.0]"
+AB-G315-006,6,M16 mounting hardware envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy after joint/preload calculation,"[27.7, 23.989, 70.0]"
+AB-G315-007,7,M16 mounting hardware envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy after joint/preload calculation,"[27.7, 23.989, 70.0]"

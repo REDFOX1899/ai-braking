@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#fff"/>
+<g transform="translate(35,50)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(0.46875, -0.46875)   translate(445.3333333333333,-153.33333333333334)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-392.0,-100.0 L-392.0,100.0 " />
+			<path d="M392.0,-100.0 L392.0,100.0 " />
+			<path d="M-392.0,-100.0 L392.0,-100.0 " />
+			<path d="M-392.0,100.0 L392.0,100.0 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-392.0,-100.0 L-392.0,100.0 " />
+			<path d="M392.0,-100.0 L392.0,100.0 " />
+			<path d="M-392.0,-100.0 L392.0,-100.0 " />
+			<path d="M-392.0,100.0 L392.0,100.0 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="40" fill="#254c6e" font-size="13">TOP X-Y</text>
+<g transform="translate(35,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(0.3025210084033614, -0.3025210084033614)   translate(474.6388888888889,-380.1388888888889)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-392.0,-297.5 L-392.0,297.5 " />
+			<path d="M392.0,-297.5 L392.0,297.5 " />
+			<path d="M-392.0,-297.5 L392.0,-297.5 " />
+			<path d="M-392.0,297.5 L392.0,297.5 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-392.0,-297.5 L-392.0,297.5 " />
+			<path d="M392.0,-297.5 L392.0,297.5 " />
+			<path d="M-392.0,-297.5 L392.0,-297.5 " />
+			<path d="M-392.0,297.5 L392.0,297.5 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="405" fill="#254c6e" font-size="13">FRONT X-Z</text>
+<g transform="translate(630,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(0.30252100840336127, -0.30252100840336127)   translate(182.63888888888897,-380.13888888888897)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-100.00000000000004,-297.49999999999994 L-100.00000000000004,297.50000000000006 " />
+			<path d="M-100.00000000000004,297.50000000000006 L99.99999999999996,297.50000000000006 " />
+			<path d="M99.99999999999996,-297.49999999999994 L99.99999999999996,297.50000000000006 " />
+			<path d="M-100.00000000000004,-297.49999999999994 L99.99999999999996,-297.49999999999994 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-99.99999999999996,-297.50000000000006 L-99.99999999999996,297.49999999999994 " />
+			<path d="M-99.99999999999996,297.49999999999994 L100.00000000000004,297.49999999999994 " />
+			<path d="M100.00000000000004,-297.50000000000006 L100.00000000000004,297.49999999999994 " />
+			<path d="M-99.99999999999996,-297.50000000000006 L100.00000000000004,-297.50000000000006 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="630" y="405" fill="#254c6e" font-size="13">SIDE Y-Z</text>
+<text x="625" y="85" fill="#19334f" font-size="24">AB-G315-002 / C0</text>
+<text x="625" y="118" fill="#19334f" font-size="19">Purchased brake installation envelope</text>
+<text x="625" y="155" fill="#365774" font-size="12">Overall X / Y / Z bounds: 784.00 / 200.00 / 595.00 mm</text>
+<text x="625" y="183" fill="#365774" font-size="12">Published maximum extents O/P: X -244 / +540; height C=595.</text>
+<text x="625" y="211" fill="#365774" font-size="12">200 mm transverse envelope is our assumed display width; actual full width requires</text>
+<text x="625" y="229" fill="#365774" font-size="12">vendor CAD.</text>
+<text x="625" y="257" fill="#365774" font-size="12">Volume is reserved space, not a physical solid to manufacture.</text>
+<rect x="20" y="748" width="1160" height="53" fill="#eaf3fa"/>
+<text x="36" y="771" fill="#1b4e80" font-size="15">C0 CONCEPT / NOT FOR MANUFACTURE / NOMINAL mm / THIRD-ANGLE VIEW POSITIONS</text>
+<text x="36" y="791" fill="#365774" font-size="12">CAD hidden-line projections; bounds and features are reference only. No tolerance, fit, finish or strength approval.</text>
+</svg>

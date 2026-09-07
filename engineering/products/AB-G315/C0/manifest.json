@@ -1,0 +1,127 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "fa3381b07922e4a1779b6c016b6e501fd0a2f59746325d8290a32cebe7269687",
+    "bytes": 5139
+  },
+  {
+    "path": "galvi_study.py",
+    "sha256": "c86d9cb2e05a0fef51790a6877b4472d84b6a6e9c6efb3ae90f8c2c521c59cbf",
+    "bytes": 8863
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "ede4391f76952c6e62e53d29f3019deef8b8c7010158b0a03ec297fdb18eafa4",
+    "bytes": 1404
+  },
+  {
+    "path": "AB-G315-review-pack.pdf",
+    "sha256": "6d504cff2322ed06ad126bf9d9675f48c85360603771326cf829cc4a0b7cc7ca",
+    "bytes": 126872
+  },
+  {
+    "path": "AB-G315-assembly.step",
+    "sha256": "e88032d6434e5e790fc6543c3219006107a932b0c46887892c2eee9ece7fbdd3",
+    "bytes": 220985
+  },
+  {
+    "path": "README.md",
+    "sha256": "8ed29be12e0f05359267c697798941506f033c78101fa57dad5b29fffdd9b237",
+    "bytes": 1260
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "54e69fbe7a35158bcac39b3fb5e1da14ee39a19ec54671941acda37e544e601c",
+    "bytes": 1950
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "370b1b0ea6cd351244ed324d7a35c2138e987a56bfb2ef261cef232d5101b6d4",
+    "bytes": 27621
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "b8115c456892b3baf4a0932ae377f19d02ee8e3193cf55695078b361386da464",
+    "bytes": 3219
+  },
+  {
+    "path": "dimension-register.json",
+    "sha256": "7a2de792761b02e818aab92cc2bb1555bb72be17c6a384ec474efb82873850c0",
+    "bytes": 4366
+  },
+  {
+    "path": "parts/AB-G315-007/AB-G315-007.step",
+    "sha256": "21369690f591aee2059cda1268fe84db2199ea1341f44c4ccc2592e6138216be",
+    "bytes": 27339
+  },
+  {
+    "path": "parts/AB-G315-007/AB-G315-007.svg",
+    "sha256": "d89fe5a5f55e9df2ade2706b3e327eb1ad6f02e56c048f0cf021a2b2fc5df0d2",
+    "bytes": 25278
+  },
+  {
+    "path": "parts/AB-G315-001/AB-G315-001.step",
+    "sha256": "ba725a89f256348daea1bddac45a3bf8ac39432482e3dfb6063933c49ca17d43",
+    "bytes": 34617
+  },
+  {
+    "path": "parts/AB-G315-001/AB-G315-001.svg",
+    "sha256": "6c01f0bcda91d70ce04a007f6801fa590e6db169b693d74d62e3a5d3c3d09266",
+    "bytes": 94710
+  },
+  {
+    "path": "parts/AB-G315-006/AB-G315-006.step",
+    "sha256": "9aab0ef5942345f530c1ef7da6bd813ca5771463e7ac2346d7034b1b372256ec",
+    "bytes": 27339
+  },
+  {
+    "path": "parts/AB-G315-006/AB-G315-006.svg",
+    "sha256": "fa613fa4f30b6379e242137b244bbdb40837ef262ef9624d83d9fee1bdb7995a",
+    "bytes": 25278
+  },
+  {
+    "path": "parts/AB-G315-003/AB-G315-003.step",
+    "sha256": "c270fbffcac12525320b86e0f53ea348cc8d8064cdb48a0a4dafd31496c7c3b3",
+    "bytes": 48911
+  },
+  {
+    "path": "parts/AB-G315-003/AB-G315-003.svg",
+    "sha256": "a4fb84efe2135df8315f66527ca98e9d8d2280b6c1689f3b7c14e801f5d6db59",
+    "bytes": 433719
+  },
+  {
+    "path": "parts/AB-G315-004/AB-G315-004.step",
+    "sha256": "6e07bc5a6548ba325f21c46a0675c6c2e99ea692cc178c3b9c0dce1d6f04d5c5",
+    "bytes": 27339
+  },
+  {
+    "path": "parts/AB-G315-004/AB-G315-004.svg",
+    "sha256": "c0bc2c0b5d2b15d52a92cd44ebfb4ddff84b3baac328ebeda117c38b00575d60",
+    "bytes": 25278
+  },
+  {
+    "path": "parts/AB-G315-005/AB-G315-005.step",
+    "sha256": "062de6fa569029f728ff1cfafbce7e4bbb5debd81144ddb87b15a0ed533a7bb8",
+    "bytes": 27339
+  },
+  {
+    "path": "parts/AB-G315-005/AB-G315-005.svg",
+    "sha256": "e3a5289441bc5059485c77198a9aa6493dce7961b44cf4a462036fe14badf2ca",
+    "bytes": 25278
+  },
+  {
+    "path": "parts/AB-G315-002/AB-G315-002.step",
+    "sha256": "fc73d0d0e7a4e7a5f2eed10b448e86d0455249b8e7a4ada363303a94d421946f",
+    "bytes": 15620
+  },
+  {
+    "path": "parts/AB-G315-002/AB-G315-002.svg",
+    "sha256": "9cbfb5a14572271fad70fe14071a7fe39d5db982cb37c3c75a1700f4c3b2ab0c",
+    "bytes": 4528
+  }
+]
