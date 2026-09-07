@@ -1,0 +1,86 @@
+[
+  {
+    "path": "favicon.svg",
+    "sha256": "1eeab2f15de597a1a4f02d10cd9c5f00b0d534f3fe612450807dc7c28bb6f5c8"
+  },
+  {
+    "path": "research.json",
+    "sha256": "176ae13c84908014d3d0879505935e73cbdceeda68930a9d96349324c58339fe"
+  },
+  {
+    "path": "downloads/engineering-handbook.md",
+    "sha256": "28f0a4ce624ddc6c53a5b16085325c5f33ae5fb85f9af8a2eed243cfee9a737c"
+  },
+  {
+    "path": "downloads/supplier-requirements.csv",
+    "sha256": "1a231f53cd275237230ccb107c77cac13c8f398d2d4f52eb09316b8da779bfe0"
+  },
+  {
+    "path": "downloads/requirements-template.csv",
+    "sha256": "235e026602bb457134fb3b738c09ee05419072a3f8929c2437faedc167358dbb"
+  },
+  {
+    "path": "downloads/product-portfolio.md",
+    "sha256": "68d2eb1c88aa79a1158ebc1d4cd37d275dbf7ad7dec3d26cd49f75653d3d23af"
+  },
+  {
+    "path": "downloads/programme-and-budget.md",
+    "sha256": "54ef77861ecd1aedca4f02f0ee92aba454b9c6b2ef6baedaa29b3711651a13cd"
+  },
+  {
+    "path": "downloads/research-method.md",
+    "sha256": "e7b40bf240f7e21f4e773990dfcafe9913450b194740e104c9b798c8a9bc398a"
+  },
+  {
+    "path": "downloads/domain-handoff.md",
+    "sha256": "0e6d4f3d8db54f4f5c0f6e3d489d67527efa7d8aba14399d64a6ca1f45d9a0bc"
+  },
+  {
+    "path": "downloads/reviewed-specifications.csv",
+    "sha256": "85b29ed293d9b6e8c788f3654fa239d06bc4701f8afa163f909d592b6e0900be"
+  },
+  {
+    "path": "downloads/portfolio.csv",
+    "sha256": "47d4a3317e8993178acea23ba0e9a2862f73bbcdfade46263a63ea50e4e73d5c"
+  },
+  {
+    "path": "downloads/engineering-handbook.pdf",
+    "sha256": "d266943f68db0af4f048ebcb9615db06d613d14fe272d863514d0db76b608199"
+  },
+  {
+    "path": "downloads/build-log-2026-09-07.md",
+    "sha256": "c561a2b573ead7f95281a1f458959097c236ec218e13236c5f1a908d6c930e38"
+  },
+  {
+    "path": "downloads/collection-galvi.md",
+    "sha256": "9822a465aacf338de4b317e9e3ac75c4cbdd1cc868ba10391222c0c2e5b893fa"
+  },
+  {
+    "path": "downloads/collection-dellner-bubenzer.md",
+    "sha256": "586dd912234f908858f8d473d46e9a3a526d7cb3402237119f0a95f89ad9b702"
+  },
+  {
+    "path": "downloads/collection-sibre.md",
+    "sha256": "129f44a17a674057f297ef92c64489e1c37c9c02e71ae9ed5bbaef357721bcd0"
+  },
+  {
+    "path": "downloads/collection-stromag.md",
+    "sha256": "912dd47eed0af602141e27fe62e2bc78df9c252c267af07a7b95a422e28bdbef"
+  },
+  {
+    "path": "downloads/collection-twiflex.md",
+    "sha256": "d5bb0c790468723cfc6563e4aa5dafe1fcb04c4b01d8edff85d4b1c47494ef9d"
+  },
+  {
+    "path": "downloads/collection-svendborg.md",
+    "sha256": "278a2247fbbc3188f4497fe860b53dc45b2172d9c5ca7f1274f9f7e9bd90551d"
+  },
+  {
+    "path": "downloads/collection-mondel.md",
+    "sha256": "80ad386a02db045341d7f0953411399dfeea347a6cae543b2802bf4d9b1edfd9"
+  },
+  {
+    "path": "downloads/collection-emg.md",
+    "sha256": "67bf12df76140b522d54ec3ef43ca3eceadbc43c42cce79176e73e0f6fec8895"
+  }
+]

@@ -1,0 +1,38 @@
+HYDRO GALVI Thrusters
+Category: Thrusters
+Source: http://www.galvi.com/moduli/catalogo/schedatecnica/33
+Manufacturer: GALVI / Newcomen S.r.l., Lissone (MB), Italy
+India plant: GALVI Engineering Pvt Ltd, Musalgaon, Sinnar, Nashik
+
+HYDRO GALVI Thrusters
+HYDRO GALVI a.c. Thrusters, IP.65, class F,     with oil for ambient temperature from - 20 °C   to + 55 °C
+STANDARD FEATURES
+• Chromed stainless steel piston rod
+• Suitable for ambient temperature from - 20 °C to + 55 °C
+• Electric a.c. motor, V. 220/380 – Hz 50 or V. 230/400 – Hz 50 or     V. 240/415 – Hz 50, IP.65, class F, star connected
+• Oil type HLP32, DIN 51525 from HYD.023/05 to HYD.081/06     and type HL10, DIN 51524, part. 3 from HYD.121/06 to HYD.301/06
+• Self lubricating bushes for lower pin
+• Galvanized hinge for upper pin
+• Galvanized screw cap for oil fill and oil drain
+• Aluminium Motor Housing, Reservoir and Terminal Box Cover
+• Epoxy antisalt paint final colour LIGHT GREY RAL 7001
+• Foot can be unscrewed and turned 90 degrees for models 121, 201  and 301
+AVAILABLE OPTIONAL  ITEMS
+• Special a.c. electric motor for any Voltage, Hz 50 or Hz 60  (V-Hz)
+• Long stroke version for models 050, 080, 121, 201 and 301 (.../12)
+• Lowering valve
+(not available for Thrusters 024, 031, 051 and 081) (LO)
+• Lifting valve
+(not available for Thrusters 024, 031, 051 and 081) (LI)
+• Internal springs
+(not available for long stroke Thrusters”... /12”) (IS)
+• VITON seals (VIT)
+• Foot turned 90 degrees for models 023, 030, 050 and 080 (90)
+• Open position mechanical limit switch (SWMU)
+• Closed position mechanical limit switch (SWML)
+• Open position inductive limit switch (SWIU)
+• Closed position inductive limit switch (SWIL)
+• Heater V. 110 - Hz 50 or V. 220 - Hz 50 (HEA)
+We reserve the right to change any data without notice
+All rights reserved
+All dimensions in mm, if not differently stated.

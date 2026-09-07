@@ -1,0 +1,204 @@
+Services
+Design
+Products
+Supply chain
+Aftermarket
+- ROADSHOW
+- Service Support
+- Genuine Parts
+- Authentication
+- Service Tools
+- Yaw Disc Resurfacing
+- Green Friction Material
+- Buy online
+- Service Support App
+Design
+Products
+Supply chain
+Aftermarket
+- ROADSHOW
+- Service Support
+- Genuine Parts
+- Authentication
+- Service Tools
+- Yaw Disc Resurfacing
+- Green Friction Material
+- Buy online
+- Service Support App
+Markets
+Wind
+Mining
+Container Handling
+- Brakes
+- Hydraulic Power Units
+- Controlled Braking
+- Monitoring
+- Braking Simulator
+- Barrel Couplings
+- Discs & Couplings
+- Buffers
+- Limit Switches
+- Other Products
+- Tailor-Made Solutions
+- Aftermarket
+Oil & Gas
+Marine
+Hydro
+Tidal
+Other
+Wind
+Mining
+Container Handling
+- Brakes
+- Hydraulic Power Units
+- Controlled Braking
+- Monitoring
+- Braking Simulator
+- Barrel Couplings
+- Discs & Couplings
+- Buffers
+- Limit Switches
+- Other Products
+- Tailor-Made Solutions
+- Aftermarket
+Oil & Gas
+Marine
+Hydro
+Tidal
+Other
+Products
+Hydraulic Brakes
+- Active Brakes
+- Failsafe Brakes
+Hydraulic Power Units
+Brake Pads
+- Brake Pads Organic
+- Brake Pads Sinter
+- Brake Pads Green Solution
+- Brake Pads Polymer
+Connectivity
+- Gateway
+- UCCase
+- Braking Controls
+Braking Controls
+Cooling Systems
+Couplings
+Yaw Systems
+Thruster Brakes
+Rotor Locks
+Storm Brakes
+Brake Discs
+Service Tools
+- Disc Resurfacing Tools
+- Lifting Tools
+- Yaw Noise Reduction
+- Piston Extractor
+Spare Parts
+Hydraulic Brakes
+- Active Brakes
+- Failsafe Brakes
+Hydraulic Power Units
+Brake Pads
+- Brake Pads Organic
+- Brake Pads Sinter
+- Brake Pads Green Solution
+- Brake Pads Polymer
+Connectivity
+- Gateway
+- UCCase
+- Braking Controls
+Braking Controls
+Cooling Systems
+Couplings
+Yaw Systems
+Thruster Brakes
+Rotor Locks
+Storm Brakes
+Brake Discs
+Service Tools
+- Disc Resurfacing Tools
+- Lifting Tools
+- Yaw Noise Reduction
+- Piston Extractor
+Spare Parts
+Company
+Contact
+About Us
+- Global Footprint
+- Safety!
+- Corporate Social Responsibility
+- Certificates
+Resources
+- Case Studies
+- Film
+- Spotlights
+ROADSHOW
+Trade Shows
+Career
+- Our way
+- Job openings
+Legal
+- Disclaimer
+- Cookie Policy
+Contact
+About Us
+- Global Footprint
+- Safety!
+- Corporate Social Responsibility
+- Certificates
+Resources
+- Case Studies
+- Film
+- Spotlights
+ROADSHOW
+Trade Shows
+Career
+- Our way
+- Job openings
+Legal
+- Disclaimer
+- Cookie Policy
+Home
+❱
+Markets
+❱
+Container Handling
+❱
+Braking Simulator
+Introduction
+Key Benefits
+Braking Simulator
+The DYNO is a perfect dynamic tool to demonstrate real-life situations in laboratory conditions. The advanced algorithms of the DYNO shows 1:1 situations from various applications during braking processes. These include variable loads and speed. Such demo processes are essential in order to understand the philosophy behind controlled  braking systems.
+HW Parameters
+>
+7,5 kW motor with VFD
+>
+3 flywheels total
+>
+2 flywheels, each connected with electromagnetic clutch.
+>
+SB failsafe Brake BSFI 205 hydraulic system
+>
+New PLC Beckhoff
+>
+Control stand with integrated monitor
+>
+Strong safety features
+SW Parameters
+>
+12 different braking scenarios to simulate real customer configurations.
+>
+Possibility of creating additional user scenarios
+>
+Direct control mode – direct control of motor, brake and clutches
+>
+Connected to the IoT cloud with the possibility of detailed analysis of measured values
+>
+Remote support/control via secure VPN connection
+Product Info
+Controlled Braking Simulator Product Sheet
+Brochures
+Storm Brakes
+Port Crane Products
+Contact Us
+Contact

@@ -1,0 +1,63 @@
+Steuerung für elektrohydraulische Trommel- und Scheibenbremsen
+EMG BRAKEMATIC
+®
+Mit EMG BRAKEMATIC
+®
+-Steuerungen können Sie mehrere elektrohydraulische Trommel- und Scheibenbremsen gleichzeitig steuern, wenn die Funktionen und Arbeitsweisen der Bremsen identisch sind.
+Sprechen Sie uns an
+Broschüre
+Funktionsprinzip
+Grundsätzlich bestehen
+EMG BRAKEMATIC
+®
+Steuerungen für elektrohydraulische Trommel- und Scheibenbremsen aus einem programmierbaren Frequenzumrichter (FU) mit Funktionsbausteinen, wie Pedal, interne oder externe Parametrierschnittstelle und Prozessreglermodul mit Messwertaufnehmer.
+Am Ausgang des FU wird eine Frequenzänderung erzeugt. Diese wird zur Ansteuerung eines elektrohydraulischen Hubgerätes benutzt, um dessen hydraulische Kraft zu variieren. Die resultierende Stellkraft des
+EMG ELDRO
+®
+wirkt der Bremskraft des Bremsensystems entgegen, wodurch eine Regulierung des Bremsvorganges erreicht wird.
+Unter bestimmten Voraussetzungen können mit einer
+EMG BRAKEMATIC
+®
+Steuerung auch mehrere Bremsen gleichzeitig betrieben werden: Dazu müssen die Funktionen und Arbeitsweisen der Bremsensysteme identisch sein und die Summe der Stromaufnahmewerte aller
+EMG ELDRO
+®
+s
+der ausgewählten Baugröße der Brakematic entsprechen.
+Implementierbare Funktionen
+Pedalsteuerung P:
+elektronische Pedalsteuerung mit manueller Parametervorgabe zur Erzeugung einer analog geführten Bremsung für dosiertes Abbremsen von Fahr- und Drehbewegungen
+Rampenfunktion R:
+elektronische Steuerung zur Erzeugung fester, vorprogrammierter Bremsmomentenverläufe zur Realisierung zwangsgeführter Öffnungs- und Schließungsbewegungen
+Advance:
+elektronische Steuerung mit variabler Parametervorgabe zur Erzeugung geregelter Bremsmomentenverläufe, z. B. bei konstanten Bremszeiten in komplexen Förderbandsystemen oder als ABS-System für Fahr- und Katzfahrzeuge
+Technische Details erhalten Sie gerne auf Anfrage.
+Kundennutzen
+Realisierung geregelter Bremsvorgänge mit einer definierten Zeitvorgabe
+Flexibles Anhalten der Förderlinie – unabhängig von Beladung und Neigung der Bänder
+Vermeidung von Überschüttungen an Übergabestellen
+Entfallen der Zwischenbunker beim Bau neuer Förderbandlinien
+In diesen Branchen zuhause
+Häfen (Container / Schüttgut)
+EMG ELDRO
+®
+und EMG ELHY
+®
+: EMG-Bremslüftgeräte stehen für höchsten technologischen Standard und finden sich auf Krananlagen und Containerbrücken in allen Häfen der Welt.
+Rohstoffgewinnung / -handling
+Bei der Rohstoffgewinnung vertrauen Anlagenbetreiber weltweit den Qualitätsprodukten unseren Sicherheitskomponenten EMG ELDRO
+®
+und ELHY
+®
+.
+Schon seit 1931 existieren EMG-Aktuatoren ELDRO
+®
+als eingetragene Marke und sind damit also bereits seit mehr als 90 Jahren erfolgreich am Markt – ein wahnsinniges Erfolgsprodukt!
+EMG ELDRO
+®
+erfüllt alle Ansprüche unserer Kunden, erhöht die Sicherheit ihrer Bremsen und ist zu 100 % geprüft.
+Mit diesem Anspruch setzt EMG den Industriestandard für elektrohydraulische Bremslüfter.
+Wladimir Peters
+Sales Manager EMG ELDRO
+®
++49 2762 612-317
+wladimir.peters(at)emg-automation.com

@@ -1,0 +1,349 @@
+# SIBRE collection report
+
+Official entry: [SIBRE](https://www.sibre.de/downloads/)
+
+Siegerland-Bremsen GmbH, identified on the technical sheets.
+
+## Product families
+
+Drum and disc brakes, rail brakes, buffers, hydraulics and monitoring.
+
+## Our interpretation
+
+The download centre provides many dimensioned technical sheets. Keep model suffixes, air gaps and release-pressure conditions attached to each extracted value.
+
+## Collection coverage
+
+75 HTML responses; 119 distinct PDF hashes; 201 failed or deferred URLs. These are collection counts, not products or market shares.
+
+Document revisions are only confirmed in reviewed specification records where identified. Other revisions remain unknown or unreviewed candidates. Public availability does not establish current orderability.
+
+## Retrieved documents
+
+- [AGB_EN_2018.pdf](https://www.sibre.de/wp-content/uploads/2025/05/AGB_EN_2018.pdf) — SHA-256 `93179114f19b8d5830300ddc89941b2f7a07596782eb3be73cdd6f83bf57fe5a`, 2 pages; catalogue reference.
+- [Hydraulik-Aggregat KA.2](https://www.sibre.de/wp-content/uploads/2026/01/Aggregat-KA-2.pdf) — SHA-256 `592ed411ef24c2e27f9c9a5998c75d255908de0c8cd557f853a54a66be7b27d3`, 2 pages; catalogue reference.
+- [RTCB 700](https://www.sibre.de/wp-content/uploads/2025/09/RTCB-700_2025.pdf) — SHA-256 `303e45e87f64cde5a69ddbb65d179f486a22d84fa41f346e42448a044e7746af`, 1 pages; catalogue reference.
+- [SBH Elhy](https://www.sibre.de/wp-content/uploads/2025/08/SBH_Elhy.pdf) — SHA-256 `6ffad6f47b21ebfe8df63d20a6812350c3d80c8345aae5bd0ca6fb846ad58283`, 1 pages; catalogue reference.
+- [Schienenzange RB-SL (selbsthemmend)](https://www.sibre.de/wp-content/uploads/2025/07/RB_SL-2025-1.pdf) — SHA-256 `c3e3d187afe9adee30370ed7a6ae4e0f82896efd9a859dba12c56cffa10188f9`, 2 pages; catalogue reference.
+- [ISO Zertifikat](https://www.sibre.de/wp-content/uploads/2025/05/ISO_9001-GER-10000406844-MSC-RvA-DEU-2-20240604.pdf) — SHA-256 `47a7da8e29b187a61e201d5a7704b406c2ceff9bcef2b799134ee6f65c4c546c`, 2 pages; catalogue reference.
+- [Führungsrollen](https://www.sibre.de/wp-content/uploads/2024/08/Rollenfuehrung-fuer-Laufradsaetze-DIN-15090.pdf) — SHA-256 `a1cbcf23f2810c186bf6ddaa5f77587822cd0574827427fc5c157816d975f317`, 2 pages; catalogue reference.
+- [Schienenzange RB-NC-500 (freihebend)](https://www.sibre.de/wp-content/uploads/2024/04/RB-NC-500_2024-1.pdf) — SHA-256 `f5492de4a38fe1ffd02a1eb20777aeff50a3ac86017b2d9493ee238f12838a93`, 2 pages; catalogue reference.
+- [Hydraulikpuffer SP](https://www.sibre.de/wp-content/uploads/2022/09/SIBRE-Hydraulik-Puffer-SP_2-1.pdf) — SHA-256 `084121bc280249b49c07446423bdd65fb5fa7019bcdab0cc39fd05fa5a26ab88`, 5 pages; catalogue reference.
+- [ED_2021.pdf](https://www.sibre.de/wp-content/uploads/2022/07/ED_2021.pdf) — SHA-256 `2ce582be1c8a7baf105fcf6af938c35dca30c361403c3fb525815577eaae9130`, 1 pages; catalogue reference.
+- [Typ SP](https://www.sibre.de/wp-content/uploads/2022/06/SIBRE-Hydraulik-Puffer-SP.pdf) — SHA-256 `9c71584853e512af6022b9cf379994ede479f9c54320a1111e0426fe0ba4cbc9`, 1 pages; catalogue reference.
+- [Bremsbacken und Beläge nach DIN 15435](https://www.sibre.de/wp-content/uploads/2022/06/Bremsbacken_2021.pdf) — SHA-256 `444fe1b392cd11c8e3329b2ca334ff1030d147df762701875700f9435e8da9be`, 1 pages; catalogue reference.
+- [Magnetsteuerung SCU](https://www.sibre.de/wp-content/uploads/2022/06/Magnetsteuerung_SCU.pdf) — SHA-256 `abe9a755c792e2199134b38af0e524ce2873ed65e12c840ccc2f695d536a48f4`, 2 pages; catalogue reference.
+- [Schutzhaube für SBH Baureihe](https://www.sibre.de/wp-content/uploads/2022/06/Schutzhaube_SBH_2021.pdf) — SHA-256 `8bbcd693b14a84d2c36b72b257f5e976f205cf8db616b9c58a3fa76b442d0ff2`, 1 pages; catalogue reference.
+- [Schutzhauben für Trommelbremsen TE](https://www.sibre.de/wp-content/uploads/2022/06/Schutzhaube_TE_2021.pdf) — SHA-256 `94535622a8e93accf5291370229ad7574f7f9f6e72f892e755ad41e732551028`, 1 pages; catalogue reference.
+- [Trommelbremse Optionen](https://www.sibre.de/wp-content/uploads/2023/06/Trommelbremsen_Optionen.pdf) — SHA-256 `ae4f47b54885b86e78647c62547ebf031f05d8d3e10811a4e600bb10f5fa43e1`, 2 pages; catalogue reference.
+- [Schienenzange RB (federbelastet)](https://www.sibre.de/wp-content/uploads/2023/09/Schienenzange-RB_2023_09.pdf) — SHA-256 `67740699fddb6a666a6ce20aa0481f8baf24fa9fefe0ad49308a9f838cbb60f8`, 2 pages; catalogue reference.
+- [RHI 100 FC](https://www.sibre.de/wp-content/uploads/2022/06/Radbremse-RHI-100-FC-2021.pdf) — SHA-256 `83c4a817e2b66fedcbd8f9eb9fd488716aff45b25dc46b9d45056fef37393b1f`, 1 pages; catalogue reference.
+- [RPS 800](https://www.sibre.de/wp-content/uploads/2022/05/RPS-800-2021.pdf) — SHA-256 `98d4b36fa4c761788dc4a1ba503f8762f98df9f44fa390af2df5c65b3438b829`, 1 pages; catalogue reference.
+- [RPS 610](https://www.sibre.de/wp-content/uploads/2022/05/RPS-610-2021.pdf) — SHA-256 `bcb43b4abe2c76ca65d85a8af64513ebf3c7c0e60d204614ff876e4aa5b6fbc8`, 1 pages; catalogue reference.
+- [RPS 450](https://www.sibre.de/wp-content/uploads/2022/05/RPS-450-2021.pdf) — SHA-256 `e97ff30b60c99eedb18e87dae69cb08f561989ffd1092bf6ebadea2e9b9cf639`, 1 pages; catalogue reference.
+- [RTCB 350 mit Schutzhaube](https://www.sibre.de/wp-content/uploads/2022/06/Schutzhaube-RTCB-350-2024.pdf) — SHA-256 `d19a6ae55dda1a71028454d950d9d66a1f679f38bd4d1cf7c9be9dcb8adf0d25`, 1 pages; catalogue reference.
+- [RPS 200 - 300](https://www.sibre.de/wp-content/uploads/2022/05/RPS-200-300-2021.pdf) — SHA-256 `168cb74aac7f219fb205b34f966e9c80fbac6aa295b029c4764af5eb95ac3139`, 1 pages; catalogue reference.
+- [RTCB 225 mit Schutzhaube](https://www.sibre.de/wp-content/uploads/2022/06/Schutzhaube-RTCB-225-2024.pdf) — SHA-256 `bc9f1d3c00c7d89bf3c4585ecac45839c25cfbef84263bca3852236085f96eaa`, 1 pages; catalogue reference.
+- [RTCB 350](https://www.sibre.de/wp-content/uploads/2022/06/RTCB-350_2024-2.pdf) — SHA-256 `349827bb46177149e7d6cd271b69281e3e6aef2d31f86caa7b3ff43901b190d1`, 1 pages; catalogue reference.
+- [RHI 30 - 125](https://www.sibre.de/wp-content/uploads/2022/06/Radbremse-RHI-30-125-2021.pdf) — SHA-256 `da1ff3cdf59cdb90786c8db7c1c8ef7778cf3fc73e064d611a2177f9f7b7440f`, 1 pages; catalogue reference.
+- [RTCB 225](https://www.sibre.de/wp-content/uploads/2022/06/RTCB-225_2024.pdf) — SHA-256 `7fabab9f3c59fb7e01ebd93ca13e5865627a1128ba6ca32bf063ab8bbede5c8c`, 2 pages; catalogue reference.
+- [SDT - Sensor Data Transducer](https://www.sibre.de/wp-content/uploads/2022/06/S2-12_2_EN_SDT_2015-02.pdf) — SHA-256 `408bf01e5fdb9afd4836ad41b38deb0b172995c076542816b5d29e84edc79974`, 2 pages; catalogue reference.
+- [SMT - SMART Monitor Terminal](https://www.sibre.de/wp-content/uploads/2022/06/S2-12_1_EN_SMT_2016-02.pdf) — SHA-256 `900e29283506e4c2508d3e2887d7816e5a90d27b1e1a1039df145fd3599a933c`, 3 pages; catalogue reference.
+- [SIBRE Status Monitoring SSM](https://www.sibre.de/wp-content/uploads/2022/06/Monitoring-System-SSM_2020_01_DE-1.pdf) — SHA-256 `d920e9a3e57fcb2fcd5a6d51f9636ed7bb5c117769383cdc747a48a61c9b4724`, 1 pages; catalogue reference.
+- [APC-BT - Elastische Bolzenkupplung mit Bremstrommel Elastische Bolzenkupplung mit Bremstrommel](https://www.sibre.de/wp-content/uploads/2022/05/APC-BT_2021.pdf) — SHA-256 `d2fa46394bbd2a9717e016f0f88faf1ff963f8c8c077141433e25e90f4a31593`, 1 pages; catalogue reference.
+- [APC-AT - Elastische Bolzenkupplung mit Bremstrommel Elastische Bolzenkupplung mit Bremstrommel](https://www.sibre.de/wp-content/uploads/2022/05/APC-AT_2021.pdf) — SHA-256 `2434e7cd94840f0eb51b148deab011df7384c0c7af1d4e91b50e95beee9982bf`, 2 pages; catalogue reference.
+- [APC-A - Drehelastische Bolzenkupplung ohne Bremstrommel](https://www.sibre.de/wp-content/uploads/2022/05/APC-A_2021-1.pdf) — SHA-256 `83c905e28443f3205f5d1a84c5f33fda2617a971723ef7d778c7abf04e03a5b6`, 1 pages; catalogue reference.
+- [ALC-AT - Drehelastische Kupplung (3-teilig) mit Bremstrommel](https://www.sibre.de/wp-content/uploads/2022/09/ALC-AT_2021.pdf) — SHA-256 `9af36e5759220e66f95739081005bf3222deac98847cfd6a5ccda6787e711608`, 1 pages; catalogue reference.
+- [ALC-A - Drehelastische Kupplung (3-teilig) ohne Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/ALC-A_2021.pdf) — SHA-256 `65e239371a8994e5497f649d2794c5cfc2137577a2a91d3968756865a9528566`, 1 pages; catalogue reference.
+- [Bremstrommel nach DIN 15431 (M 1501 135 E) ohne Nabe mit mittigem Steg](https://www.sibre.de/wp-content/uploads/2022/06/Bremstrrommel-135E_2021.pdf) — SHA-256 `e73a4925a49358734920b8b3fbf44f5ce8a73da627464b58406c59a4ce211811`, 1 pages; catalogue reference.
+- [Bremstrommel nach DIN 15431 (M 1501 95 E) mit Nabe auf seitlichem Steg Bremstrommel nach DIN 15431 (M 1501 95 E) mit Nabe auf seitlichem Steg](https://www.sibre.de/wp-content/uploads/2022/05/Bremstrrommel-95E_2021.pdf) — SHA-256 `0e02f5cbb5a02a57e2f9e8dd98c1ae33ace34588bd1c125bac464ba3ffcbfaab`, 1 pages; catalogue reference.
+- [Bremstrommel nach DIN 15431 (M 1501 94 E) mit Nabe auf mittigem Steg Bremstrommel nach DIN 15431 (M 1501 94 E) mit Nabe auf mittigem Steg](https://www.sibre.de/wp-content/uploads/2022/05/Bremstrrommel-94E_2021.pdf) — SHA-256 `73868462e171846906012eb7f507ff1a8a69d8c27e33d0be44f8be5f1eddd8ed`, 1 pages; catalogue reference.
+- [ZKES - Zahnkupplung mit Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/06/ZKES_2021.pdf) — SHA-256 `19a9a6e253ce3f45af620343e7d6b93ddd2eb8295ddf4c2a08176c6dcd5c4c1e`, 2 pages; catalogue reference.
+- [ASC-AS - Ganzstahl-Lamellenkupplung mit Bremsscheibe Ganzstahl-Lamellenkupplung mit Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/ZS1-12-13_DE_ASC-AS_2009-09.pdf) — SHA-256 `729adb2aba63b18cfc4387aa9834ed04dca07b4ca6dff90a1ff6f978d6b03eff`, 2 pages; catalogue reference.
+- [APC-AS - Drehelastische Bolzenkupplung mit Bremsscheibe Drehelastische Bolzenkupplung mit Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/APC-AS_2021.pdf) — SHA-256 `8f31e51eefb80e1599ff11766cc30cfc4b2aff47f49f8a107ec1eafd92ea114d`, 2 pages; catalogue reference.
+- [APC-A - Drehelastische Bolzenkupplung ohne Bremsscheibe Drehelastische Bolzenkupplung ohne Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/APC-A_2021.pdf) — SHA-256 `528435d35a60633f197743e47b3bab41474e7a9db77ef2c093d15667ced6e4c6`, 1 pages; catalogue reference.
+- [AFC-AS - Drehelastische Kupplung (5-teilig) mit Bremsscheibe Drehelastische Kupplung (5-teilig) mit Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/AFC-AS_2021-1.pdf) — SHA-256 `63d5dfd79f29421407f137d41f3259cdc5feb039760824dea3efd63595dc2706`, 1 pages; catalogue reference.
+- [AFC-A - Drehelastische Kupplung (5-teilig) ohne Bremsscheibe Drehelastische Kupplung (5-teilig) ohne Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/AFC-A_2021-1.pdf) — SHA-256 `a08a8999906666f33e98d591a29cee4d2a148081df6b64abf4fe0e762ec0f84d`, 1 pages; catalogue reference.
+- [ALC-AS - Drehelastische Kupplung (3-teilig) mit Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/06/ALC-AS_2021.pdf) — SHA-256 `a5b28a917a5816ef3a201ec8a8547a505421f1140faa77f4597519230e099c6c`, 1 pages; catalogue reference.
+- [N - Nabe mit angeschraubter Bremsscheibe Nabe mit angeschrauber Bremsscheibe](https://www.sibre.de/wp-content/uploads/2022/05/Nabe-mit-Scheibe_2021.pdf) — SHA-256 `02302fa5738a90f82fd647308e29151ec3a4eb25ba874855cf0fc3bcb7a71176`, 1 pages; catalogue reference.
+- [S-Bremsscheiben Bremsscheiben](https://www.sibre.de/wp-content/uploads/2022/05/Bremsscheiben_2021.pdf) — SHA-256 `e4d74cfec2a835f9bb4327e15fa18266fc77e02048475f6cbfb841ae30fc9948`, 1 pages; catalogue reference.
+- [USB 5 V](https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_2021.pdf) — SHA-256 `f02c6a6ad5c34524a89aa76c97f890194eb7d047bbf1bc27f4820c73bc0a78b3`, 1 pages; catalogue reference.
+- [USB 5 V ELHY](https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_ELHY_2021_01-1.pdf) — SHA-256 `ad903a896c6933cc89101d13f1a15c5df0865387bd29f2b035f382e9b390aaa4`, 1 pages; catalogue reference.
+- [USB 5 III](https://www.sibre.de/wp-content/uploads/2022/05/USB5_III_2021.pdf) — SHA-256 `54d5d9d01892f910fb0ac3631fc757bce74307b50f26060de6b194aa2fdc7268`, 1 pages; catalogue reference.
+- [Tonnenkupplung ABC-V](https://www.sibre.de/wp-content/uploads/2022/05/Tonnenkupplung-ABC-V_2023.pdf) — SHA-256 `269f9461b751f08736761df31527efb8f67ec06c1010ad01abba032e3f5a2f5c`, 18 pages; catalogue reference.
+- [SHI & SHI-FC Technische Daten](https://www.sibre.de/wp-content/uploads/2022/05/SHI_Technische-Daten_2021.pdf) — SHA-256 `0898cc6261c41fdfea5d757a3ec20e31765acb72821af0b022acaa69544d0a11`, 1 pages; catalogue reference.
+- [SHI Produktübersicht](https://www.sibre.de/wp-content/uploads/2022/05/SHI_Produktuebersicht_2021.pdf) — SHA-256 `ef9ec93ef5a9e0d6350b781058851833910b100a463747052b83dc8ea75b0eac`, 1 pages; catalogue reference.
+- [SHI-FC Anordnungsbeispiele](https://www.sibre.de/wp-content/uploads/2022/05/SHI_FC_Anordnungsbeispiele_2021.pdf) — SHA-256 `a8d30ea943c0dcfd163debbf5b06017ac03d2a0e953ddedf107365cdd16ce444`, 1 pages; catalogue reference.
+- [SHI Auswahl Hydraulikaggregate](https://www.sibre.de/wp-content/uploads/2023/05/SHI_Auswahl_Hydraulikaggregate_2021-1.pdf) — SHA-256 `e7e374f7612957528bfc1c691f14b2889e685b002063f0177ce35ee969440b07`, 1 pages; catalogue reference.
+- [SHI Anordnungsbeispiele](https://www.sibre.de/wp-content/uploads/2022/05/SHI_Anordnungsbeispiele_2021.pdf) — SHA-256 `931670058e27191974d77616f65579f3edb212baf71e2ef35c787a999344b45c`, 1 pages; catalogue reference.
+- [SHI 281 & 282](https://www.sibre.de/wp-content/uploads/2022/05/SHI_281-282_2021.pdf) — SHA-256 `602bd7d67261abc3bc2377db24b09f4f51fff279bfecdccb1d6928c5897af48b`, 1 pages; catalogue reference.
+- [SHI 280 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_280_FC_Konsole_2021.pdf) — SHA-256 `b2b47ac85f3f9bc1d2a3ad789265aec589d1d39297b28a99a70a8ce15ae589c0`, 1 pages; catalogue reference.
+- [SHI 280 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_280_FC_Flansch_2021.pdf) — SHA-256 `ff78f82f4e5130ea648da3259fc8ffb90ee4f72559a08a360c48d26af02200a4`, 1 pages; catalogue reference.
+- [SHI 251 & 252](https://www.sibre.de/wp-content/uploads/2022/05/SHI_251-252_2021.pdf) — SHA-256 `ca3b555b0ff4c761f13192f59232698c83e2c32c468bcfcaae58cb61293a49a0`, 1 pages; catalogue reference.
+- [SHI 250 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_250_FC_Konsole_2021.pdf) — SHA-256 `fed85af7c1cbabea3e8fa610da6ceef37eac54d21c846c4be849f01597b70811`, 1 pages; catalogue reference.
+- [SHI 250 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_250_FC_Flansch_2021.pdf) — SHA-256 `15504ea0a649f3f81a84e601d137afc59791c7a5638e9751877044868623c666`, 1 pages; catalogue reference.
+- [SHI 231 & 232](https://www.sibre.de/wp-content/uploads/2022/05/SHI_231-232_2021.pdf) — SHA-256 `b526d0d7253acc2068a34995759c9ad0b4c73a4563d7b5d0f0a9e05fae9cd2ac`, 1 pages; catalogue reference.
+- [SHI 230 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_230_FC_Konsole_2021.pdf) — SHA-256 `16db8a3412f5494847be83774bfbd25642caedb2a097a17ec645b7e1ba131e59`, 1 pages; catalogue reference.
+- [SHI 201 & 202](https://www.sibre.de/wp-content/uploads/2022/05/SHI_201-202_2021.pdf) — SHA-256 `ef26de1eb6f9d2d62b217b3e223410abb47d37971a722cc1e074d6977fa2b4ed`, 1 pages; catalogue reference.
+- [SHI 200 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_200_FC_Konsole_2021.pdf) — SHA-256 `08fe9e03aeb12e5c7a9b0ec40788a3703d273b99cd0652dafe127b40c8b6d689`, 1 pages; catalogue reference.
+- [SHI 200 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_200_FC_Flansch_2021.pdf) — SHA-256 `5395d0be53fc2dc8c3c95baa045740f297f3af8a8198ad565c45bf107fe20918`, 1 pages; catalogue reference.
+- [SHI 161 & 162](https://www.sibre.de/wp-content/uploads/2022/05/SHI_161-162_2021.pdf) — SHA-256 `9050589cca8e14f4b902321ee7363f4cd9aa7fb71e0069ea352f0374bc1acb0c`, 1 pages; catalogue reference.
+- [SHI 160 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_160_FC_Konsole_2021.pdf) — SHA-256 `fa64fad7e944f2fde5d3e84db1b880759b0c24327c0990f10614370d6db3267f`, 1 pages; catalogue reference.
+- [SHI 160 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_160_FC_Flansch_2021.pdf) — SHA-256 `658d80e05b4ad852e03ba07ffaafe8be15097ec1029e26721c5fc02a08b13ca8`, 1 pages; catalogue reference.
+- [SHI 106 & 107](https://www.sibre.de/wp-content/uploads/2022/05/SHI_106-107_2021.pdf) — SHA-256 `b88444334f5572c0d6726b8c55ce5b7a9c63b17f7547f7ec2d0411bdf30f4f54`, 1 pages; catalogue reference.
+- [SHI 104 & 105](https://www.sibre.de/wp-content/uploads/2022/05/SHI_104-105_2021-1.pdf) — SHA-256 `6242f5b666f1feeb5d85122d2669348ccaea5e8cc4450ab8371ad92d2e53d67b`, 1 pages; catalogue reference.
+- [SHI 103](https://www.sibre.de/wp-content/uploads/2022/05/SHI_103_2021-1.pdf) — SHA-256 `4f0f0c71871faf8e4585ae06a0b3df194f30d61047a2f6fbe40e94514d62f0f8`, 1 pages; catalogue reference.
+- [SHI 100 FC mit Konsole](https://www.sibre.de/wp-content/uploads/2022/05/SHI_100_FC_Konsole_2021-1.pdf) — SHA-256 `3516a37df06b0599f5554e1ed87fe321c7e8e0b0202fac6d4a47552bfdc1199f`, 1 pages; catalogue reference.
+- [SHI 100 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_100_FC_Flansch_2021-1.pdf) — SHA-256 `054f8ffd1920593a74106b321b09713186ee9203dc923348adcd3ba91b6260f3`, 1 pages; catalogue reference.
+- [SHI 75 FC mit Flansch](https://www.sibre.de/wp-content/uploads/2022/05/SHI_75_FC_Flansch_2021-1.pdf) — SHA-256 `4a14a7b961599867fc357c1b1e66a03a5897a374970465df8d395f70be1e791e`, 1 pages; catalogue reference.
+- [SHI 75 2021](https://www.sibre.de/wp-content/uploads/2022/05/SHI_75_2021.pdf) — SHA-256 `87cfb89eebcbc66d97b77862e97d838c7d80bd679791ee2e9e3db48e398bdbd3`, 1 pages; catalogue reference.
+- [Laufradsätze SRA/SRN](https://www.sibre.de/wp-content/uploads/2022/05/Laufradsysteme-SRA-SRN_2024pdf.pdf) — SHA-256 `e5a73844b6d01476de8eeedca7d3d05203b2cd1eca1f6d58b1d7f7c5b41ea921`, 32 pages; catalogue reference.
+- [Laufradsysteme](https://www.sibre.de/wp-content/uploads/2022/05/Laufradsysteme_2021.pdf) — SHA-256 `907191f38719222d646622e4dec4dedafc9c08bc4cdd61c87b9f9027c84c7e98`, 12 pages; catalogue reference.
+- [Information für die Funktionsweise](https://www.sibre.de/wp-content/uploads/2022/05/Hydraulikaggregat-Funktionsbeschreibung_2021.pdf) — SHA-256 `a5007faf82163e53d9d9fb51ff3f4b162818766162bba07d24353908df39ea4a`, 1 pages; catalogue reference.
+- [Typ H-SF3 Schutzhaus](https://www.sibre.de/wp-content/uploads/2022/05/Schutzhaus-H-SF3_2021.pdf) — SHA-256 `2586305a3c6ea913dcb7def42f384745b239f257e593247ea3953a5a6f2133f8`, 1 pages; catalogue reference.
+- [Hydraulik-Aggregat H-SF3-SB](https://www.sibre.de/wp-content/uploads/2022/05/Aggregat-H-SF3_SB_2021.pdf) — SHA-256 `3118c014ba0d73e16701a30e6ab7de597ad2607aa57df1073834075a8bf2ed3d`, 1 pages; catalogue reference.
+- [Typ H-SF3 Schutzhaube](https://www.sibre.de/wp-content/uploads/2022/05/Schutzhaube-H-SF3_2021-1.pdf) — SHA-256 `0d7eb348ba22ea665b43f6d70758a929fb446c0530aa16b986e6e29655dbeb65`, 1 pages; catalogue reference.
+- [Hydraulik-Aggregat H-SF3](https://www.sibre.de/wp-content/uploads/2022/05/Aggregat-H-SF3_2021-1.pdf) — SHA-256 `107d1d6a589c850c7864322c8ee1bad94d71c52fcde690d875c544818ff39429`, 2 pages; catalogue reference.
+- [Hydraulik-Aggregat V2](https://www.sibre.de/wp-content/uploads/2023/05/Aggregat-V2_2023.pdf) — SHA-256 `a5a0fa253a1bedb856013962c98df824b485403d4cb75c7035965c0f097ccffc`, 2 pages; catalogue reference.
+- [TE_2021.pdf](https://www.sibre.de/wp-content/uploads/2023/04/TE_2021.pdf) — SHA-256 `ec4cacb8eba8bf79cb2cdacafc07a71d930d129a27e32a6d38b61c240923ca69`, 1 pages; catalogue reference.
+- [SBM_2021.pdf](https://www.sibre.de/wp-content/uploads/2024/07/SBM_2021.pdf) — SHA-256 `1db16909a2b939a6959211d23c9d3c6f35e00ed90ee6c726d231047479246d11`, 1 pages; catalogue reference.
+- [TMB_2021.pdf](https://www.sibre.de/wp-content/uploads/2022/05/TMB_2021.pdf) — SHA-256 `9e4eb21fd78918af01ea0743e388d136caef1de30be7141f0589c0962d8a55f4`, 1 pages; catalogue reference.
+- [THi_2021.pdf](https://www.sibre.de/wp-content/uploads/2023/04/THi_2021.pdf) — SHA-256 `ca70d3c06fb40c7b86fb7b9bae191f80d8d9f496ad68f1413c57590ea5bb95c5`, 1 pages; catalogue reference.
+- [TEc_2021.pdf](https://www.sibre.de/wp-content/uploads/2022/05/TEc_2021.pdf) — SHA-256 `910c29977b424abdcc968dfea2c34fe6c9ff7a0eab35f1edb2befce77b35e330`, 1 pages; catalogue reference.
+- [TM-I 40 / I 60](https://www.sibre.de/wp-content/uploads/2022/05/TM-I-40-TM-I-60_2021-1.pdf) — SHA-256 `f7952be9abfab450674573ab61cdce8b127d5a28da9c9c4d4053cb7bdd37c5b8`, 2 pages; catalogue reference.
+- [SBH Eldro](https://www.sibre.de/wp-content/uploads/2022/05/SBH_Eldro.pdf) — SHA-256 `cc7187cf12b150ebc6ac5d88a728141ba9507685d243ffd62f06cb352cacd5fc`, 1 pages; catalogue reference.
+- [SBG_2021.pdf](https://www.sibre.de/wp-content/uploads/2022/05/SBG_2021.pdf) — SHA-256 `8a01b47efe4cf7167a999f240279586158b725574a128b9f2aa6aff25f88d759`, 1 pages; catalogue reference.
+- [TPi_2021.pdf](https://www.sibre.de/wp-content/uploads/2023/04/TPi_2021.pdf) — SHA-256 `7fbb3034f4a28bcc39b55b1655dc42de9d1ed1f3ec8ff801ee96955d2c7ba46e`, 1 pages; catalogue reference.
+- [TE 160](https://www.sibre.de/wp-content/uploads/2022/05/TE_160_2021.pdf) — SHA-256 `7580458e75ecca27079be024b686a3da09a270c83d2b58bb4d89a4280ab73827`, 2 pages; catalogue reference.
+- [TE-I_2021.pdf](https://www.sibre.de/wp-content/uploads/2023/04/TE-I_2021.pdf) — SHA-256 `3faf38f3cf84c450953d1c693c65e3d520525ac73836d070a65ba29afc080854`, 1 pages; catalogue reference.
+- [CB8-H_2026.pdf](https://www.sibre.de/wp-content/uploads/2022/05/CB8-H_2026.pdf) — SHA-256 `6b009140a00067b4c8f91e2252668a6ebe53f40b67330e1d651934a473ea3cf1`, 1 pages; catalogue reference.
+- [CB8-M_2026.pdf](https://www.sibre.de/wp-content/uploads/2022/05/CB8-M_2026.pdf) — SHA-256 `6df2e04d05de63c2cba9a40c42ec33e08625a25d782af532d6329e27806e0861`, 1 pages; catalogue reference.
+- [CB8-P_2026.pdf](https://www.sibre.de/wp-content/uploads/2022/05/CB8-P_2026.pdf) — SHA-256 `0c99c306c0288bd4a9a4d4cd4c8db693e8feaea3a707071c5d1f8ce9ce358403`, 1 pages; catalogue reference.
+- [CB8-E_2026.pdf](https://www.sibre.de/wp-content/uploads/2022/05/CB8-E_2026.pdf) — SHA-256 `fe4a7e82b6c262f242850ba48b06d55c625a88aa6ea12d77ef7bfa2e43e9080b`, 1 pages; catalogue reference.
+- [TEXU G 800 - 1000](https://www.sibre.de/wp-content/uploads/2022/05/TEXU-G-800-1000_2021.pdf) — SHA-256 `10b07aa7f9d1e7860ab40f0c7e3f4cdd88462a27e5bdac7948397b54279908e1`, 1 pages; catalogue reference.
+- [TEXU G 630 - 710](https://www.sibre.de/wp-content/uploads/2022/05/TEXU-G-630-710_2021.pdf) — SHA-256 `1f52f6c4a72609f20d6a896858602f2446e9f866a859451643619f7df0aa12ae`, 1 pages; catalogue reference.
+- [USB 5 III ELHY](https://www.sibre.de/wp-content/uploads/2022/05/USB5_III_ELHY_2021.pdf) — SHA-256 `a7c860b2fe96389f4e044ade6c95fc1ad0406fa44258359bea51f2d877cbef9f`, 1 pages; catalogue reference.
+- [USB 5 II](https://www.sibre.de/wp-content/uploads/2022/05/USB5_II_2021.pdf) — SHA-256 `f228e8c5d5d0e2d7958afe2da0ebc082d1912ad1d61db8e6b2000865e5b288f5`, 1 pages; catalogue reference.
+- [USB 5 I ELHY](https://www.sibre.de/wp-content/uploads/2024/07/USB5_I_ELHY_2021.pdf) — SHA-256 `12b4efa1e919ff18926aa99f5abe62254f4fe3cc5d97060360741066ecc4d1e4`, 1 pages; catalogue reference.
+- [USB 5 I](https://www.sibre.de/wp-content/uploads/2022/05/USB5_I_2021.pdf) — SHA-256 `3f7d6884c4ae712bd12434904bae5d59fbacd734fdb35f70c37b0a77b6e2dc21`, 1 pages; catalogue reference.
+- [USB 5 05](https://www.sibre.de/wp-content/uploads/2022/05/USB5_05_2021_01-1.pdf) — SHA-256 `e6ea41c618c8d4aa8e04e7f7c0bcdb67ee9397b808b009392978e308111a625f`, 1 pages; catalogue reference.
+- [AGB_DE_2018.pdf](https://www.sibre.de/wp-content/uploads/2025/05/AGB_DE_2018.pdf) — SHA-256 `d56d0cf9853f8f6acaa9590df88c8cef4ef1d4fdec20aab4e70bf2fb3c04d522`, 2 pages; catalogue reference.
+- [Hydraulic Power Unit KA-2](https://www.sibre.de/wp-content/uploads/2026/01/HPU-KA2_EN.pdf) — SHA-256 `a4708701cd0c3e82beef1dd42c79e9cc596b43207850872b157f99508fd5bc1d`, 2 pages; catalogue reference.
+- [RTCB 700](https://www.sibre.de/wp-content/uploads/2025/09/RTCB-700-2025_EN.pdf) — SHA-256 `945263110e9bc12ef7099106a6be71c6424d2927618037a361337e0f510bb900`, 1 pages; catalogue reference.
+- [SBH Elhy](https://www.sibre.de/wp-content/uploads/2025/08/SBH_Elhy-1.pdf) — SHA-256 `c672171a27c2eeb689caa6b6ce276a555ebfac428668c169f46f8ea937777cf4`, 1 pages; catalogue reference.
+- [Rail clamp RB-SL (self-locking)](https://www.sibre.de/wp-content/uploads/2025/07/RB-SL-2025_EN-1.pdf) — SHA-256 `bebc5fc604ec1fa742363314c271db364ef23a28f997700cdc0c73ca43745e7c`, 2 pages; catalogue reference.
+- [ISO certificate](https://www.sibre.de/wp-content/uploads/2025/05/ISO_9001-ENG-10000406844-MSC-RvA-DEU-2-20240604.pdf) — SHA-256 `cb773e227709e56c494453246d0ea3f39b0992f33ec5bde334d103bd81ae549f`, 2 pages; catalogue reference.
+- [Führungsrollen](https://www.sibre.de/wp-content/uploads/2024/08/Guide-rollers.pdf) — SHA-256 `9e0978c7a933d6b91354aba9ccb43cc99dd9797b9e9fe920a29818aa858654a7`, 2 pages; catalogue reference.
+- [RB-NC-500 (retractable)](https://www.sibre.de/wp-content/uploads/2024/04/RB-NC-500_2024_EN.pdf) — SHA-256 `aac525ea23182ae7c0bbe883390294eac124c85f98d1e1936894fad79694dafa`, 2 pages; catalogue reference.
+- [Hydraulic buffer SP](https://www.sibre.de/wp-content/uploads/2022/09/Hydraulic-buffer-SP_2022-1.pdf) — SHA-256 `9ccbd91d271bd029e3dde8e91ecd9262013a407e4da4acf36e9cdbabdeb0e443`, 5 pages; catalogue reference.
+- [ELDRO-thrusters_2021_EN.pdf](https://www.sibre.de/wp-content/uploads/2022/07/ELDRO-thrusters_2021_EN.pdf) — SHA-256 `c1b98f17cafd404b881682c72d8574ac1e219969429dd5d30a5cc2b73d080de3`, 1 pages; catalogue reference.
+- [Type SP](https://www.sibre.de/wp-content/uploads/2022/06/Hydraulic-buffer-SP_2021.pdf) — SHA-256 `9e85a43bd952f6925c43996c34dc34d990ed36ff1d8bc72207b0499723437e12`, 1 pages; catalogue reference.
+- [Brake shoes for drum brakes](https://www.sibre.de/wp-content/uploads/2022/06/sibre-brake-shoes-for-drum-brakes-1.pdf) — SHA-256 `7a29ad5c2740bcad808fdf6091c1827bbb9006e13e943dcb22ba2d036cd7b3ae`, 1 pages; catalogue reference.
+
+## Gaps and deferred collection
+
+- https://www.sibre.de/wp-content/uploads/2022/06/sibre-solenoid-control-unit-scu-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/protection-covers-for-drum-brakes-sbh-sibre-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/protection-covers-for-drum-brakes-te-sibre-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/06/drum-brake-options-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/09/Rail-clamp_2023_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rhi-100-fc-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rps-800.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rps-610.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rps-450.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/RTCB-350-protection-cover-2024_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rps-200-300.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/RTCB-225-protection-cover-2024_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/RTCB-350-2024_EN-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rhi-30-125-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/RTCB-225-2024_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/Monitoring-System-SSM_2020_01_EN-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/APC-BT-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/APC-AT-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/APC-A-2021_EN-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/09/ALC-AT-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ALC-A-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/brake-drum-M1501135E-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-brakes-din-15431-150195e.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-brakes-din-15431-150194e-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/ZKES-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ZS1-12-13-EN-ASC-AS-2009-091.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/APC-AS-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/APC-A-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/AFC-AS-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/AFC-A-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/ALC-AS-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/hub-with-bolted-disc-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/brakes-bs.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_ELHY_2021_EN-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-3.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ABC-V-2023_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-technical-data.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/07/SHI-Product-Range.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-samples-for-console-mounted.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/05/HPU-selection-guide-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-sample-arrangements.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/SHI-281-282_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-280-fc-console.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-280-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-251-252.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-250-fc-console.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-250-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-231-232.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-230-fc-console.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-230-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-201-202.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-200-fc-console.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-200-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-161-162.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/SHI-160-FC-console_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-160-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/10/SHI-106-107_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-104-105.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-103.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/SHI-100-FC-console_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/SHI-100-FC-flange_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-75-fc-flange.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-75.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/Crane-wheel-systems-SRA-SRN-2024_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-crane-wheel-systems.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-housing-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-SB-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-function-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-protection-cover-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-H-SF3-2021_EN-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/05/HPU-V2-2023_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/04/TE-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2024/07/SBM-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-tbm.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/04/THi-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-tec.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/TM-I-40-TM-I-60-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/SBH_Eldro_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/04/SBG-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/04/TPi-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-te-160.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2023/04/TE-I-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/CB8-H_2026_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/CB8-M_2026_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/CB8-P_2026_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/CB8-E_2026_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-texu-800-1000-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-texu-630-710.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-3-elhy.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-2.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2024/07/USB5_I_Elhy_2021_EN.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/USB5_05_2021_01_EN-1.pdf — collection batch limit
+- https://www.sibre.de/en/bremsen/usb5-v/ — depth limit
+- https://www.sibre.de/en/bremsen/usb-5-iii/ — depth limit
+- https://www.sibre.de/en/bremsen/usb-5-ii/ — depth limit
+- https://www.sibre.de/en/bremsen/usb-5-i/ — depth limit
+- https://www.sibre.de/en/bremsen/usb-5-05/ — depth limit
+- https://www.sibre.de/branchen/hafen/betriebsbremsen-hafen/ — depth limit
+- https://www.sibre.de/ru/branchen/container-handling/service-brakes/ — depth limit
+- https://www.sibre.de/bremsen/kompakt-cb8-cb6/#features — depth limit
+- https://www.sibre.de/bremsen/kompakt-cb8-cb6/#accessories — depth limit
+- https://www.sibre.de/bremsen/kompakt-cb8-cb6/#datasheets — depth limit
+- https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#features — depth limit
+- https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#accessories — depth limit
+- https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#datasheets — depth limit
+- https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#features — depth limit
+- https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#accessories — depth limit
+- https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#datasheets — depth limit
+- https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#features — depth limit
+- https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#accessories — depth limit
+- https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#datasheets — depth limit
+- https://www.sibre.de/wp-content/uploads/2022/05/options-for-drum-brakes-sibre.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/sibre-brake-shoes-for-drum-brakes.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/options-for-drum-brakes-manual-sibre.pdf — collection batch limit
+- https://www.sibre.de/bremsen/typ-te/#features — depth limit
+- https://www.sibre.de/bremsen/typ-te/#accessories — depth limit
+- https://www.sibre.de/bremsen/typ-te/#datasheets — depth limit
+- https://www.sibre.de/downloads/trommelbremse-optionen/ — depth limit
+- https://www.sibre.de/ru/bremsen/typ-te/#features — depth limit
+- https://www.sibre.de/ru/bremsen/typ-te/#accessories — depth limit
+- https://www.sibre.de/ru/bremsen/typ-te/#datasheets — depth limit
+- https://www.sibre.de/es/bremsen/typ-te/#features — depth limit
+- https://www.sibre.de/es/bremsen/typ-te/#accessories — depth limit
+- https://www.sibre.de/es/bremsen/typ-te/#datasheets — depth limit
+- https://www.sibre.de/fr/bremsen/typ-te/#features — depth limit
+- https://www.sibre.de/fr/bremsen/typ-te/#accessories — depth limit
+- https://www.sibre.de/fr/bremsen/typ-te/#datasheets — depth limit
+- https://www.sibre.de/bremsen/texu/#features — depth limit
+- https://www.sibre.de/bremsen/texu/#accessories — depth limit
+- https://www.sibre.de/bremsen/texu/#datasheets — depth limit
+- https://www.sibre.de/ru/bremsen/texu/#features — depth limit
+- https://www.sibre.de/ru/bremsen/texu/#accessories — depth limit
+- https://www.sibre.de/ru/bremsen/texu/#datasheets — depth limit
+- https://www.sibre.de/es/bremsen/texu/#features — depth limit
+- https://www.sibre.de/es/bremsen/texu/#accessories — depth limit
+- https://www.sibre.de/es/bremsen/texu/#datasheets — depth limit
+- https://www.sibre.de/fr/bremsen/texu/#features — depth limit
+- https://www.sibre.de/fr/bremsen/texu/#accessories — depth limit
+- https://www.sibre.de/fr/bremsen/texu/#datasheets — depth limit
+- https://www.sibre.de/fr/bremsen/rhi/ — collection batch limit
+- https://www.sibre.de/fr/bremsen/rkb/ — collection batch limit
+- https://www.sibre.de/fr/bremsen/rps/ — collection batch limit
+- https://www.sibre.de/fr/bremsen/rtcb/ — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/HPU-H-SF3-2021_EN.pdf — collection batch limit
+- https://www.sibre.de/bremsen/hydraulik-aggregate/#features — depth limit
+- https://www.sibre.de/bremsen/hydraulik-aggregate/#accessories — depth limit
+- https://www.sibre.de/bremsen/hydraulik-aggregate/#datasheets — depth limit
+- https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#features — depth limit
+- https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#accessories — depth limit
+- https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#datasheets — depth limit
+- https://www.sibre.de/es/bremsen/hydraulik-aggregate/#features — depth limit
+- https://www.sibre.de/es/bremsen/hydraulik-aggregate/#accessories — depth limit
+- https://www.sibre.de/es/bremsen/hydraulik-aggregate/#datasheets — depth limit
+- https://www.sibre.de/fr/produits/freins-de-securite-mining/ — depth limit
+- https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#features — depth limit
+- https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#accessories — depth limit
+- https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#datasheets — depth limit
+- https://www.sibre.de/bremsen/rtcb/ — collection batch limit
+- https://www.sibre.de/bremsen/rkb/ — collection batch limit
+- https://www.sibre.de/bremsen/rps/ — collection batch limit
+- https://www.sibre.de/bremsen/rb/#features — depth limit
+- https://www.sibre.de/bremsen/rb/#accessories — depth limit
+- https://www.sibre.de/bremsen/rb/#datasheets — depth limit
+- https://www.sibre.de/ru/bremsen/rhi/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/rtcb/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/rkb/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/rps/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/rb/#features — depth limit
+- https://www.sibre.de/ru/bremsen/rb/#accessories — depth limit
+- https://www.sibre.de/ru/bremsen/rb/#datasheets — depth limit
+- https://www.sibre.de/es/bremsen/rhi/ — collection batch limit
+- https://www.sibre.de/es/bremsen/rtcb/ — collection batch limit
+- https://www.sibre.de/es/bremsen/rkb/ — collection batch limit
+- https://www.sibre.de/es/bremsen/rps/ — collection batch limit
+- https://www.sibre.de/es/bremsen/rb/#features — depth limit
+- https://www.sibre.de/es/bremsen/rb/#accessories — depth limit
+- https://www.sibre.de/es/bremsen/rb/#datasheets — depth limit
+- https://www.sibre.de/fr/bremsen/rb/#features — depth limit
+- https://www.sibre.de/fr/bremsen/rb/#accessories — depth limit
+- https://www.sibre.de/fr/bremsen/rb/#datasheets — depth limit
+- https://www.sibre.de/bremsen/rhi/#features — depth limit
+- https://www.sibre.de/bremsen/rhi/#accessories — depth limit
+- https://www.sibre.de/bremsen/rhi/#datasheets — depth limit
+- https://www.sibre.de/bremsen/abc-v/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/abc-v/ — collection batch limit
+- https://www.sibre.de/es/bremsen/abc-v/ — collection batch limit
+- https://www.sibre.de/fr/bremsen/abc-v/ — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ALC-A_2021-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ALC-AS_2021.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ALC-AT_2021.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/ZKES_2021.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/Bremstrrommel-135E_2021.pdf — collection batch limit
+- https://www.sibre.de/bremsen/afc-90/ — collection batch limit
+- https://www.sibre.de/ru/bremsen/afc-90/ — collection batch limit
+- https://www.sibre.de/es/bremsen/afc-90/ — collection batch limit
+- https://www.sibre.de/fr/bremsen/afc-90/ — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/06/rtcb-225.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/T1-20-21_DE_Optionen_2011-08-1.pdf — collection batch limit
+- https://www.sibre.de/wp-content/uploads/2022/05/Aggregat-H-SF3_2021.pdf — collection batch limit
+
+## Next review
+
+Reconcile the downloaded catalogues against current product pages; confirm revisions and missing CAD through legitimate manufacturer access. Validate every configuration-specific value before engineering use.

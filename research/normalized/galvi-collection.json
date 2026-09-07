@@ -1,0 +1,3086 @@
+{
+  "manufacturer": "galvi",
+  "started_at": "2026-09-07T01:26:21.624538+00:00",
+  "limits": {
+    "html_pages": 75,
+    "assets": 120,
+    "depth": 3,
+    "max_asset_mib": 35
+  },
+  "records": [
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/index",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:21.772191+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/index",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "006e5bfa0ca0756f6c14b280922548afff2a630aebc092602591801cfc3dba6a",
+      "bytes": 12633,
+      "format": "html",
+      "local_path": "sources/raw/galvi/006e5bfa0ca0756f6c14b280922548afff2a630aebc092602591801cfc3dba6a.html",
+      "title": "- GALVI NEWCOMEN - GALVI ENGINEERING",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/006e5bfa0ca0756f6c14b280922548afff2a630aebc092602591801cfc3dba6a.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/1",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:22.885937+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/1",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "2450e36c33806d28c8f9b2a0df5a18c00e5b40b454f6c08aea03f0c9cf27df77",
+      "bytes": 14114,
+      "format": "html",
+      "local_path": "sources/raw/galvi/2450e36c33806d28c8f9b2a0df5a18c00e5b40b454f6c08aea03f0c9cf27df77.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/2450e36c33806d28c8f9b2a0df5a18c00e5b40b454f6c08aea03f0c9cf27df77.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/2",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:23.192876+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/2",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "a751d9654b242e4a9afb840f516a7089954686dd65c19319ec0ac07b0021b3e8",
+      "bytes": 13828,
+      "format": "html",
+      "local_path": "sources/raw/galvi/a751d9654b242e4a9afb840f516a7089954686dd65c19319ec0ac07b0021b3e8.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/a751d9654b242e4a9afb840f516a7089954686dd65c19319ec0ac07b0021b3e8.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/3",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:23.532416+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/3",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "7a4028aa92e1452d5183024686437445cf9c32b6a383cc4d93cd5255325fe33a",
+      "bytes": 13513,
+      "format": "html",
+      "local_path": "sources/raw/galvi/7a4028aa92e1452d5183024686437445cf9c32b6a383cc4d93cd5255325fe33a.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/7a4028aa92e1452d5183024686437445cf9c32b6a383cc4d93cd5255325fe33a.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/4",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:23.832200+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/4",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "6da346c43980c22c257fe701bfbca211b426538195edb7f6a71d96101628fbd0",
+      "bytes": 14056,
+      "format": "html",
+      "local_path": "sources/raw/galvi/6da346c43980c22c257fe701bfbca211b426538195edb7f6a71d96101628fbd0.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/6da346c43980c22c257fe701bfbca211b426538195edb7f6a71d96101628fbd0.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/5",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:24.127328+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/5",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "79ffdc945233152268083f24addcb6ff008cfb8283620052f18ecdf2c5129b81",
+      "bytes": 13839,
+      "format": "html",
+      "local_path": "sources/raw/galvi/79ffdc945233152268083f24addcb6ff008cfb8283620052f18ecdf2c5129b81.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/79ffdc945233152268083f24addcb6ff008cfb8283620052f18ecdf2c5129b81.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/6",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:24.433840+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/6",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "a20635830310eed55d3bd03fc6521782c2a07df13517bff50221ba232a8d113e",
+      "bytes": 13263,
+      "format": "html",
+      "local_path": "sources/raw/galvi/a20635830310eed55d3bd03fc6521782c2a07df13517bff50221ba232a8d113e.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/a20635830310eed55d3bd03fc6521782c2a07df13517bff50221ba232a8d113e.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/7",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:24.744197+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/7",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "59125204ba1c96d19b1224e0adb1092a052c44e428892c073f654ad6fd20719a",
+      "bytes": 14083,
+      "format": "html",
+      "local_path": "sources/raw/galvi/59125204ba1c96d19b1224e0adb1092a052c44e428892c073f654ad6fd20719a.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/59125204ba1c96d19b1224e0adb1092a052c44e428892c073f654ad6fd20719a.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/8",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:25.035124+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/8",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "f4e690e755d691e4a824962c639ed0f4705636a91fffb1c560dadb8a733393a4",
+      "bytes": 13173,
+      "format": "html",
+      "local_path": "sources/raw/galvi/f4e690e755d691e4a824962c639ed0f4705636a91fffb1c560dadb8a733393a4.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/f4e690e755d691e4a824962c639ed0f4705636a91fffb1c560dadb8a733393a4.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/9",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:25.319257+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/9",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "5bb2b755097cf90d0a35078d1cb5ed316d18bc3264784f9ca96e3995e42665c5",
+      "bytes": 13675,
+      "format": "html",
+      "local_path": "sources/raw/galvi/5bb2b755097cf90d0a35078d1cb5ed316d18bc3264784f9ca96e3995e42665c5.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/5bb2b755097cf90d0a35078d1cb5ed316d18bc3264784f9ca96e3995e42665c5.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/10",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:25.620590+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/10",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "98bec7548f38953e7a0bf6fea55174471355833a5b00d85dcd07feb1392d9cd3",
+      "bytes": 12248,
+      "format": "html",
+      "local_path": "sources/raw/galvi/98bec7548f38953e7a0bf6fea55174471355833a5b00d85dcd07feb1392d9cd3.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/98bec7548f38953e7a0bf6fea55174471355833a5b00d85dcd07feb1392d9cd3.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/11",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:25.921870+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/11",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "68c6056ac1e7da26051f7d18c638d0d0e4d00d74eb4c45c576e3dbb3051a2866",
+      "bytes": 12650,
+      "format": "html",
+      "local_path": "sources/raw/galvi/68c6056ac1e7da26051f7d18c638d0d0e4d00d74eb4c45c576e3dbb3051a2866.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/68c6056ac1e7da26051f7d18c638d0d0e4d00d74eb4c45c576e3dbb3051a2866.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/12",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:26.212257+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/12",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "4a87aaa659417f5b116b36d459360754c7a98f18622deb6285baf798355772d2",
+      "bytes": 12515,
+      "format": "html",
+      "local_path": "sources/raw/galvi/4a87aaa659417f5b116b36d459360754c7a98f18622deb6285baf798355772d2.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/4a87aaa659417f5b116b36d459360754c7a98f18622deb6285baf798355772d2.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/13",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:26.496307+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/13",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "af8de92596a2c2118e39116deb77e3b4e81c7e1f21d97a1b02f7f3f01c101eaf",
+      "bytes": 12132,
+      "format": "html",
+      "local_path": "sources/raw/galvi/af8de92596a2c2118e39116deb77e3b4e81c7e1f21d97a1b02f7f3f01c101eaf.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/af8de92596a2c2118e39116deb77e3b4e81c7e1f21d97a1b02f7f3f01c101eaf.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/14",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:26.854373+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/14",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "8f22dda3f6c8ffd7b982876253376a66e8e7ff0bdc2e45ef9ffc399a2fb1501b",
+      "bytes": 13828,
+      "format": "html",
+      "local_path": "sources/raw/galvi/8f22dda3f6c8ffd7b982876253376a66e8e7ff0bdc2e45ef9ffc399a2fb1501b.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/8f22dda3f6c8ffd7b982876253376a66e8e7ff0bdc2e45ef9ffc399a2fb1501b.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/15",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:27.150608+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/15",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "f507fb92c8f263ed0fb684589c39046e55f130a300f7c9e1c0dcb4f406bf426c",
+      "bytes": 12574,
+      "format": "html",
+      "local_path": "sources/raw/galvi/f507fb92c8f263ed0fb684589c39046e55f130a300f7c9e1c0dcb4f406bf426c.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/f507fb92c8f263ed0fb684589c39046e55f130a300f7c9e1c0dcb4f406bf426c.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/16",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:27.486809+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/16",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "61f7192d124a41744fd7721a136c3f13599eb8cc9d5e6995c7eda987d0e17786",
+      "bytes": 12600,
+      "format": "html",
+      "local_path": "sources/raw/galvi/61f7192d124a41744fd7721a136c3f13599eb8cc9d5e6995c7eda987d0e17786.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/61f7192d124a41744fd7721a136c3f13599eb8cc9d5e6995c7eda987d0e17786.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/17",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:27.770469+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/17",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "7dd32e5e3c134bdb0bce5d20d046ff12c34bb8c811a9ee375300372cc7056ea8",
+      "bytes": 10699,
+      "format": "html",
+      "local_path": "sources/raw/galvi/7dd32e5e3c134bdb0bce5d20d046ff12c34bb8c811a9ee375300372cc7056ea8.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/7dd32e5e3c134bdb0bce5d20d046ff12c34bb8c811a9ee375300372cc7056ea8.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/18",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:28.052294+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/18",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "c261584beb185896b2fe01fce72fa98470e11b6c6663ca931e853a96dfc31420",
+      "bytes": 10458,
+      "format": "html",
+      "local_path": "sources/raw/galvi/c261584beb185896b2fe01fce72fa98470e11b6c6663ca931e853a96dfc31420.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/c261584beb185896b2fe01fce72fa98470e11b6c6663ca931e853a96dfc31420.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/19",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:28.388228+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/19",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "cefa5c46ca4c9d017dd327c458b38ce6f8e60920e95458e43c113a119005d67c",
+      "bytes": 14016,
+      "format": "html",
+      "local_path": "sources/raw/galvi/cefa5c46ca4c9d017dd327c458b38ce6f8e60920e95458e43c113a119005d67c.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/cefa5c46ca4c9d017dd327c458b38ce6f8e60920e95458e43c113a119005d67c.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/20",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:28.687006+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/20",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "7e75e3580f0e2a51c170b39d632d1823faa5745dce15153ff564b1c6697857b9",
+      "bytes": 13718,
+      "format": "html",
+      "local_path": "sources/raw/galvi/7e75e3580f0e2a51c170b39d632d1823faa5745dce15153ff564b1c6697857b9.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/7e75e3580f0e2a51c170b39d632d1823faa5745dce15153ff564b1c6697857b9.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/21",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:28.979187+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/21",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "2d68c75fb67d275b711aab3d9c7ca960f54ad6b3199ba6fb6bedb31c67ec215a",
+      "bytes": 12577,
+      "format": "html",
+      "local_path": "sources/raw/galvi/2d68c75fb67d275b711aab3d9c7ca960f54ad6b3199ba6fb6bedb31c67ec215a.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/2d68c75fb67d275b711aab3d9c7ca960f54ad6b3199ba6fb6bedb31c67ec215a.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/22",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:29.257337+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/22",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "ce0bd74cf3723565fdd2571d914ee09866e8140c19199f113136eec5dc2f7e28",
+      "bytes": 11937,
+      "format": "html",
+      "local_path": "sources/raw/galvi/ce0bd74cf3723565fdd2571d914ee09866e8140c19199f113136eec5dc2f7e28.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/ce0bd74cf3723565fdd2571d914ee09866e8140c19199f113136eec5dc2f7e28.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/23",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:29.536815+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/23",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "c637b96c50f4019fa806cff10262c372ff4619e96936de51196a55916399ef2e",
+      "bytes": 10583,
+      "format": "html",
+      "local_path": "sources/raw/galvi/c637b96c50f4019fa806cff10262c372ff4619e96936de51196a55916399ef2e.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/c637b96c50f4019fa806cff10262c372ff4619e96936de51196a55916399ef2e.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:29.887713+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "064f718dee91c91c98c708986f3119140b388ae4395a7099d6d505f67397b55c",
+      "bytes": 10608,
+      "format": "html",
+      "local_path": "sources/raw/galvi/064f718dee91c91c98c708986f3119140b388ae4395a7099d6d505f67397b55c.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PC.HYD.pdf",
+          "label": "Scarica il PDF - PC.HYD",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PC.HYD - Opzionali.pdf",
+          "label": "Scarica il PDF - PC.HYD Opzionali",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/064f718dee91c91c98c708986f3119140b388ae4395a7099d6d505f67397b55c.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:30.221979+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "f87ac50cc921a078d4ab11007210565bf80287bf4ac3d1a1e853d58ab065ced1",
+      "bytes": 11684,
+      "format": "html",
+      "local_path": "sources/raw/galvi/f87ac50cc921a078d4ab11007210565bf80287bf4ac3d1a1e853d58ab065ced1.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX.pdf",
+          "label": "Scarica il PDF - PE-PX",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-1.pdf",
+          "label": "Scarica il PDF - PE-PX-1",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-2.pdf",
+          "label": "Scarica il PDF - PE-PX-2",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-3.pdf",
+          "label": "Scarica il PDF - PE-PX-3",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-4.pdf",
+          "label": "Scarica il PDF - PE-PX-4",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/f87ac50cc921a078d4ab11007210565bf80287bf4ac3d1a1e853d58ab065ced1.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:30.521434+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "178111093832b44172d72623143e2daca20332d50929c0fbbc5c8115ae4f169d",
+      "bytes": 12061,
+      "format": "html",
+      "local_path": "sources/raw/galvi/178111093832b44172d72623143e2daca20332d50929c0fbbc5c8115ae4f169d.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-2.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-2.pdf",
+          "label": "Scarica il PDF  -  PN-2",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-3.pdf",
+          "label": "Scarica il PDF  -  PN-3",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-4.pdf",
+          "label": "Scarica il PDF  -  PN-4",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-5.pdf",
+          "label": "Scarica il PDF  -  PN-5",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-6.pdf",
+          "label": "Scarica il PDF  -  PN-6",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-7.pdf",
+          "label": "Scarica il PDF  -  PN-7",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/178111093832b44172d72623143e2daca20332d50929c0fbbc5c8115ae4f169d.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:30.808116+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "135f0c1d39bd47179c4c3a0cd201a7e7043479ceb26ddd02902c9c4775866d1b",
+      "bytes": 11195,
+      "format": "html",
+      "local_path": "sources/raw/galvi/135f0c1d39bd47179c4c3a0cd201a7e7043479ceb26ddd02902c9c4775866d1b.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/SLDU_01_IT.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinza freno SLDU-030.pdf",
+          "label": "Scarica il PDF  -  SLDU-030",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinza freno SLDU-060.pdf",
+          "label": "Scarica il PDF  -  SLDU-060",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno SLDU-030, SLDU-060.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinza freno SLDU-030.pdf",
+          "label": "Scarica il PDF  -  SLDU-030  -  SLDU-060",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/135f0c1d39bd47179c4c3a0cd201a7e7043479ceb26ddd02902c9c4775866d1b.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:31.141305+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "c2ebf855eefe97e4935bffdb53b3c46414d87ea9c96b1cb3c2e2d75a12c46218",
+      "bytes": 12818,
+      "format": "html",
+      "local_path": "sources/raw/galvi/c2ebf855eefe97e4935bffdb53b3c46414d87ea9c96b1cb3c2e2d75a12c46218.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-5552.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-5552.pdf",
+          "label": "Scarica il PDF  -  EMEHYD-5552",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552.pdf",
+          "label": "Scarica il PDF  -  EMEHYD-6552",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552-SPECIAL.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552-SPECIAL.pdf",
+          "label": "Scarica il PDF  -  EMEHYD-6552 SPECIAL",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6863.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6863.pdf",
+          "label": "Scarica il PDF  -  EMEHYD-6863",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.nett/PDF/Disco/GALVI Unità Idraulica EMEHYD-6863-SPECIAL.pdf",
+          "label": "Scarica il PDF  -  EMEHYD-6863 SPECIAL",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Hydraulic Units EMEHYD.pdf",
+          "label": "Scarica il PDF  -  EMEHYD",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/c2ebf855eefe97e4935bffdb53b3c46414d87ea9c96b1cb3c2e2d75a12c46218.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/29",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:31.475029+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/29",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "516f4ca833ed4b5394151101794769864d45f7e5ffffd8c38a0af087fe8f06f3",
+      "bytes": 10145,
+      "format": "html",
+      "local_path": "sources/raw/galvi/516f4ca833ed4b5394151101794769864d45f7e5ffffd8c38a0af087fe8f06f3.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.227.pdf",
+          "label": "Scarica il PDF",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/516f4ca833ed4b5394151101794769864d45f7e5ffffd8c38a0af087fe8f06f3.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:31.756019+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "b7b4c3fb2fc8abb1d6e9c9d411f6a0c7cc20cf0ac4ce38be86b3611212affaa6",
+      "bytes": 10749,
+      "format": "html",
+      "local_path": "sources/raw/galvi/b7b4c3fb2fc8abb1d6e9c9d411f6a0c7cc20cf0ac4ce38be86b3611212affaa6.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.221.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.221.pdf",
+          "label": "Scarica il PDF  -  DRA, DDA, DRP, DDP",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.223.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.223.pdf",
+          "label": "Scarica il PDF  -  MRA, MR",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/b7b4c3fb2fc8abb1d6e9c9d411f6a0c7cc20cf0ac4ce38be86b3611212affaa6.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:32.037372+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "1bf1c1fae63643b9eb9b06c9888b6bf6699461c306676d398f8678ab10bffe0a",
+      "bytes": 10613,
+      "format": "html",
+      "local_path": "sources/raw/galvi/1bf1c1fae63643b9eb9b06c9888b6bf6699461c306676d398f8678ab10bffe0a.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-03.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-03.pdf",
+          "label": "Scarica il PDF  -  DIS-03",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-04.pdf",
+          "label": "Scarica il PDF  -  DIS-04",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/1bf1c1fae63643b9eb9b06c9888b6bf6699461c306676d398f8678ab10bffe0a.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:32.323829+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "797ed6b42c39e1c00a30b865394aaee68c351629259358b71bc58d32a5e981d1",
+      "bytes": 10602,
+      "format": "html",
+      "local_path": "sources/raw/galvi/797ed6b42c39e1c00a30b865394aaee68c351629259358b71bc58d32a5e981d1.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01.pdf",
+          "label": "",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01_2022.pdf",
+          "label": "Scarica il PDF  -  DWS",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-02.pdf",
+          "label": "Scarica il PDF  -  HS",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/797ed6b42c39e1c00a30b865394aaee68c351629259358b71bc58d32a5e981d1.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/33",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:32.617218+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/33",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "dff1ae4b6e22de81767ce4563829491531e84a492cc498f3e19e7d3f5c4f55a5",
+      "bytes": 13989,
+      "format": "html",
+      "local_path": "sources/raw/galvi/dff1ae4b6e22de81767ce4563829491531e84a492cc498f3e19e7d3f5c4f55a5.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "Categoria Servofreni",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/dff1ae4b6e22de81767ce4563829491531e84a492cc498f3e19e7d3f5c4f55a5.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:32.941292+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "d61e8e41539a498900e5d23375025e09f5ed774b8932e8a031edef0567181bf6",
+      "bytes": 10180,
+      "format": "html",
+      "local_path": "sources/raw/galvi/d61e8e41539a498900e5d23375025e09f5ed774b8932e8a031edef0567181bf6.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Categoria Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/Respingenti GALVI RME - RMV.pdf",
+          "label": "Scarica il PDF",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/d61e8e41539a498900e5d23375025e09f5ed774b8932e8a031edef0567181bf6.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/35",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:33.243438+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/35",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "fa491822c898c43766f63482c086a67e1da9b1f4e29342b3766485a34daf3a7b",
+      "bytes": 10219,
+      "format": "html",
+      "local_path": "sources/raw/galvi/fa491822c898c43766f63482c086a67e1da9b1f4e29342b3766485a34daf3a7b.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Categoria Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Hydraulic Units MINHYD.pdf",
+          "label": "Scarica il PDF",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/fa491822c898c43766f63482c086a67e1da9b1f4e29342b3766485a34daf3a7b.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/36",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:33.566629+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/36",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "8f221ba21e370b5fb8ce0eac6d1d0ad6d225f92c0291cd1661474eb937217365",
+      "bytes": 10174,
+      "format": "html",
+      "local_path": "sources/raw/galvi/8f221ba21e370b5fb8ce0eac6d1d0ad6d225f92c0291cd1661474eb937217365.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Categoria Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/GALVI MBS Buffers Technical Leaflet.pdf",
+          "label": "Scarica il PDF",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/8f221ba21e370b5fb8ce0eac6d1d0ad6d225f92c0291cd1661474eb937217365.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/37",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:33.862153+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/37",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "5d56f2372ba85c5d28da6c41c349b1cccbb51499150c14686e4b12356fedb5aa",
+      "bytes": 10342,
+      "format": "html",
+      "local_path": "sources/raw/galvi/5d56f2372ba85c5d28da6c41c349b1cccbb51499150c14686e4b12356fedb5aa.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Categoria Freni a Ceppi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/5d56f2372ba85c5d28da6c41c349b1cccbb51499150c14686e4b12356fedb5aa.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "parent_url": "http://www.galvi.com/index",
+      "retrieved_at": "2026-09-07T01:26:34.196280+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "1fcf691ef5120564f582f044e9f785fef2cee2bfe4ed46b73b8df73f1d8490b4",
+      "bytes": 22210,
+      "format": "html",
+      "local_path": "sources/raw/galvi/1fcf691ef5120564f582f044e9f785fef2cee2bfe4ed46b73b8df73f1d8490b4.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Freni a Ceppi",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe Brakes.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "Servofreni",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti GALVI RME - RMV - MBS.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/37",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/37",
+          "label": "Principali caratteristiche Freni a Ceppi GALVI",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/1",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/1",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...HYD…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/2",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/2",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...HYD...IS…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/3",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/3",
+          "label": "Freni a Ceppi GALVI DIN negativi NV...HYD...TM…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/4",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/4",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...H…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/5",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/5",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...H...EX…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/6",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/6",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...EM…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/7",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/7",
+          "label": "Freni a Ceppi GALVI DIN negativi N(NV)...PN... ed N(NV)...I…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/8",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/8",
+          "label": "Freni a Ceppi GALVI DIN positivi N(NV)...OL…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/9",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/9",
+          "label": "Freni a Ceppi GALVI DIN negativi/positivi N(NV)...HYD/OL…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/10",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/10",
+          "label": "Accessori per Freni a Ceppi GALVI DIN ...OL…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/11",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/11",
+          "label": "Dotazione opzionale per Freni a Ceppi GALVI",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/12",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/12",
+          "label": "Pulegge GALVI DIN PD e PL",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/13",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/13",
+          "label": "Giunti GALVI DIN GD e GL",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/14",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/14",
+          "label": "Servofreni HYDRO GALVI",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/15",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/15",
+          "label": "Servofreni GALVI “H” e relativi ricambi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/16",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/16",
+          "label": "Servofreni GALVI “H...EX” e relativi ricambi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/17",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/17",
+          "label": "Ceppi freno GALVI DIN",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/18",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/18",
+          "label": "Ricambi per Giunti GALVI",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/19",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/19",
+          "label": "Freni a Ceppi GALVI AISE negativi N(NV)...HYD...CA…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/20",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/20",
+          "label": "Freni a Ceppi GALVI AISE negativi N(NV)...HYD...IS…CA",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/21",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/21",
+          "label": "Pulegge GALVI AISE PAG e PA",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/22",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/22",
+          "label": "Giunti GALVI AISE GA",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/23",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/23",
+          "label": "Ceppi freno GALVI AISE",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+          "label": "Scarica il reader PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 2D",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 3D",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/1fcf691ef5120564f582f044e9f785fef2cee2bfe4ed46b73b8df73f1d8490b4.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/form",
+      "parent_url": "http://www.galvi.com/index",
+      "retrieved_at": "2026-09-07T01:26:34.529452+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/form",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "99713ad225770e915c8a55c45b35db205eda2f14601cccfdbb18849100f5fd13",
+      "bytes": 26226,
+      "format": "html",
+      "local_path": "sources/raw/galvi/99713ad225770e915c8a55c45b35db205eda2f14601cccfdbb18849100f5fd13.html",
+      "title": "- Richiesta Cataloghi",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/99713ad225770e915c8a55c45b35db205eda2f14601cccfdbb18849100f5fd13.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+      "retrieved_at": "2026-09-07T01:26:34.887105+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/lista/2",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "22a5cb759f2f8486164215079c45a24694bd9a9ec0eea4f541169aff0dd722f9",
+      "bytes": 16854,
+      "format": "html",
+      "local_path": "sources/raw/galvi/22a5cb759f2f8486164215079c45a24694bd9a9ec0eea4f541169aff0dd722f9.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Freni a Ceppi",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe Brakes.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "Servofreni",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti GALVI RME - RMV - MBS.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+          "label": "Pinze freno GALVI PC…HYD…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+          "label": "Pinze freno GALVI PE… e PX…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+          "label": "Pinze freno GALVI PN…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+          "label": "Pinze freno GALVI SLDU…",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+          "label": "Unità idrauliche GALVI EMEHYD per Pinze freno PE, PX, PN e SLDU",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/35",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/35",
+          "label": "Unità idrauliche GALVI MINHYD per Pinze freno PN",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/29",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/29",
+          "label": "Giunti elastici GALVI GRP e GRA",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+          "label": "Dischi freno GALVI DRA, DRP, DDA, DDP, MRA ed MRP",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+          "label": "Giunti a denti GALVI GFS e GXS",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+          "label": "Dischi freno GALVI DWS ed HS",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+          "label": "Scarica il reader PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 2D",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 3D",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/22a5cb759f2f8486164215079c45a24694bd9a9ec0eea4f541169aff0dd722f9.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PC.HYD.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+      "retrieved_at": "2026-09-07T01:26:35.218043+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PC.HYD.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "23a09a0390f17f351b51d5e93543e2370b67a90b6b07a4352f1dfa9285d5cf8e",
+      "bytes": 160721,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/23a09a0390f17f351b51d5e93543e2370b67a90b6b07a4352f1dfa9285d5cf8e.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PC.HYD - Opzionali.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/24",
+      "retrieved_at": "2026-09-07T01:26:36.226421+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PC.HYD%20-%20Opzionali.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "951db09c2a4f7c71d5971de0480592096a373a61b22ade4419f4413391b460e0",
+      "bytes": 271049,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/951db09c2a4f7c71d5971de0480592096a373a61b22ade4419f4413391b460e0.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "retrieved_at": "2026-09-07T01:26:36.920355+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PE-PX.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "f3dda63d3e7b9d5067822e94b38a17802da1e6694ee9c32bb96fb21b0c1a75eb",
+      "bytes": 254746,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/f3dda63d3e7b9d5067822e94b38a17802da1e6694ee9c32bb96fb21b0c1a75eb.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-1.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "retrieved_at": "2026-09-07T01:26:37.446732+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PE-PX-1.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "11df0f9125bb1e05fd6bd4c3e4759f3db9d52c92dddf4a14e78bcb05e666e5f0",
+      "bytes": 168766,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/11df0f9125bb1e05fd6bd4c3e4759f3db9d52c92dddf4a14e78bcb05e666e5f0.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-2.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "retrieved_at": "2026-09-07T01:26:38.069197+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PE-PX-2.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "c96d16d38e9bc8a6591d6a21dcd2749652d6e68746d44af31a2f1c297a53aac3",
+      "bytes": 171513,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/c96d16d38e9bc8a6591d6a21dcd2749652d6e68746d44af31a2f1c297a53aac3.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-3.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "retrieved_at": "2026-09-07T01:26:38.642181+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PE-PX-3.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "1578e02acae219bbb733da99c95fe6a9332aff904373aa6cfe8940d9123a5ce1",
+      "bytes": 175703,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/1578e02acae219bbb733da99c95fe6a9332aff904373aa6cfe8940d9123a5ce1.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno PE-PX-4.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/25",
+      "retrieved_at": "2026-09-07T01:26:39.277535+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20PE-PX-4.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "8505b29db0744bbccd95dc2083dc4399d33fbdedf77a4d5ae06fae449bce31f1",
+      "bytes": 179236,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/8505b29db0744bbccd95dc2083dc4399d33fbdedf77a4d5ae06fae449bce31f1.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-2.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:39.880457+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-2.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "ddb513707a4461b5da1a8042baa9e70c1d00ae42af8156d8e8b43bf8afa6b041",
+      "bytes": 112047,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/ddb513707a4461b5da1a8042baa9e70c1d00ae42af8156d8e8b43bf8afa6b041.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-3.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:40.439670+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-3.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "b35cf9a7eb910a97fae34e43dbba8bc563b9767b7b0b280c93ad1e0b5e565d24",
+      "bytes": 136248,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/b35cf9a7eb910a97fae34e43dbba8bc563b9767b7b0b280c93ad1e0b5e565d24.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-4.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:40.748150+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-4.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "308ca3d81f23aef4af02e16465b229ddd2358d95dab1d64b70d81db38b5c8da2",
+      "bytes": 145401,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/308ca3d81f23aef4af02e16465b229ddd2358d95dab1d64b70d81db38b5c8da2.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-5.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:41.384865+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-5.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "6becc044058ef87061ac557680e1b57f7542e6589ade57c93d6818ab40bc8500",
+      "bytes": 141381,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/6becc044058ef87061ac557680e1b57f7542e6589ade57c93d6818ab40bc8500.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-6.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:41.961138+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-6.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "0da287b2e7b5642e39eca2024d3089bc98b64aa52c4c96dd3cb9cdf8b945108f",
+      "bytes": 134857,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/0da287b2e7b5642e39eca2024d3089bc98b64aa52c4c96dd3cb9cdf8b945108f.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-7.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/26",
+      "retrieved_at": "2026-09-07T01:26:42.561778+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/PN.121-7.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "899cff90e4d92563b85725b8774e7ae0e32511d009d71b292f2f0a9e43a67bb9",
+      "bytes": 122875,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/899cff90e4d92563b85725b8774e7ae0e32511d009d71b292f2f0a9e43a67bb9.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/SLDU_01_IT.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "retrieved_at": "2026-09-07T01:26:43.185746+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/SLDU_01_IT.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "0c2005019452879abe1e582252ebfad5f78bad3c53e71fc1afe8078b6b5143db",
+      "bytes": 286272,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/0c2005019452879abe1e582252ebfad5f78bad3c53e71fc1afe8078b6b5143db.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinza freno SLDU-030.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "retrieved_at": "2026-09-07T01:26:43.888641+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinza%20freno%20SLDU-030.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "e6d6cf68b77937b576ba5a8f8971dbcb8786d8a4af5237023009af8f7b8d3648",
+      "bytes": 152132,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/e6d6cf68b77937b576ba5a8f8971dbcb8786d8a4af5237023009af8f7b8d3648.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinza freno SLDU-060.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "retrieved_at": "2026-09-07T01:26:44.479967+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinza%20freno%20SLDU-060.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "9705287a98cf60a09a328e0bfc2ab3238bc0d1a9b130bdef23983cac1ec855ec",
+      "bytes": 156261,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/9705287a98cf60a09a328e0bfc2ab3238bc0d1a9b130bdef23983cac1ec855ec.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Pinze freno SLDU-030, SLDU-060.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/27",
+      "retrieved_at": "2026-09-07T01:26:45.092759+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Pinze%20freno%20SLDU-030,%20SLDU-060.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "5acdb4de1b4720659d3b39716cbdb63643b1e98efef0fc5685eae2300cc4410c",
+      "bytes": 143583,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/5acdb4de1b4720659d3b39716cbdb63643b1e98efef0fc5685eae2300cc4410c.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-5552.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:45.705164+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-5552.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "f8b5a00b701f92856deb71186c8dd6d444207316b47c46dcd82c387847e018d1",
+      "bytes": 593120,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/f8b5a00b701f92856deb71186c8dd6d444207316b47c46dcd82c387847e018d1.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:46.127670+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-6552.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "b7afba90841032303f5d92ad94b1b2d3dbaf36dbe56686b51a255644f719ea5e",
+      "bytes": 593700,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/b7afba90841032303f5d92ad94b1b2d3dbaf36dbe56686b51a255644f719ea5e.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6552-SPECIAL.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:46.899446+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-6552-SPECIAL.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "fe3b9a367573b16cb8d8b4f338586240b9e259e53468d8de00b09090d3de76ab",
+      "bytes": 597159,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/fe3b9a367573b16cb8d8b4f338586240b9e259e53468d8de00b09090d3de76ab.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Unità Idraulica EMEHYD-6863.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:47.670847+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-6863.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "bde62c71dd4b5296722f581636b6e14daefe59d6c235c0bf736de8afae032605",
+      "bytes": 593821,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/bde62c71dd4b5296722f581636b6e14daefe59d6c235c0bf736de8afae032605.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.nett/PDF/Disco/GALVI Unità Idraulica EMEHYD-6863-SPECIAL.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:48.444964+00:00",
+      "depth": 1,
+      "status": "error",
+      "error": "HTTPConnectionPool(host='drfmxgbd0lt74.cloudfront.nett', port=80): Max retries exceeded with url: /PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-6863-SPECIAL.pdf (Caused by NameResolutionError(\"HTTPConnection(host='drfmxgbd0lt74.cloudfront.nett', port=80): Failed to resolve 'drfmxgbd0lt74.cloudfront.nett' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Hydraulic Units EMEHYD.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/28",
+      "retrieved_at": "2026-09-07T01:26:48.735151+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Hydraulic%20Units%20EMEHYD.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "127a16cc74d2f42a3005bac49aca7779281c4d156442bfb119fc81140c9daee2",
+      "bytes": 176283,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/127a16cc74d2f42a3005bac49aca7779281c4d156442bfb119fc81140c9daee2.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.227.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/29",
+      "retrieved_at": "2026-09-07T01:26:49.388135+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.227.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "2b4d1a3f3ac4839daf3a96832dfac753faed9f26041636bb87f391fca92a5991",
+      "bytes": 113206,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/2b4d1a3f3ac4839daf3a96832dfac753faed9f26041636bb87f391fca92a5991.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.221.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+      "retrieved_at": "2026-09-07T01:26:49.944244+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.221.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "33c4da93f0a93dca2a271f1efd604842e50ed3c19c20b7e06500420085785363",
+      "bytes": 92155,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/33c4da93f0a93dca2a271f1efd604842e50ed3c19c20b7e06500420085785363.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.223.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/30",
+      "retrieved_at": "2026-09-07T01:26:50.483909+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DF.223.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "c487ddb286f4d922eefb5fa68e13728529eb92d55beb6fc59952e804149219e2",
+      "bytes": 84983,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/c487ddb286f4d922eefb5fa68e13728529eb92d55beb6fc59952e804149219e2.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-03.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+      "retrieved_at": "2026-09-07T01:26:51.049586+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-03.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "7d4b3dec256aa3c86aec99b5b01d50cb2ace8ea9e0561381b1fa4f58f4845b87",
+      "bytes": 168398,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/7d4b3dec256aa3c86aec99b5b01d50cb2ace8ea9e0561381b1fa4f58f4845b87.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-04.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/31",
+      "retrieved_at": "2026-09-07T01:26:51.693261+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-04.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "46b5ac8ebdb2a1599a5aaaf425fd3917ed11475a83d9b591210ab55f92a76e45",
+      "bytes": 348069,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/46b5ac8ebdb2a1599a5aaaf425fd3917ed11475a83d9b591210ab55f92a76e45.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+      "retrieved_at": "2026-09-07T01:26:52.402089+00:00",
+      "depth": 1,
+      "status": 403,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01.pdf",
+      "content_type": "application/xml"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01_2022.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+      "retrieved_at": "2026-09-07T01:26:52.688655+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01_2022.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "4e5c9033fbafb156ff30db3d5742e76dbb37f2efcef1edfdd0c9d47a2a12058c",
+      "bytes": 289345,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/4e5c9033fbafb156ff30db3d5742e76dbb37f2efcef1edfdd0c9d47a2a12058c.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-02.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/32",
+      "retrieved_at": "2026-09-07T01:26:53.390622+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-02.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "42318af300ca10f48523b01aaf2b15a9e0204048396aab559972cad72c1aa034",
+      "bytes": 365989,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/42318af300ca10f48523b01aaf2b15a9e0204048396aab559972cad72c1aa034.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/33",
+      "retrieved_at": "2026-09-07T01:26:54.052627+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/lista/3",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "95905149c3b84cd78d1af7748ffd5e3c4e9c6aae2e7eaa746521a3821ec86894",
+      "bytes": 13760,
+      "format": "html",
+      "local_path": "sources/raw/galvi/95905149c3b84cd78d1af7748ffd5e3c4e9c6aae2e7eaa746521a3821ec86894.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Freni a Ceppi",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe Brakes.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "Servofreni",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti GALVI RME - RMV - MBS.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/33",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/33",
+          "label": "Servofreni HYDRO GALVI",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+          "label": "Scarica il reader PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 2D",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 3D",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/95905149c3b84cd78d1af7748ffd5e3c4e9c6aae2e7eaa746521a3821ec86894.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+      "retrieved_at": "2026-09-07T01:26:54.358611+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://www.galvi.com/moduli/catalogo/lista/4",
+      "content_type": "text/html; charset=UTF-8",
+      "expected_asset_valid": true,
+      "sha256": "7b303f641e3a56ab805f719410fe342a6ff2a33430581c459819ee2f9fcb743b",
+      "bytes": 14167,
+      "format": "html",
+      "local_path": "sources/raw/galvi/7b303f641e3a56ab805f719410fe342a6ff2a33430581c459819ee2f9fcb743b.html",
+      "title": "- I Prodotti",
+      "links": [
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "I Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/form",
+          "label": "Richieste Cataloghi",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Catalogo Prodotti",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/1",
+          "label": "Freni a Ceppi",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe Brakes.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/2",
+          "label": "Freni a Disco",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/3",
+          "label": "Servofreni",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/lista/4",
+          "label": "Respingenti",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti GALVI RME - RMV - MBS.pdf",
+          "label": "Scarica il Catalogo PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+          "label": "Respingenti GALVI RMV ed RME",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/36",
+          "label": "",
+          "kind": "page"
+        },
+        {
+          "url": "http://www.galvi.com/moduli/catalogo/schedatecnica/36",
+          "label": "Respingenti GALVI MBS",
+          "kind": "page"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+          "label": "Scarica il reader PDF",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 2D",
+          "kind": "asset"
+        },
+        {
+          "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+          "label": "Scarica il viewer 3D",
+          "kind": "asset"
+        }
+      ],
+      "text_path": "sources/extracted/galvi/7b303f641e3a56ab805f719410fe342a6ff2a33430581c459819ee2f9fcb743b.txt"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/Respingenti GALVI RME - RMV.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/34",
+      "retrieved_at": "2026-09-07T01:26:54.658590+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/Respingenti%20GALVI%20RME%20-%20RMV.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "e01160a51475e40f90125b98524ec004195efbc573ec864b98d1915c9954bcbe",
+      "bytes": 587570,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/e01160a51475e40f90125b98524ec004195efbc573ec864b98d1915c9954bcbe.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI Hydraulic Units MINHYD.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/35",
+      "retrieved_at": "2026-09-07T01:26:55.111647+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/GALVI%20Hydraulic%20Units%20MINHYD.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "521e0f43b7e2b77c67f14f041195519dbacf132467719fb91364bf08995f4b87",
+      "bytes": 114974,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/521e0f43b7e2b77c67f14f041195519dbacf132467719fb91364bf08995f4b87.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/GALVI MBS Buffers Technical Leaflet.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/schedatecnica/36",
+      "retrieved_at": "2026-09-07T01:26:55.747118+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Respingenti/GALVI%20MBS%20Buffers%20Technical%20Leaflet.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "5c22fd1dc3907c60ec66533366208f1904387abd2743e9687e89b1bf6dd81385",
+      "bytes": 341055,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/5c22fd1dc3907c60ec66533366208f1904387abd2743e9687e89b1bf6dd81385.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe Brakes.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "retrieved_at": "2026-09-07T01:26:56.122931+00:00",
+      "depth": 2,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Shoe%20Brakes.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "08b6d7d0f37c2e4973c8cc67c7c8325d25c32cd6ee42d56403ce615c3b5e5675",
+      "bytes": 3174783,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/08b6d7d0f37c2e4973c8cc67c7c8325d25c32cd6ee42d56403ce615c3b5e5675.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "retrieved_at": "2026-09-07T01:26:57.091248+00:00",
+      "depth": 2,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/GALVI_Thrusters.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "6ce37967e537d81254197539eb9ecc0b653a9283f07a19636e1974ec4f68a933",
+      "bytes": 173333,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/6ce37967e537d81254197539eb9ecc0b653a9283f07a19636e1974ec4f68a933.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti GALVI RME - RMV - MBS.pdf",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "retrieved_at": "2026-09-07T01:26:57.444430+00:00",
+      "depth": 2,
+      "status": 200,
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Cataloghi/Respingenti%20GALVI%20RME%20-%20RMV%20-%20MBS.pdf",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "99912c1b6abb38faedd827b2a13c4d3a6254e33e1e965cdbd565b4a03a6a629f",
+      "bytes": 930954,
+      "format": "pdf",
+      "local_path": "sources/raw/galvi/99912c1b6abb38faedd827b2a13c4d3a6254e33e1e965cdbd565b4a03a6a629f.pdf"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "retrieved_at": "2026-09-07T01:26:57.824677+00:00",
+      "depth": 2,
+      "status": "error",
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+      "content_type": "application/zip",
+      "error": "asset exceeds 35 MiB limit"
+    },
+    {
+      "manufacturer": "galvi",
+      "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+      "parent_url": "http://www.galvi.com/moduli/catalogo/lista/1",
+      "retrieved_at": "2026-09-07T01:26:59.528142+00:00",
+      "depth": 2,
+      "status": "error",
+      "final_url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+      "content_type": "application/zip",
+      "error": "asset exceeds 35 MiB limit"
+    }
+  ],
+  "unfetched": [],
+  "robots": {
+    "http://www.galvi.com": 200,
+    "http://drfmxgbd0lt74.cloudfront.net": 403,
+    "http://drfmxgbd0lt74.cloudfront.nett": "unavailable"
+  }
+}

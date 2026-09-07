@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.next/
+.wrangler/
+.env*
+!.env.example
+tmp/
+.deploy/
+*.log
+
+*.tsbuildinfo

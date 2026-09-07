@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Musalf Eduard
+FN:Eduard Musalf
+TEL;TYPE=WORK,VOICE:+49 2762 612-462
+EMAIL;TYPE=PREF,INTERNET:eduard.musalf@emg-automation.com
+ADR;TYPE=WORK:\;\;Industriestraße 1\nEMG Automation GmbH\;Wenden\;\;57482\;Deutschland
+END:VCARD

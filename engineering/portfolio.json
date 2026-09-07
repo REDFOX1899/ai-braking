@@ -1,0 +1,197 @@
+[
+  {
+    "code": "AB-MON",
+    "name": "Monitoring and inspection",
+    "stage": "Foundation",
+    "applications": "All selected industrial segments",
+    "shared_components": "Common data acquisition, calibration, event logs and inspection records",
+    "make_buy": "Buy industrial sensors and DAQ; develop software and fixtures",
+    "validation": "Measurement uncertainty, mounting repeatability, data quality, false alarms",
+    "decision": "Do not put AI in the safety loop. Start advisory.",
+    "competitors": [
+      "dellner-bubenzer",
+      "svendborg",
+      "emg"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-DR",
+    "name": "DIN interface drum brakes",
+    "stage": "Core platform",
+    "applications": "Factory cranes, industrial winches and material handling",
+    "shared_components": "Base, levers, springs, shoes and adjustments across controlled size variants",
+    "make_buy": "Design assembly; outsource metalwork; buy thruster and lining initially",
+    "validation": "Holding/dynamic torque, release time, thermal duty, wear, fatigue",
+    "decision": "Approve one real duty envelope before selecting the first sizes.",
+    "competitors": [
+      "galvi",
+      "sibre",
+      "dellner-bubenzer"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-DC",
+    "name": "Spring-applied disc calipers",
+    "stage": "Core platform",
+    "applications": "Conveyors, winches, cranes and heavy industry",
+    "shared_components": "Caliper architecture, lining retention, mounting and spring arrangements",
+    "make_buy": "Design assembly; outsource bodies; buy hydraulic actuation parts",
+    "validation": "Contact balance, torque, thermal growth, release clearance, seal/spring life",
+    "decision": "Parallel requirements work; separate lead needed for parallel detailed design.",
+    "competitors": [
+      "twiflex",
+      "stromag",
+      "svendborg",
+      "galvi",
+      "sibre"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-SP",
+    "name": "Service parts and friction kits",
+    "stage": "Alongside core",
+    "applications": "Installed AI Braking product families",
+    "shared_components": "Shoes, pads, bushes, pins, seals and adjustment kits tied to revisions",
+    "make_buy": "Buy characterized lining compound; outsource controlled parts",
+    "validation": "Friction-pair validation, retention, lot consistency and fit",
+    "decision": "Start with our own assemblies; competitor compatibility requires separate assessment.",
+    "competitors": [
+      "galvi",
+      "mondel",
+      "svendborg"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-ROT",
+    "name": "Drums, discs and hubs",
+    "stage": "Alongside core",
+    "applications": "Both brake platforms",
+    "shared_components": "Machined rotating interfaces and documented material variants",
+    "make_buy": "Outsource casting/forging/machining to approved specifications",
+    "validation": "Thermal cycles, surface finish, runout, balance, speed and hub strength",
+    "decision": "Keep each friction pair and rotor material configuration identifiable.",
+    "competitors": [
+      "galvi",
+      "mondel",
+      "twiflex",
+      "svendborg"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-AIST",
+    "name": "AISE/AIST interface shoe brakes",
+    "stage": "Expansion",
+    "applications": "Steel mills, ports and export replacement projects",
+    "shared_components": "Reuse proven mechanisms where requirements permit; distinct interface families",
+    "make_buy": "Design adaptations; outsource metalwork; buy actuation",
+    "validation": "Imperial interfaces, severity of duty, endurance and machine qualification",
+    "decision": "Not just a unit conversion from DIN.",
+    "competitors": [
+      "galvi",
+      "mondel"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-ACT",
+    "name": "Electrohydraulic thrusters",
+    "stage": "Expansion",
+    "applications": "Drum and thruster-operated disc brakes",
+    "shared_components": "Motor, pump, piston, seals and force/stroke variants",
+    "make_buy": "Buy initially; evaluate proprietary design after performance and cost studies",
+    "validation": "Force-stroke-time curves, temperature, orientation, leakage and endurance",
+    "decision": "Treat as its own development programme, including electrical requirements.",
+    "competitors": [
+      "emg",
+      "galvi",
+      "dellner-bubenzer"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-HPU",
+    "name": "Hydraulic power units",
+    "stage": "Expansion",
+    "applications": "Hydraulically released calipers and emergency brakes",
+    "shared_components": "Reservoir, pump, valves, filtration, sensing and manifolds",
+    "make_buy": "Integrate purchased qualified components before custom hydraulic development",
+    "validation": "Release/application transients, contamination, leakage, loss of power and pressure",
+    "decision": "Controlled braking requires system dynamics and machine interface requirements.",
+    "competitors": [
+      "galvi",
+      "svendborg",
+      "stromag",
+      "dellner-bubenzer"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-COUP",
+    "name": "Flexible and gear couplings",
+    "stage": "Expansion",
+    "applications": "Drive trains with brake drums/discs",
+    "shared_components": "Shared hub interfaces and modular rotating components",
+    "make_buy": "Buy proven couplings initially; design only against defined demand",
+    "validation": "Misalignment, torsion, balance, fatigue and lubrication",
+    "decision": "Keep coupling torque capacity distinct from braking torque.",
+    "competitors": [
+      "galvi",
+      "twiflex",
+      "dellner-bubenzer"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-POS",
+    "name": "Positive-actuated brakes",
+    "stage": "Application-led",
+    "applications": "Process machinery and controlled braking applications",
+    "shared_components": "Reuse selected caliper or shoe elements with distinct actuation",
+    "make_buy": "Buy actuator/control components; design mechanism variants",
+    "validation": "Loss-of-actuation behaviour, modulation, timing and application integration",
+    "decision": "Does not inherit spring-applied fail-safe behaviour.",
+    "competitors": [
+      "galvi",
+      "twiflex",
+      "stromag"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-BUF",
+    "name": "Industrial buffers",
+    "stage": "Separate programme",
+    "applications": "Cranes, travelling equipment and end stops",
+    "shared_components": "Energy absorber families selected by actual impact requirements",
+    "make_buy": "Initially partner with specialist energy-absorber suppliers",
+    "validation": "Impact energy, peak force, stroke, recovery, temperature and repeated impacts",
+    "decision": "Cannot qualify from brake torque tests.",
+    "competitors": [
+      "galvi",
+      "sibre"
+    ],
+    "maturity": "concept"
+  },
+  {
+    "code": "AB-SPEC",
+    "name": "Storm, locking and special systems",
+    "stage": "Separate programme",
+    "applications": "Ports and specialized machinery",
+    "shared_components": "Rail/wheel clamps, locks, turning/locking/braking integrations",
+    "make_buy": "Partner first; design against signed system requirements",
+    "validation": "Wind/rail interface, static holding, fault states and system integration",
+    "decision": "Hazardous-area and personnel-transport uses need distinct qualification projects.",
+    "competitors": [
+      "dellner-bubenzer",
+      "svendborg",
+      "twiflex",
+      "stromag"
+    ],
+    "maturity": "concept"
+  }
+]

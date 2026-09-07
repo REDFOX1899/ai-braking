@@ -1,0 +1,24 @@
+Optional items for GALVI Shoe Brakes
+Category: Shoe Brakes
+Source: http://www.galvi.com/moduli/catalogo/schedatecnica/11
+Manufacturer: GALVI / Newcomen S.r.l., Lissone (MB), Italy
+India plant: GALVI Engineering Pvt Ltd, Musalgaon, Sinnar, Nashik
+
+Optional items for GALVI Shoe Brakes
+The following drawings show the optional   items available for GALVI Shoe Brakes.
+In function of the model of GALVI Shoe Brake and its diameter, some  of the following     optional items may be manufactured in ways which are ifferent from  the ones shown   in the following drawings or they could be not available.
+• Cover for Brake (COV)
+• Self adjusting device (NV)
+• Extra-wide brake Shoes (1,5 times wider than the DIN standard brake  Shoes) (CL)
+• Stainless steel pins (SS) not shown
+• Lubricators on main pins (GR) not shown
+• Open position mechanical microswitch on left (L) or right (R) side  (FIA-L/R)
+• Linings’ wear mechanical microswitch on left (L) or right (R) side  (FIC-L/R)
+• Open position explosionproof mechanical ATEX Standard microswitch     (II-2GD-EEX-D-IIC-T6-IP.66/67) on left (L) or right (R) side  (FIA/EX-L/R)
+• Linings’ wear explosionproof mechanical ATEX Standard microswitch     (II-2GD-EEX-D-IIC-T6-IP.66/67) on left (L) or right (R) side  (FIC/EX-L/R)
+• Manual opening and locking system     on opposite side to FIA optional items’s side (HAN-L/R)
+• Supporting spheres for vertical brake axis     on opposite side to FIC optional items’s side     (not available for models with Thrusters 024, 031, 051 and 081)     (it is necessary to have Thruster with foot rotated 90 degrees)  (ORZ-L/R)
+• Lowering valve for HYDRO Thruster (not available for Thrusters 024,     031, 051 and 081) (LO) not shown
+• Lifting valve for HYDRO Thruster     (not available for Thrusters 024, 031, 051 and 081) (LI) not shown
+We reserve the right to change any data without notice
+All rights reserved

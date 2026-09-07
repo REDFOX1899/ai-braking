@@ -1,0 +1,18 @@
+Function principle
+Additional proportional valves can be provided depending on the application of the HST hydraulic control system within a strip guiding system, e.g. for controlling a pressure roll and/or an immersion roll.
+In contrast to the HR hydraulic control unit, the HST hydraulic control system is not equipped with its own oil pump. Instead, the flow rate of oil is generated via the existing central hydraulic system or an additional HA hydraulic power unit.
+An HST hydraulic control system is used wherever installation space is at a minimum. Therefore it can even be used in close proximity to the hydraulic cylinder. The HST system is then supplied by the central hydraulic unit or an hydraulic power unit (HA).
+The main component of the hydraulic control system is the EMG servo valve. A wide variety of expansion options enable customised solutions (e. g. emergency and block valve „block and bleed“).
+Customer benefits
+Compact hydraulic control
+Low space requirement
+Use in close proximity to the hydraulic cylinder
+Customer specific design and optimisation
+High level of reliability in all areas of application
+Protection of the components from contaminants in the hydraulic oil via special filters is guaranteed
+High reliability, long life cycle
+Supplement your central hydraulic system locally with one or more EMG SV servo valves – flexible, precise and optimally adaptable to any space requirements and customer wishes.
+Jens Kathol
+Product Manager Strip Guiding
++492762612-405
+jens.kathol(at)emg-automation.com

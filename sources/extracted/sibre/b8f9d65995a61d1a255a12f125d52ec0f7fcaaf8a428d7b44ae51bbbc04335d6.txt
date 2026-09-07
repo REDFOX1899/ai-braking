@@ -1,0 +1,67 @@
+Vertrieb kontaktieren
+Kontakt
+MENU
+CLOSE
+SHI
+Hydraulik
+Aggregat
+Features
+Zubehör
+Datenblätter
+Hydraulik Aggregate
+Kompakte Intelligenz, maximale Kontrolle.
+Das Hydraulikaggregat H-SF3 liefert die nötige Power für Federkraftbremsen – präzise gesteuert, effizient im Betrieb. Für reibungslose Abläufe, hohe Zuverlässigkeit und volle Systemintegration.
+ÖFFNEN DER BREMSE
+Durch Einschalten der Netzversorgung wird das 2/2-Wege-Sitzventil geschlossen. Der Hydraulikpumpenmotor läuft an. Der Hydraulikdruck baut sich bis auf den am Druckschalter werkseitig eingestellten Wert auf. Bei Erreichen des eingestellten Druckes ist die Bremse völlig geöffnet. Die Bremsenöffnungszeit beträgt ungefähr 1 s ab Netzversorgungszuschaltung des Hydraulikpumpenmotors und des 2/2-Wege-Sitzventils.
+GEÖFFNETE BREMSE
+Der Hydraulikpumpenmotor wird durch ein Steuersignal vom Druckschalter über ein Motorschütz der übergeordneten Steuerung stromlos geschaltet. Aufgrund der Rückschlagventils und des bestromten 2/2-Wege-Sitzventils bleibt die Bremse in geöffneter Stellung.
+DRUCKABFALL
+Aufgrund eventueller Leckage in der Ölzufuhr kann der Hydrauliksystemdruck absinken. Der Hydraulikpumpenmotor wird durch ein Steuersignal vom Druckschalter über das Motorschütz der übergeordneten Steuerung eingeschaltet. Der Hydraulikdruck baut sich bis auf den am Druckschalter werkseitig eingestellten Wert auf.
+SCHLIESSEN DER BREMSE
+Zum Schließen der Bremse wird das 2/2-Wege-Sitzventil stromlos geschaltet. Der Hydraulikdruck wird zum Tank hin entladen, die Bremse schließt. Die Schließzeiten der Bremsen aus Maßblatt M 1501 264 E gelten nach Wegschalten der Netzversorgung. Entsprechend schließt die Bremse bei Notaus oder Stromausfall.
+NOTBETRIEB
+Die Handpumpe ist für einen eventuell erforderlichen Notbetrieb vorgesehen. Bevor man die Bremse mittels Handpumpe lüftet, ist die Rücklaufleitung durch manuelles betätigen des 2/2-Wege-Sitzventils zu schließen.
+SICHERHEITSANSTEUERUNG
+Durch die übergeordnete Steuerung ist sicherzustellen, dass nach ca. 15 s (anlagenbedingt) der Pumpenmotor auf jeden Fall abgeschaltet wird. Wenn nach ca. 15 s der Druckschalter nicht abgeschaltet hat, liegt ein Fehlerfall vor, der von der übergoerdneten Steuerung als solcher gemeldet werden muss.
+sure to be safe
+.
+Hydraulik-Aggregate
+Zubehör
+Hydraulik-Aggregat KA.2
+Hydraulik-Aggregat KA.2
+H-SF3 & H-SF3-SB
+Typ H-SF3
+Typ H-SF3 Schutzhaube
+Typ H-SF3 Schutzhaube
+Typ H-SF3 Schutzhaus
+Typ H-SF3 Schutzhaus
+SIBRE
+World
+Betriebs
+bremsen
+Sicherheits
+bremsen
+Sturm
+bremsen
+Kupplungen
+Kranlaufräder
+Kranpuffer
+Datenblätter für
+Hydraulik-Aggregate
+Hydraulikaggregat KA-2
+Eldro
+Information für die Funktionsweise
+Hydraulik-Aggregat H-SF3 Schutzhaus
+Hydraulik-Aggregat H-SF3-SB
+Funktionsweise Hydraulikaggregate
+Hydraulik-Aggregat H-SF3 Schutzhaube
+Hydraulik-Aggregat H-SF3
+Hydraulik-Aggregat V2
+SIBRE
+World
+download
+chevron-left
+chevron-right
+angle-left
+angle-right
+cross

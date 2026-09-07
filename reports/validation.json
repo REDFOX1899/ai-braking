@@ -1,0 +1,17 @@
+{
+  "checks": "Archive hashes, ZIP CRC, PDF signatures, fact provenance/page bounds, publication allowlist and required downloads",
+  "counts": {
+    "unique_archived_files": 721,
+    "valid_unique_pdfs": 291,
+    "manufacturers": 8,
+    "source_checked_facts": 24,
+    "unreviewed_leads": 985
+  },
+  "errors": [],
+  "warnings": [
+    "Known invalid supplied PDF retained for provenance: /Users/shantanu/Desktop/AI Braking/sources/raw/galvi-import/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.pdf"
+  ],
+  "engineering_validation": "not performed",
+  "webmcp_validation": "No supported WebMCP validation context available; tool contract not runtime-verified",
+  "browser_visual_testing": "not requested; not performed"
+}

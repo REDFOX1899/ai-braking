@@ -1,0 +1,419 @@
+{
+  "manufacturer": "stromag",
+  "started_at": "2026-09-07T01:28:57.574782+00:00",
+  "limits": {
+    "html_pages": 75,
+    "assets": 120,
+    "depth": 3,
+    "max_asset_mib": 35
+  },
+  "records": [
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.stromag.com/en/products/brake-solutions-category",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:21.772810+00:00",
+      "depth": 0,
+      "status": 403,
+      "final_url": "https://www.stromag.com/en/products/brake-solutions-category",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.stromag.com/-/media/Project/Altramotion/shared/files/Literature/brand/stromag/catalogs/mcc-p-8518-sg-en-a4-web.pdf?rev=d1104cc1554a466487df155561b85270",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:22.304828+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "https://www.stromag.com/-/media/Project/Altramotion/shared/files/Literature/brand/stromag/catalogs/mcc-p-8518-sg-en-a4-web.pdf?rev=d1104cc1554a466487df155561b85270",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "d0320fa92a53d3f2b8424ad6154be1e5a25037e96734d79ca4803395351c8f51",
+      "bytes": 31832489,
+      "format": "pdf",
+      "local_path": "sources/raw/stromag/d0320fa92a53d3f2b8424ad6154be1e5a25037e96734d79ca4803395351c8f51.pdf"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:28:57.576433+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "eff6d4988b4d038d75885d696cced55ee1b17eebf78f298df251c9a23a152dc5",
+      "bytes": 465709,
+      "format": "html",
+      "local_path": "sources/raw/stromag/eff6d4988b4d038d75885d696cced55ee1b17eebf78f298df251c9a23a152dc5.html",
+      "title": "Catalogs",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/eff6d4988b4d038d75885d696cced55ee1b17eebf78f298df251c9a23a152dc5.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/brochures",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:28:58.451552+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/brochures",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "3c03bfeea0e855cf30ae042d48a1177d5365cdf98dc1beb1270fe6bbc3acbf7d",
+      "bytes": 837831,
+      "format": "html",
+      "local_path": "sources/raw/stromag/3c03bfeea0e855cf30ae042d48a1177d5365cdf98dc1beb1270fe6bbc3acbf7d.html",
+      "title": "Brochures",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/3c03bfeea0e855cf30ae042d48a1177d5365cdf98dc1beb1270fe6bbc3acbf7d.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:28:59.351076+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "fc3af2988f8a040495cd736d7f12ab17e6eb73e457c34ad91f30ca597af489b6",
+      "bytes": 664359,
+      "format": "html",
+      "local_path": "sources/raw/stromag/fc3af2988f8a040495cd736d7f12ab17e6eb73e457c34ad91f30ca597af489b6.html",
+      "title": "Success Stories",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/fc3af2988f8a040495cd736d7f12ab17e6eb73e457c34ad91f30ca597af489b6.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/articles",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.025280+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/articles",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "d5ff2b9583eee277ea8687090f9d707a9a168addbc90ad2cc64be14ac144d47c",
+      "bytes": 204306,
+      "format": "html",
+      "local_path": "sources/raw/stromag/d5ff2b9583eee277ea8687090f9d707a9a168addbc90ad2cc64be14ac144d47c.html",
+      "title": "Articles",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/d5ff2b9583eee277ea8687090f9d707a9a168addbc90ad2cc64be14ac144d47c.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.397939+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "517e250162119944226804c285a05e0dcf2f2c92efc93a7b273a1eb4f4daf16a",
+      "bytes": 93560,
+      "format": "html",
+      "local_path": "sources/raw/stromag/517e250162119944226804c285a05e0dcf2f2c92efc93a7b273a1eb4f4daf16a.html",
+      "title": "Innovation Spotlights",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/517e250162119944226804c285a05e0dcf2f2c92efc93a7b273a1eb4f4daf16a.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/certificates",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.720270+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/certificates",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "e62d3545c0d05d41a6f745ee93d9030a648c94fdedaf8417f9e4827aabd86050",
+      "bytes": 127632,
+      "format": "html",
+      "local_path": "sources/raw/stromag/e62d3545c0d05d41a6f745ee93d9030a648c94fdedaf8417f9e4827aabd86050.html",
+      "title": "Certificates",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/e62d3545c0d05d41a6f745ee93d9030a648c94fdedaf8417f9e4827aabd86050.txt"
+    },
+    {
+      "manufacturer": "stromag",
+      "url": "https://www.altraliterature.com/brand/stromag/forms",
+      "parent_url": "https://www.altraliterature.com/brand/stromag/catalogs",
+      "retrieved_at": "2026-09-07T01:29:01.089302+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/stromag/forms",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "18b4fc26035ecc34d5273ec171de8fa256ab4a755be306db58e1a94528915a20",
+      "bytes": 259577,
+      "format": "html",
+      "local_path": "sources/raw/stromag/18b4fc26035ecc34d5273ec171de8fa256ab4a755be306db58e1a94528915a20.html",
+      "title": "Forms",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/stromag/forms",
+          "label": "Forms",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/stromag/18b4fc26035ecc34d5273ec171de8fa256ab4a755be306db58e1a94528915a20.txt"
+    }
+  ],
+  "unfetched": [],
+  "robots": {
+    "https://www.altraliterature.com": 200
+  }
+}

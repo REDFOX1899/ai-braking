@@ -1,0 +1,11 @@
+category,parts_or_service,capabilities_required,qualification_evidence,initial_strategy
+Precision machining,"pins; levers; hubs; bases","controlled datums; critical fits; CMM access; surface finish","first article; calibration; lot traceability; capacity quote",outsource
+Foundry,"drums; shoes; housings where selected","specified metallurgy; casting quality; machining allowance","material certificate; test coupons; NDT as specified",evaluate after prototype route
+Fabrication,"bases; guards; brackets","weld procedure; fixtures; distortion control","welding records; dimensional inspection; NDT where specified",outsource
+Heat treatment,"pins; shafts; springs if applicable","controlled atmosphere/process; hardness and case control","batch records; hardness profile; distortion report",specialist
+Spring maker,"coil springs; disc spring stacks","load-deflection testing; fatigue evidence; traceable material","curve per lot; relaxation/endurance evidence",buy specialist
+Friction materials,"linings; pads; bonded shoes","compound characterization; controlled bonding/riveting","friction envelope; wear/fade tests; lot consistency",buy specialist
+Hydraulics,"thrusters; cylinders; HPU; valves","leak and pressure testing; cleanliness; seal compatibility","test report; component traceability; service support",buy proven assemblies initially
+Surface treatment,"corrosion coatings","controlled thickness; masking; process compatibility","thickness report; adhesion; corrosion evidence",specialist
+Metrology and laboratory,"CMM; material testing; dynamometer testing","range and uncertainty suited to approved requirements","accreditation scope where relevant; calibration; fixture review",contract first
+Electronics integrator,"DAQ; sensors; harness; enclosure","industrial assembly; calibration; EMC-aware wiring","channel calibration; harness inspection; environment data",off-the-shelf prototype

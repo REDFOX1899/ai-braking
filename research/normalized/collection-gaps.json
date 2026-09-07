@@ -1,0 +1,4176 @@
+[
+  {
+    "url": "http://drfmxgbd0lt74.cloudfront.nett/PDF/Disco/GALVI Unit\u00e0 Idraulica EMEHYD-6863-SPECIAL.pdf",
+    "reason": "error HTTPConnectionPool(host='drfmxgbd0lt74.cloudfront.nett', port=80): Max retries exceeded with url: /PDF/Disco/GALVI%20Unit%C3%A0%20Idraulica%20EMEHYD-6863-SPECIAL.pdf (Caused by NameResolutionError(\"HTTPConnection(host='drfmxgbd0lt74.cloudfront.nett', port=80): Failed to resolve 'drfmxgbd0lt74.cloudfront.nett' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "manufacturer": "galvi"
+  },
+  {
+    "url": "http://drfmxgbd0lt74.cloudfront.net/PDF/Disco/DIS-01.pdf",
+    "reason": "403",
+    "manufacturer": "galvi"
+  },
+  {
+    "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/AdbeRdr933_en_US.zip",
+    "reason": "error asset exceeds 35 MiB limit",
+    "manufacturer": "galvi"
+  },
+  {
+    "url": "http://drfmxgbd0lt74.cloudfront.net/viewers/eDrawingsFullAll.zip",
+    "reason": "error asset exceeds 35 MiB limit",
+    "manufacturer": "galvi"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/downloads",
+    "reason": "404",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbt",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kh",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/khd",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kl",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/klst",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kst",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/n",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ntrst",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/nx",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-wtc",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eba",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ebh",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ebn",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/hand-pump",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/hydraulic-rotary-actuator",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rlh-200",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rlh-240",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rlm-280",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/lm-20-40-50-locking-devices",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/lm-70-95-locking-devices",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/vsr-3-for-sb-brakes",
+    "parent": "https://www.dellnerbubenzer.com/products?page=5&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-rectifiers-bgl-egl",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/switching-rectifier-sgl",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kfb",
+    "parent": "https://www.dellnerbubenzer.com/products?page=3&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sfb",
+    "parent": "https://www.dellnerbubenzer.com/products?page=4&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/twin-safe",
+    "parent": "https://www.dellnerbubenzer.com/products?page=5&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/pe-400-150-5",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/rectifiers-fwr-hwr",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/fke-series",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/fkr-series",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/fk-series",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/fkt-series",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/fm-series",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/stl-stop-turn-locking-system",
+    "parent": "https://www.dellnerbubenzer.com/products?page=5&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsz",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsza",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsze",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbszr",
+    "parent": "https://www.dellnerbubenzer.com/products?page=2&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbb-55-140",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-low-inertia-brakes",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-low-inertia-clutch",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-low-inertia-high-torque-clutch",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-mechanical-pto",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-pilotless-mechanical-pto",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-planetary-hydraulic-hoist",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-planetary-hydraulic-winches",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-power-grip",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-power-grip-po",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-type-2-pto",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-water-cooled-brake",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wpt-disc-clutches-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/wpt-worm-gear-winches",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wpt-disc-clutches-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/anti-sway-systems?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/anti-sway-systems",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bac?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bac",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bhb?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bhb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/boss?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/boss",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcms-x",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brake-control-unit-bcu2001",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/brb-120?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/brb-120",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/bsc?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/bsc",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-g?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-g",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/buel-h?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/buel-h",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sb-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/cmb-3-for-sf-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/compactus-hpu?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/compactus-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/db-hpu?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/db-hpu",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrb?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbrbe?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbrbe",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsb?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/dbsbt?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/dbsbt",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products?page=6&prop_ModuleId=1863",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rba-16-90",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rba-300-75",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rba-sfra12-120",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-rba-sfra8-100",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-yba-16-90",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-yba-32-120",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-yba-8-120",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-yba-bacw200",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-ybp-1x80",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/jhs-ybp-3x65",
+    "parent": "https://www.dellnerbubenzer.com/product-types/wind-turbine-components",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-16?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-16",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mx?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mx",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-17-3-mxs",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-22?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-22",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-23-3?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-23-3",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-28-5?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-28-5",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-30?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-30",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sb-8-series?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sb-8-series",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sbs-safety-brake-system",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-10-40?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-10-40",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/sf-50?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/sf-50",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-100-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-140-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-35-50-65-80-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-4x125-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skd-90-active-brakes",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-100-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skde-50-electric-active-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-140-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-a-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-180-s-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-50-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-65-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/skp-95-sa-fail-safe-brake",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/eb?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/eb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/ecd?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/ecd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/k?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/k",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kb?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kb",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=1&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=2&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=3&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=4&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=5&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=6&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.dellnerbubenzer.com/products/kbsd?page=7&prop_ModuleId=1863",
+    "parent": "https://www.dellnerbubenzer.com/products/kbsd",
+    "reason": "collection batch limit",
+    "manufacturer": "dellner-bubenzer"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/sibre-solenoid-control-unit-scu-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/protection-covers-for-drum-brakes-sbh-sibre-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/protection-covers-for-drum-brakes-te-sibre-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/06/drum-brake-options-2021_EN.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/09/Rail-clamp_2023_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/rb/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rhi-100-fc-1.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rhi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rps-800.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rps/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rps-610.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rps/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rps-450.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rps/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/RTCB-350-protection-cover-2024_EN.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rps-200-300.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rps/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/RTCB-225-protection-cover-2024_EN.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/RTCB-350-2024_EN-1.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rhi-30-125-1.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/rhi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/RTCB-225-2024_EN.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/Monitoring-System-SSM_2020_01_EN-1.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/APC-BT-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/APC-AT-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/APC-A-2021_EN-1.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/09/ALC-AT-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ALC-A-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/brake-drum-M1501135E-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-brakes-din-15431-150195e.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-brakes-din-15431-150194e-1.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/ZKES-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ZS1-12-13-EN-ASC-AS-2009-091.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/APC-AS-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/APC-A-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/AFC-AS-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/AFC-A-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/ALC-AS-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/hub-with-bolted-disc-2021_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/brakes-bs.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/USB5_V_ELHY_2021_EN-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-3.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ABC-V-2023_EN.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/abc-v/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-technical-data.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/07/SHI-Product-Range.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-samples-for-console-mounted.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/05/HPU-selection-guide-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-sample-arrangements.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/SHI-281-282_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-280-fc-console.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-280-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-251-252.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-250-fc-console.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-250-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-231-232.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-230-fc-console.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-230-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-201-202.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-200-fc-console.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-200-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-161-162.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/SHI-160-FC-console_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-160-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/10/SHI-106-107_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-104-105.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-103.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/SHI-100-FC-console_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/SHI-100-FC-flange_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-75-fc-flange.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-shi-75.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/shi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/Crane-wheel-systems-SRA-SRN-2024_EN.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-couplings-crane-wheel-systems.pdf",
+    "parent": "https://www.sibre.de/ru/downloads/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-housing-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-SB-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-function-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-V3-protection-cover-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-H-SF3-2021_EN-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/05/HPU-V2-2023_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/04/TE-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2024/07/SBM-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-tbm.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/04/THi-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-tec.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/TM-I-40-TM-I-60-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/SBH_Eldro_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/04/SBG-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/04/TPi-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-typ-te-160.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2023/04/TE-I-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/CB8-H_2026_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/CB8-M_2026_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/CB8-P_2026_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/CB8-E_2026_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-texu-800-1000-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/texu/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-texu-630-710.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/texu/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-3-elhy.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-2.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2024/07/USB5_I_Elhy_2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-data-sheet-usb-5-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/USB5_05_2021_01_EN-1.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/usb-5/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/en/bremsen/usb5-v/",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/en/bremsen/usb-5-iii/",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/en/bremsen/usb-5-ii/",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/en/bremsen/usb-5-i/",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/en/bremsen/usb-5-05/",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/branchen/hafen/betriebsbremsen-hafen/",
+    "parent": "https://www.sibre.de/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/branchen/container-handling/service-brakes/",
+    "parent": "https://www.sibre.de/ru/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/#features",
+    "parent": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/#accessories",
+    "parent": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#features",
+    "parent": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#accessories",
+    "parent": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/#datasheets",
+    "parent": "https://www.sibre.de/ru/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#features",
+    "parent": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#accessories",
+    "parent": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/#datasheets",
+    "parent": "https://www.sibre.de/es/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#features",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#accessories",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/#datasheets",
+    "parent": "https://www.sibre.de/fr/bremsen/kompakt-cb8-cb6/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/options-for-drum-brakes-sibre.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/sibre-brake-shoes-for-drum-brakes.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/options-for-drum-brakes-manual-sibre.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/typ-te/#features",
+    "parent": "https://www.sibre.de/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/typ-te/#accessories",
+    "parent": "https://www.sibre.de/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/typ-te/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/downloads/trommelbremse-optionen/",
+    "parent": "https://www.sibre.de/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/typ-te/#features",
+    "parent": "https://www.sibre.de/ru/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/typ-te/#accessories",
+    "parent": "https://www.sibre.de/ru/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/typ-te/#datasheets",
+    "parent": "https://www.sibre.de/ru/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/typ-te/#features",
+    "parent": "https://www.sibre.de/es/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/typ-te/#accessories",
+    "parent": "https://www.sibre.de/es/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/typ-te/#datasheets",
+    "parent": "https://www.sibre.de/es/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/typ-te/#features",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/typ-te/#accessories",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/typ-te/#datasheets",
+    "parent": "https://www.sibre.de/fr/bremsen/typ-te/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/texu/#features",
+    "parent": "https://www.sibre.de/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/texu/#accessories",
+    "parent": "https://www.sibre.de/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/texu/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/texu/#features",
+    "parent": "https://www.sibre.de/ru/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/texu/#accessories",
+    "parent": "https://www.sibre.de/ru/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/texu/#datasheets",
+    "parent": "https://www.sibre.de/ru/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/texu/#features",
+    "parent": "https://www.sibre.de/es/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/texu/#accessories",
+    "parent": "https://www.sibre.de/es/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/texu/#datasheets",
+    "parent": "https://www.sibre.de/es/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/texu/#features",
+    "parent": "https://www.sibre.de/fr/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/texu/#accessories",
+    "parent": "https://www.sibre.de/fr/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/texu/#datasheets",
+    "parent": "https://www.sibre.de/fr/bremsen/texu/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rhi/",
+    "parent": "https://www.sibre.de/en/bremsen/rhi/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rkb/",
+    "parent": "https://www.sibre.de/en/bremsen/rkb/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rps/",
+    "parent": "https://www.sibre.de/en/bremsen/rps/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rtcb/",
+    "parent": "https://www.sibre.de/en/bremsen/rtcb/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/HPU-H-SF3-2021_EN.pdf",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/hydraulik-aggregate/#features",
+    "parent": "https://www.sibre.de/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/hydraulik-aggregate/#accessories",
+    "parent": "https://www.sibre.de/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/hydraulik-aggregate/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#features",
+    "parent": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#accessories",
+    "parent": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/#datasheets",
+    "parent": "https://www.sibre.de/ru/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/#features",
+    "parent": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/#accessories",
+    "parent": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/#datasheets",
+    "parent": "https://www.sibre.de/es/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/produits/freins-de-securite-mining/",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#features",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#accessories",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/#datasheets",
+    "parent": "https://www.sibre.de/fr/bremsen/hydraulik-aggregate/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rtcb/",
+    "parent": "https://www.sibre.de/produkte/sturmbremsen/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rkb/",
+    "parent": "https://www.sibre.de/produkte/sturmbremsen/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rps/",
+    "parent": "https://www.sibre.de/produkte/sturmbremsen/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rb/#features",
+    "parent": "https://www.sibre.de/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rb/#accessories",
+    "parent": "https://www.sibre.de/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rb/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rhi/",
+    "parent": "https://www.sibre.de/ru/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rtcb/",
+    "parent": "https://www.sibre.de/ru/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rkb/",
+    "parent": "https://www.sibre.de/ru/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rps/",
+    "parent": "https://www.sibre.de/ru/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rb/#features",
+    "parent": "https://www.sibre.de/ru/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rb/#accessories",
+    "parent": "https://www.sibre.de/ru/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/rb/#datasheets",
+    "parent": "https://www.sibre.de/ru/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rhi/",
+    "parent": "https://www.sibre.de/es/productos/frenos-de-tormenta/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rtcb/",
+    "parent": "https://www.sibre.de/es/productos/frenos-de-tormenta/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rkb/",
+    "parent": "https://www.sibre.de/es/productos/frenos-de-tormenta/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rps/",
+    "parent": "https://www.sibre.de/es/productos/frenos-de-tormenta/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rb/#features",
+    "parent": "https://www.sibre.de/es/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rb/#accessories",
+    "parent": "https://www.sibre.de/es/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/rb/#datasheets",
+    "parent": "https://www.sibre.de/es/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rb/#features",
+    "parent": "https://www.sibre.de/fr/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rb/#accessories",
+    "parent": "https://www.sibre.de/fr/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/rb/#datasheets",
+    "parent": "https://www.sibre.de/fr/bremsen/rb/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rhi/#features",
+    "parent": "https://www.sibre.de/bremsen/rhi/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rhi/#accessories",
+    "parent": "https://www.sibre.de/bremsen/rhi/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/rhi/#datasheets",
+    "parent": "https://www.sibre.de/bremsen/rhi/",
+    "reason": "depth limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/abc-v/",
+    "parent": "https://www.sibre.de/en/bremsen/abc-v/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/abc-v/",
+    "parent": "https://www.sibre.de/ru/products/couplings/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/abc-v/",
+    "parent": "https://www.sibre.de/es/productos/acoplamientos/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/abc-v/",
+    "parent": "https://www.sibre.de/en/bremsen/abc-v/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ALC-A_2021-1.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ALC-AS_2021.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ALC-AT_2021.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/ZKES_2021.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/Bremstrrommel-135E_2021.pdf",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/bremsen/afc-90/",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/ru/bremsen/afc-90/",
+    "parent": "https://www.sibre.de/ru/products/couplings/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/es/bremsen/afc-90/",
+    "parent": "https://www.sibre.de/es/productos/acoplamientos/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/fr/bremsen/afc-90/",
+    "parent": "https://www.sibre.de/en/bremsen/afc-90/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/06/rtcb-225.pdf",
+    "parent": "https://www.sibre.de/en/branchen/container-handling/service-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/T1-20-21_DE_Optionen_2011-08-1.pdf",
+    "parent": "https://www.sibre.de/bremsen/typ-te/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.sibre.de/wp-content/uploads/2022/05/Aggregat-H-SF3_2021.pdf",
+    "parent": "https://www.sibre.de/bremsen/hydraulik-aggregate/",
+    "reason": "collection batch limit",
+    "manufacturer": "sibre"
+  },
+  {
+    "url": "https://www.stromag.com/en/products/brake-solutions-category",
+    "reason": "403",
+    "manufacturer": "stromag"
+  },
+  {
+    "url": "https://www.twiflex.com/products",
+    "reason": "403",
+    "manufacturer": "twiflex"
+  },
+  {
+    "url": "https://www.twiflex.com/literature",
+    "reason": "403",
+    "manufacturer": "twiflex"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/media/135450/ohsas18001-2007_cn.pdf",
+    "reason": "404",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/media/135452/dk009200-1-svendborg-brakes-aps-iso-9001-2015-ukas-21-03-2018.pdf",
+    "reason": "404",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/trade-shows/",
+    "parent": "https://www.svendborg-brakes.com/company/roadshow/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/legal/",
+    "parent": "https://www.svendborg-brakes.com/company/roadshow/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/legal/disclaimer/",
+    "parent": "https://www.svendborg-brakes.com/company/roadshow/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/legal/cookie-policy/",
+    "parent": "https://www.svendborg-brakes.com/company/roadshow/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/nominated-for-best-safety/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/1000-days/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/gold-mine-conveyors/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/large-stock-rotor-brake-pad-sets/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/start-local-go-global/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/implementing-iiot/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/denmarks-answer-to-edison/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/keeping-wind-turbines-cool/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/universal-control-case-iiot/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/mine-conveyor-take-up-winch/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/latest-innovation-in-wind-power/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/long-distance-conveyors/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/offshore-wind-turbines/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/spare-parts-in-the-us/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/iron-ore-mine-and-port-conveyors/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/regal-rexnord/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsab-50/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsab-75/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsab-90/",
+    "parent": "https://www.svendborg-brakes.com/products/yaw-systems/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsab-120/",
+    "parent": "https://www.svendborg-brakes.com/products/yaw-systems/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsac-120/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsak-300/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsak-3000/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfa-1000/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfb-600/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfg-400/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfh-500/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfi-200/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfi-300/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfi-3000/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfk-500/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/service-brakes/",
+    "parent": "https://www.svendborg-brakes.com/products/thruster-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/emergency-brakes/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/storm-brakes/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/services/aftermarket/genuine-parts/genuine-parts-why-svendborg-brakes/",
+    "parent": "https://www.svendborg-brakes.com/services/aftermarket/genuine-parts/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/motor-brakes/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/hydraulic-power-units/sbh-1000-series/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/hydraulic-power-units/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/hydraulic-power-units/sbh-3000-series/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/hydraulic-power-units/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/gateway/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/sibrake/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/universal-control-case/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/siman/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/monitoring/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/other-products/crane-wheels/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/other-products/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/other-products/gear-motor/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/other-products/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/roadshow/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/service-support/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/genuine-parts/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/authentication/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/brake-pads/",
+    "parent": "https://www.svendborg-brakes.com/markets/container-handling/aftermarket/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/cb-90a/",
+    "parent": "https://www.svendborg-brakes.com/products/yaw-systems/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/cb-90r/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/cb-90r-ultra/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/cb-120a/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/rotowell-120/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsah-500/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/bsah-d500/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/active-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfh-d500/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfi-d300/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/bsfi-d3000/",
+    "parent": "https://www.svendborg-brakes.com/products/hydraulic-brakes/failsafe-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/how-we-got-a-drill-ship-moving/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/iiot-predictive-maintenance/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/storm-brakes/rail-brakes/",
+    "parent": "https://www.svendborg-brakes.com/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/storm-brakes/rail-clamps/",
+    "parent": "https://www.svendborg-brakes.com/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/markets/container-handling/brakes/storm-brakes/wheel-brakes/",
+    "parent": "https://www.svendborg-brakes.com/products/storm-brakes/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/media/g5ajtxyh/e-web-goal-08.png",
+    "parent": "https://www.svendborg-brakes.com/company/about-us/corporate-social-responsibility/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/case-studies/mine-chair-lift/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/case-studies/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/film/industrial-internet-of-things/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/film/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/film/about-svendborg-brakes/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/film/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/supporting-interforce/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/wind-partnership/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/our-cooperation-in-sa/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/service-app/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/genuine-parts-guarantee/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.svendborg-brakes.com/company/resources/spotlights/safety/",
+    "parent": "https://www.svendborg-brakes.com/company/resources/spotlights/",
+    "reason": "collection batch limit",
+    "manufacturer": "svendborg"
+  },
+  {
+    "url": "https://www.cmco.com/en-us/products/power-and-motion-technology/brakes/brake-accessories/mondel-brake-wheels/",
+    "reason": "404",
+    "manufacturer": "mondel"
+  },
+  {
+    "url": "https://www.emg.elexis.group/fileadmin/user_upload/emg/Sicherheitskomponenten/EMG-ELDRO/EMG-ELDRO-Neue-Generation/20250314_ELDRO_Uebersicht_A-Baureihe_EN.pdf",
+    "reason": "404",
+    "manufacturer": "emg"
+  },
+  {
+    "url": "https://www.emg.elexis.group/fileadmin/user_upload/emg/Sicherheitskomponenten/EMG-ELDRO/Einbauerklaerung-und-Betriebsanleitung/Dokumente/ELDROclassic_Gesamtprospekt_Rev00_08-2020_EN.pdf",
+    "reason": "404",
+    "manufacturer": "emg"
+  },
+  {
+    "url": "https://www.emg.elexis.group/fileadmin/user_upload/emg/Sicherheitskomponenten/EMG-ELDRO/EMG-ELHY/EMG_ELHY_EN_Rev00_08-2020.pdf",
+    "reason": "404",
+    "manufacturer": "emg"
+  }
+]

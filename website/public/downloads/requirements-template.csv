@@ -1,0 +1,9 @@
+id,application,characteristic,value,unit,source,owner,acceptance_method,status
+REQ-001,TBD,holding torque,,N m,customer load calculation,mechanical lead,calibrated static torque test,open
+REQ-002,TBD,brake shaft speed,,rpm,customer operating envelope,mechanical lead,speed measurement,open
+REQ-003,TBD,stop energy,,J,approved energy balance,mechanical lead,instrumented dynamic stop,open
+REQ-004,TBD,stops per hour,,1/h,customer duty history,customer engineer,duty-cycle test,open
+REQ-005,TBD,ambient temperature range,,deg C,installation conditions,customer engineer,environmental test,open
+REQ-006,TBD,maximum release time,,s,machine requirement,controls lead,timed actuation test,open
+REQ-007,TBD,mounting interface,,,customer controlled drawing,mechanical lead,dimensional inspection,open
+REQ-008,TBD,wear limit,,,friction and geometry assessment,mechanical lead,wear and travel verification,open

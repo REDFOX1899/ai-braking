@@ -1,0 +1,81 @@
+Contactez-nous
+Contact
+MENU
+CLOSE
+SHI
+Hydraulik
+Aggregat
+Features
+Equipment
+Feuilles de données
+Hydraulik Aggregate
+Intelligence compacte, contrôle maximal.
+Das Hydraulikaggregat H-SF3 liefert die nötige Power für Federkraftbremsen – präzise gesteuert, effizient im Betrieb. Für reibungslose Abläufe, hohe Zuverlässigkeit und volle Systemintegration.
+RELEASING THE BRAKE
+If the 2/2 directional seat valve is energized, it is in closed position. The hydraulic pump motor starts working.
+Thus, the hydraulic pressure is increased up to the value adjusted with pressure switch. When reaching the
+adjusted pressure, the caliper is fully released.
+The caliper release time is approximate 1 s from energizing of hydraulic pump motor and
+2/2 directional seat valve.
+BRAKE IN RELEASED POSITION
+The higher order control system switches off the hydraulic pump motor with motor contactor
+via control signal from pressure switch. The caliper remains in released position due to
+check valve and the 2/2 directional seat valve is set to closed position ( energized ).
+LOSS OF PRESSURE
+The hydraulic system pressure could drop under the value adjusted on pressure switch due to possible leakage
+of hydraulic piping. The motor contactor switches on the hydraulic pump
+motor via control signal from the higher order control system. Thus, the hydraulic pressure is increased up to
+the value adjusted with pressure switch.
+CLOSING THE BRAKE
+For closing the brake, the 2/2 directional seat valve and the hydraulic pump motor are disenergized simultaneuously. Thus the hydraulic pressure returns to the reservoir and the caliper is applied immediately. The closing times of the brakes in data sheet M 1501 364 E are valid after switch off power supply. In case of emergency
+switch off or power failure the brake closes as discribed above.
+EMERGENCY CONDITION
+The hand pump is designed for an operating under emergency condition.
+For releasing the caliper by hand pump the 2/2 directional seat valve must be closed manually
+in order to close the return line.
+SAFETY DRIVE
+It’s necessary to control from the customer control system to switch off the pump motor in every case after
+approx. 15 s ( depends on the system ). If the pressure switch don’t react after approx. 15 s there is a system
+failure. This failure is to report from the customer control system.
+sure to be safe
+.
+Hydraulic Power Units
+Equipment
+Hydraulik-Aggregat KA.2
+Hydraulik-Aggregat KA.2
+H-SF3 & H-SF3-SB
+Type H-SF3-SB
+Typ H-SF3 Cover
+Typ H-SF3 Cover
+Typ H-SF3 Housing
+Typ H-SF3 Housing
+SIBRE
+World
+Service
+brakes
+Safety
+brakes
+Storm
+brakes
+Accouplements
+Roues et Galets pour grue
+Buttés
+Fiches techniques pour
+Hydraulic Power Units
+Hydraulic Power Unit KA-2
+Eldro
+Information für die Funktionsweise
+Hydraulic Power Unit H-SF3 housing
+Hydraulic Power Unit H-SF3-SB
+Mode of operation
+Hydraulic Power Unit H-SF3 cover
+Hydraulic Power Unit H-SF3
+Hydraulic Power Unit V2
+SIBRE
+World
+download
+chevron-left
+chevron-right
+angle-left
+angle-right
+cross

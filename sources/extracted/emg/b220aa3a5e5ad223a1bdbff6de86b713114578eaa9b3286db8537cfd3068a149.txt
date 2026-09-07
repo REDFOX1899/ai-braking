@@ -1,0 +1,57 @@
+EMG BRAKEMATIC
+®
+Controls for electrohydraulic drum and disc brakes
+EMG BRAKEMATIC
+®
+With EMG BRAKEMATIC
+®
+brake control, you can control several electrohydraulic drum and disc brakes at the same time if the functions and operating methods of the brakes are identical.
+Contact us directly
+Brochure
+Operating principle
+Basically,
+EMG BRAKEMATIC
+®
+controls for electrohydraulic drum and disc brakes consist of a programmable frequency inverter (FU) with function modules, such as pedal, internal or external parameterisation interface and process controller module with transducer.
+A frequency change is generated at the output of the FI. This is used to control an electro-hydraulic lifting device in order to vary its hydraulic force. The resulting actuating force of the
+EMG ELDRO
+®
+counteracts the braking force of the brake system, thus achieving a regulation of the braking process.
+Under certain conditions, several brakes can also be operated simultaneously with a
+EMG BRAKEMATIC
+®
+control system: For this purpose, the functions and operating modes of the brake systems must be identical and the sum of the current consumption values of all
+EMG ELDRO
+®
+s
+must correspond to the selected size of the Brakematic.
+Implementable functions
+Pedal control P:
+electronic pedal control with manual parameter setting for generating an analogue guided braking for dosed braking of travel and rotary movements
+Ramp function R:
+electronic control for the generation of fixed, pre-programmed braking torque curves for the realisation of positively driven opening and closing movements
+Advance:
+electronic control with variable parameter setting for generating controlled braking torque curves, e.g. for constant braking times in complex conveyor strip systems or as an ABS system for driving and trolley vehicles
+Technical details are available on request.
+Customer benefits
+Realisation of controlled braking processes with a defined time specification
+Conveyor line can be stopped evenly within a predefined time - regardless of the load and inclination of the strips
+Avoidance of overfilling at the transfer points
+No need for intermediate bunkers when building new conveyor strip lines
+Perfect for these industries
+Ports (Container / Bulk material)
+EMG thrusters can be found on crane systems and container gantry cranes in all ports worldwide.
+Raw material extraction / handling
+When it comes to extracting raw materials, plant operators worldwide trust our quality products for heavy duty logistics.
+The ELDRO
+®
+thruster has existed as a registered trademark since 1931 and has therefore been successful on the market for more than 90 years - an insanely successful product!
+EMG ELDRO
+®
+meets all requirements of our customers, increases the safety of their brakes and is 100% tested.
+With this pretention EMG sets the industry standard for electrohydraulic brake thrusters.
+Wladimir Peters
+Sales Manager EMG ELDRO
+®
++49 2762 612-317
+wladimir.peters(at)emg-automation.com

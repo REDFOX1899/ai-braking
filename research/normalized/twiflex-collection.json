@@ -1,0 +1,452 @@
+{
+  "manufacturer": "twiflex",
+  "started_at": "2026-09-07T01:28:57.574782+00:00",
+  "limits": {
+    "html_pages": 75,
+    "assets": 120,
+    "depth": 3,
+    "max_asset_mib": 35
+  },
+  "records": [
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.twiflex.com/products",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:21.773027+00:00",
+      "depth": 0,
+      "status": 403,
+      "final_url": "https://www.twiflex.com/products",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.twiflex.com/literature",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:22.337651+00:00",
+      "depth": 0,
+      "status": 403,
+      "final_url": "https://www.twiflex.com/literature",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.twiflex.com/-/media/project/altramotion/shared/files/literature/brand/twiflex-limited/catalogs/p-1648-tf.pdf?rev=920b53b1879149a08c1962382d264058",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:26:22.841458+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "https://www.twiflex.com/-/media/project/altramotion/shared/files/literature/brand/twiflex-limited/catalogs/p-1648-tf.pdf?rev=920b53b1879149a08c1962382d264058",
+      "content_type": "application/pdf",
+      "expected_asset_valid": true,
+      "sha256": "644a8ed2bafcf3c662d28f8464a6b1c717abb65c356e1a00cfb5b38cb38b47db",
+      "bytes": 15986570,
+      "format": "pdf",
+      "local_path": "sources/raw/twiflex/644a8ed2bafcf3c662d28f8464a6b1c717abb65c356e1a00cfb5b38cb38b47db.pdf"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "parent_url": "seed",
+      "retrieved_at": "2026-09-07T01:28:57.576618+00:00",
+      "depth": 0,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "419e0b210c805177ba73a9bbfffaf12fad13ef2a9870a7fb540fff9b5feb97ee",
+      "bytes": 95954,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/419e0b210c805177ba73a9bbfffaf12fad13ef2a9870a7fb540fff9b5feb97ee.html",
+      "title": "Catalogs | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs/p-1648-tf",
+          "label": "Download by Section",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/419e0b210c805177ba73a9bbfffaf12fad13ef2a9870a7fb540fff9b5feb97ee.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:28:58.279305+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "847236daf0981d1f972e159dc42bd12d618d5bf959e6cfbbcd1c1479db4cd5cf",
+      "bytes": 105427,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/847236daf0981d1f972e159dc42bd12d618d5bf959e6cfbbcd1c1479db4cd5cf.html",
+      "title": "Certificates | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/847236daf0981d1f972e159dc42bd12d618d5bf959e6cfbbcd1c1479db4cd5cf.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:28:58.646076+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "451d0f8681421629a02b6dfd388fb5d2fff4c645e10b924053a58f5527867488",
+      "bytes": 492618,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/451d0f8681421629a02b6dfd388fb5d2fff4c645e10b924053a58f5527867488.html",
+      "title": "Brochures | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/451d0f8681421629a02b6dfd388fb5d2fff4c645e10b924053a58f5527867488.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:28:59.419281+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "56175d687fb4f0e6c516fbe6d33342384a2f487be79bb215f211e4bcb03597b5",
+      "bytes": 682490,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/56175d687fb4f0e6c516fbe6d33342384a2f487be79bb215f211e4bcb03597b5.html",
+      "title": "Success Stories | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/56175d687fb4f0e6c516fbe6d33342384a2f487be79bb215f211e4bcb03597b5.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.131558+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "57d25b9e4a7e552a49f6ce556a91b46f2816169b7750cd818f0b39ca61111c3a",
+      "bytes": 143811,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/57d25b9e4a7e552a49f6ce556a91b46f2816169b7750cd818f0b39ca61111c3a.html",
+      "title": "Innovation Spotlights | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/57d25b9e4a7e552a49f6ce556a91b46f2816169b7750cd818f0b39ca61111c3a.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.459084+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "3e35cad80fac521e12a5021a35f1f12304c29381358b9807cc8c2d0a73a31576",
+      "bytes": 323248,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/3e35cad80fac521e12a5021a35f1f12304c29381358b9807cc8c2d0a73a31576.html",
+      "title": "Articles | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/3e35cad80fac521e12a5021a35f1f12304c29381358b9807cc8c2d0a73a31576.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:29:00.900688+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "f1eb51bb34f26a3b685bb07449162a33e068f2861b5657694a058c0d909f6070",
+      "bytes": 579777,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/f1eb51bb34f26a3b685bb07449162a33e068f2861b5657694a058c0d909f6070.html",
+      "title": "Service Manuals | Twiflex Limited",
+      "links": [
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+          "label": "Catalogs",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/certificates",
+          "label": "Certificates",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/brochures",
+          "label": "Brochures & Flyers",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/application-profiles",
+          "label": "Success Stories",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/innovation-spotlights",
+          "label": "Innovation Spotlights",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/articles",
+          "label": "Articles",
+          "kind": "page"
+        },
+        {
+          "url": "https://www.altraliterature.com/brand/twiflex-limited/service-manuals",
+          "label": "Service Manuals",
+          "kind": "page"
+        }
+      ],
+      "text_path": "sources/extracted/twiflex/f1eb51bb34f26a3b685bb07449162a33e068f2861b5657694a058c0d909f6070.txt"
+    },
+    {
+      "manufacturer": "twiflex",
+      "url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs/p-1648-tf",
+      "parent_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs",
+      "retrieved_at": "2026-09-07T01:29:01.566488+00:00",
+      "depth": 1,
+      "status": 200,
+      "final_url": "https://www.altraliterature.com/brand/twiflex-limited/catalogs/p-1648-tf",
+      "content_type": "text/html; charset=utf-8",
+      "expected_asset_valid": true,
+      "sha256": "057173fb7d929b6b1f50772d7b4d35e9d403bbccb9c178d97281c65aae0ff000",
+      "bytes": 219275,
+      "format": "html",
+      "local_path": "sources/raw/twiflex/057173fb7d929b6b1f50772d7b4d35e9d403bbccb9c178d97281c65aae0ff000.html",
+      "title": "Industrial Brake Calipers |  TwiflexLiterature",
+      "links": [],
+      "text_path": "sources/extracted/twiflex/057173fb7d929b6b1f50772d7b4d35e9d403bbccb9c178d97281c65aae0ff000.txt"
+    }
+  ],
+  "unfetched": [],
+  "robots": {
+    "https://www.altraliterature.com": 200
+  }
+}
