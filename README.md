@@ -3,6 +3,7 @@
 Industrial brake research and engineering programme. **Concept stage: no AI Braking product is yet validated, certified or available for sale.**
 
 - Intended domain: **braking.fde.guru** (founder will connect Cloudflare manually).
+- Hosted preview (owner-only): https://ai-braking-research.shantanupatil1899.chatgpt.site
 - Private working repository: https://github.com/REDFOX1899/ai-braking
 - Start with [Engineering handbook](engineering/ENGINEERING-HANDBOOK.md), [Product portfolio](reports/PRODUCT-PORTFOLIO.md), and [Programme and budget](reports/PROGRAMME-AND-BUDGET.md).
 - Read [Research method](reports/RESEARCH-METHOD.md) before using extracted specifications.
@@ -42,3 +43,5 @@ The private repository retains third-party rights notices. No blanket licence gr
 ## Next step with the engineer
 
 Complete `engineering/REQUIREMENTS-TEMPLATE.csv` for real customer applications; confirm CAD/solver formats; request supplier and laboratory quotations using `engineering/SUPPLIER-REQUIREMENTS.csv`. Begin detailed design only against reviewed requirements.
+
+Validation record: [Release status](reports/RELEASE-STATUS.md). Search checks: `cd website && node --experimental-strip-types tests/research-search.mjs`.
