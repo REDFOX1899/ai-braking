@@ -77,7 +77,7 @@ export default function DirectorReview() {
       </header>
       <div className="review-heading">
         <p className="eyebrow">
-          DIRECTOR BRIEFING / GALVI-REFERENCED DEVELOPMENT
+          DIRECTOR BRIEFING / 315 MM REFERENCE STUDY
         </p>
         <h1>
           A precise starting point.
@@ -127,13 +127,13 @@ export default function DirectorReview() {
                 Qualify together.
               </h2>
               <p className="body-row">
-                Use the GALVI N.315.HYD.030/05 brake and PD.315 drum as the
+                Use the published 315 mm brake and drum interfaces as the
                 initial reference. Explore a supply or technical partnership for
                 proven brake mechanisms while AI Braking develops traceable
                 integration, inspection and service documentation.
               </p>
               <p className="body-row">
-                GALVI is a reference and potential partner. No partnership,
+                The catalogue supplier is a reference and potential partner. No partnership,
                 licensing, compatibility or supplier endorsement is currently
                 established.
               </p>
@@ -180,7 +180,7 @@ export default function DirectorReview() {
           <div className="blue-section-title">
             <div>
               <p className="eyebrow">
-                NOMINAL INTEGRATION / NOT A GALVI MANUFACTURING MODEL
+                NOMINAL INTEGRATION / NOT A SUPPLIER MANUFACTURING MODEL
               </p>
               <h2>Inspect the reference assembly.</h2>
               <p>
@@ -287,7 +287,7 @@ export default function DirectorReview() {
             <p>
               The mounting pitch is <strong>2 × H = 440 mm</strong>; H is a
               half-pitch on the source drawing. The transverse pitch is I = 80
-              mm. A proposed M16 bolt is not a GALVI hardware specification.
+              mm. A proposed M16 bolt is not a supplier hardware specification.
               Drum internal wall/web thickness and shaft bore selection are our
               assumptions, not source dimensions.
             </p>
@@ -301,7 +301,7 @@ export default function DirectorReview() {
               <p className="eyebrow">SOURCE → DIMENSION → MODEL</p>
               <h2>Every reference has an address.</h2>
               <p>
-                GALVI Shoe Brakes catalogue, February 2016. PDF page 4 / printed
+                Source shoe-brake catalogue, February 2016. PDF page 4 / printed
                 4–5: brake. PDF page 15 / printed 26–27: drum. Current supplier
                 confirmation remains open.
               </p>
@@ -351,7 +351,7 @@ export default function DirectorReview() {
           </div>
           <div className="design-columns">
             <article className="technical-panel">
-              <p className="eyebrow">OUR CHOICES / NOT GALVI DIMENSIONS</p>
+              <p className="eyebrow">OUR CHOICES / NOT SUPPLIER DIMENSIONS</p>
               <h3>Explicit design assumptions</h3>
               <p className="body-row">
                 Adapter 762 × 220 × 20 mm; shaft bore 50 mm within a published
@@ -510,7 +510,7 @@ export default function DirectorReview() {
       </div>
       <footer>
         <p>
-          AI Braking / Original integration study · GALVI referenced, not
+          AI Braking / Original integration study · Catalogue referenced, not
           endorsed
         </p>
         <Link href="/">
