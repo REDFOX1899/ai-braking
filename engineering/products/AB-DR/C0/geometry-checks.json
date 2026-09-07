@@ -1,0 +1,90 @@
+{
+  "parts": [
+    {
+      "part": "AB-DR-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-DR-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 3.6492460079660774e-14
+    },
+    {
+      "part": "AB-DR-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.4009254660275716e-15
+    },
+    {
+      "part": "AB-DR-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.6180287510694235e-15
+    },
+    {
+      "part": "AB-DR-005",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-DR-006",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.706120033986574e-12
+    },
+    {
+      "part": "AB-DR-007",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 3.683989299568035e-13
+    },
+    {
+      "part": "AB-DR-008",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.4009254660275716e-15
+    },
+    {
+      "part": "AB-DR-009",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.6180287510694235e-15
+    },
+    {
+      "part": "AB-DR-010",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-DR-011",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 8.621216738535399e-13
+    },
+    {
+      "part": "AB-DR-012",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 1.59925116880492e-13
+    },
+    {
+      "part": "AB-DR-013",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-DR-014",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    }
+  ],
+  "intersections": [],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

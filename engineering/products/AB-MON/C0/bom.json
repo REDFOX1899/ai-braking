@@ -1,0 +1,206 @@
+[
+  {
+    "id": "AB-MON-001",
+    "item": 1,
+    "name": "Inspection base",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "650 x 350 x 25; 4 x diameter 13 at (+/-290,+/-140).",
+      "Flatness datum and levelling scheme not released."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -80
+    ],
+    "dimensions": [
+      650.0,
+      350.0,
+      25.0
+    ],
+    "volume_mm3": 5674226.771,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-002",
+    "item": 2,
+    "name": "Centre support envelope -1",
+    "pos": [
+      -250,
+      0,
+      137.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy precision centre/support",
+    "notes": [
+      "Reserved supports; spindle axis Z 240."
+    ],
+    "role": "bought-envelope",
+    "color": "#a2b6c7",
+    "explode": [
+      -80,
+      0,
+      0
+    ],
+    "dimensions": [
+      90.0,
+      120.0,
+      250.0
+    ],
+    "volume_mm3": 2520519.672,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-003",
+    "item": 3,
+    "name": "Centre support envelope 1",
+    "pos": [
+      250,
+      0,
+      137.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy precision centre/support",
+    "notes": [
+      "Reserved supports; spindle axis Z 240."
+    ],
+    "role": "bought-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      80,
+      0,
+      0
+    ],
+    "dimensions": [
+      90.0,
+      120.0,
+      250.0
+    ],
+    "volume_mm3": 2520519.672,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-004",
+    "item": 4,
+    "name": "Study mandrel",
+    "pos": [
+      0,
+      0,
+      240
+    ],
+    "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+    "process": "Turn/grind after datum and mounting design",
+    "notes": [
+      "Diameter 50 nominal; no centre holes, bearing seats or expanding feature."
+    ],
+    "role": "make-concept",
+    "color": "#415a77",
+    "explode": [
+      0,
+      0,
+      100
+    ],
+    "dimensions": [
+      490.0,
+      50.0,
+      50.0
+    ],
+    "volume_mm3": 962112.75,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-005",
+    "item": 5,
+    "name": "Reference disc",
+    "pos": [
+      0,
+      0,
+      240
+    ],
+    "material": "Reference test piece; not AB-ROT interface",
+    "process": "Reference only",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "interface-envelope",
+    "color": "#76c6dc",
+    "explode": [
+      0,
+      0,
+      40
+    ],
+    "dimensions": [
+      20.0,
+      400.0,
+      400.0
+    ],
+    "volume_mm3": 2474004.215,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-006",
+    "item": 6,
+    "name": "Indicator column",
+    "pos": [
+      160,
+      120,
+      187.5
+    ],
+    "material": "6082-T6 aluminium candidate",
+    "process": "Machine adjustable metrology support",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "make-concept",
+    "color": "#d3dde5",
+    "explode": [
+      80,
+      80,
+      0
+    ],
+    "dimensions": [
+      25.0,
+      25.0,
+      350.0
+    ],
+    "volume_mm3": 171805.848,
+    "quantity": 1
+  },
+  {
+    "id": "AB-MON-007",
+    "item": 7,
+    "name": "Probe arm envelope",
+    "pos": [
+      95,
+      120,
+      350
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy articulated holder and calibrated indicator",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#5e91b7",
+    "explode": [
+      50,
+      80,
+      80
+    ],
+    "dimensions": [
+      127.09,
+      20.0,
+      20.0
+    ],
+    "volume_mm3": 49486.779,
+    "quantity": 1
+  }
+]

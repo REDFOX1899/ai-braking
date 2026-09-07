@@ -35,8 +35,8 @@ for p in (R/'website/public').rglob('*'):
  rel=str(p.relative_to(R/'website/public'))
  if rel not in allowed or hashlib.sha256(p.read_bytes()).hexdigest()!=allowed.get(rel):errors.append('Unexpected public bytes '+rel)
  if any(x in rel.lower() for x in ['sources/','session-transcript','galvi_all_products','.env','supplier-confidential']):errors.append('Private path published '+rel)
- if p.suffix=='.pdf' and p.name!='engineering-handbook.pdf':errors.append('Unapproved PDF publication '+rel)
- if p.suffix not in ['.pdf','.png','.jpg']:
+ if p.suffix=='.pdf' and p.name!='engineering-handbook.pdf' and not (rel.startswith('products/') and p.name.endswith('-review-pack.pdf')):errors.append('Unapproved PDF publication '+rel)
+ if p.suffix not in ['.pdf','.png','.jpg','.zip']:
   txt=p.read_text(errors='replace')
   if any(x in txt for x in ['ghp_','github_pat_','BEGIN PRIVATE KEY','braking.fd.guru']):errors.append('Sensitive/stale content '+rel)
 for path in ['engineering-handbook.pdf','product-portfolio.md','programme-and-budget.md','supplier-requirements.csv','requirements-template.csv','research-method.md','reviewed-specifications.csv','domain-handoff.md','build-log-2026-09-07.md']:

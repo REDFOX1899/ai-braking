@@ -1,0 +1,4 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-COUP-001,1,Hub -1,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Saw/laser blank; CNC critical faces and bores,"[160.0, 160.0, 71.0]"
+AB-COUP-002,2,Hub 1,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Saw/laser blank; CNC critical faces and bores,"[160.0, 160.0, 71.0]"
+AB-COUP-003,3,Flexible-element reserved envelope,1,interface-envelope,Supplier-controlled; illustrative reserved envelope,Buy complete coupling or engineered flexible element,"[145.0, 145.0, 60.0]"

@@ -1,0 +1,9 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-ROT-001,1,Disc 400,1,make-concept,C45 normalized candidate; friction pair unqualified,Saw/laser blank; CNC critical faces and bores,"[400.0, 400.0, 20.0]"
+AB-ROT-002,2,Detachable flanged hub,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Saw/laser blank; CNC critical faces and bores,"[170.0, 170.0, 87.0]"
+AB-ROT-003,3,M12 interface fastener envelope 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"
+AB-ROT-004,4,M12 interface fastener envelope 2,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"
+AB-ROT-005,5,M12 interface fastener envelope 3,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"
+AB-ROT-006,6,M12 interface fastener envelope 4,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"
+AB-ROT-007,7,M12 interface fastener envelope 5,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"
+AB-ROT-008,8,M12 interface fastener envelope 6,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy certified bolt/nut/washer set after joint calculation,"[20.0, 20.0, 52.0]"

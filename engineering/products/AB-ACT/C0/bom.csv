@@ -1,0 +1,5 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-ACT-001,1,Integration base,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[200.0, 180.0, 16.0]"
+AB-ACT-002,2,Thruster body envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy selected electrohydraulic thruster,"[120.0, 120.0, 240.0]"
+AB-ACT-003,3,Rod travel envelope,1,interface-envelope,Supplier-controlled; illustrative reserved envelope,Supplier model required,"[30.0, 30.0, 100.0]"
+AB-ACT-004,4,Top clevis envelope,1,interface-envelope,Supplier-controlled; illustrative reserved envelope,Supplier interface,"[65.0, 35.0, 50.0]"

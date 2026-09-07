@@ -1,0 +1,69 @@
+{
+  "slug": "positive-actuated-brake",
+  "short": "Positive-actuated brake",
+  "subtitle": "The common caliper, different behaviour",
+  "level": "Mechanical layout",
+  "priority": 10,
+  "description": "A direct-applied cartridge variant of the disc concept for controlled process braking. Loss of actuation releases braking force; it does not inherit spring-applied holding behaviour.",
+  "targets": [
+    [
+      "Rotor interface",
+      "400 \u00d7 20 mm",
+      "Shared AB-ROT geometry"
+    ],
+    [
+      "Study torque",
+      "500 N\u00b7m",
+      "Process-brake hypothesis"
+    ],
+    [
+      "Normal force per face",
+      "5.38 kN",
+      "At \u03bc=0.30, r=155 mm"
+    ],
+    [
+      "Loss of pressure",
+      "Brake force lost",
+      "Must be acceptable to the machine safety concept"
+    ]
+  ],
+  "decisions": [
+    "Reuse the rotor and selected metalwork only after confirming actuator loads.",
+    "Keep the operating principle explicit to prevent selection as a default holding brake.",
+    "Buy direct-actuation cylinders and define modulation requirements separately."
+  ],
+  "materials": [
+    "Shared concept bridge/pad materials with AB-DC.",
+    "Direct actuator: supplier-selected seals, body and piston materials."
+  ],
+  "risks": [
+    "Not a fail-safe holding brake.",
+    "No modulation loop, thermal-duty capability or emergency-stop approval."
+  ],
+  "steps": [
+    "Confirm application permits loss of braking on loss of supply.",
+    "Assemble shared caliper metalwork and supplier direct actuators.",
+    "Set pressure limiting and independent protection after system review."
+  ],
+  "validation": [
+    "Pressure-force/torque curve, hysteresis and response.",
+    "Thermal duty and loss-of-supply behaviour."
+  ],
+  "hypotheses": [
+    [
+      "Commonality",
+      "Shared rotor / hub goal",
+      "Measure released BOM reuse with AB-DC."
+    ],
+    [
+      "Control quality",
+      "No numerical claim",
+      "Measure torque tracking after actuator and controller selection."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "code": "AB-COUP",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "coupling-interface",
+  "short": "Coupling interface",
+  "subtitle": "A modular drive-train connection",
+  "level": "Interface concept",
+  "priority": 9,
+  "description": "Two flanged hubs and a spacer envelope explore a bought flexible element. Tooth forms and elastomer geometry are not designed, so this is not a working gear or flexible coupling.",
+  "targets": [
+    [
+      "Illustrative shaft bores",
+      "50 mm",
+      "Unreleased shaft fit"
+    ],
+    [
+      "Hub flange diameter",
+      "160 mm",
+      "Concept geometry"
+    ],
+    [
+      "Six-hole pattern",
+      "PCD 120 mm, \u00d811",
+      "M10 candidate"
+    ],
+    [
+      "Torque / misalignment / speed",
+      "Unassigned",
+      "Supplier and shaft-system study required"
+    ]
+  ],
+  "decisions": [
+    "Buy the flexible element or full coupling for the first prototypes.",
+    "Keep hub removal and brake-disc access visible in the packaging study.",
+    "Treat torsional resonance and misalignment separately from static torque."
+  ],
+  "materials": [
+    "Hubs: 42CrMo4 candidate, condition to be selected for section and fatigue.",
+    "Flexible element: vendor-controlled compound or gear assembly."
+  ],
+  "risks": [
+    "No transmitting connection between the placeholder flexible element and hubs is released.",
+    "No keyway, shaft fit, balancing or retention design."
+  ],
+  "steps": [
+    "Approve shaft and torsional system requirements.",
+    "Replace spacer with qualified supplier geometry.",
+    "Finalize hub attachment, alignment and guarding before prototype assembly."
+  ],
+  "validation": [
+    "Shaft torsion, key/locking connection, fatigue and critical-speed assessment.",
+    "Supplier torque/misalignment endurance and balance confirmation."
+  ],
+  "hypotheses": [
+    [
+      "Access",
+      "Hub removal without rotor damage target",
+      "Validate on a physical installation mock-up."
+    ],
+    [
+      "Schedule",
+      "Buy before custom gear development",
+      "Compare quoted full-coupling integration against a custom programme."
+    ]
+  ],
+  "sensors": [
+    "Reserve guard clearance and optional vibration/speed monitoring; no sensors in rotating masses."
+  ],
+  "parts": [
+    {
+      "id": "AB-COUP-001",
+      "item": 1,
+      "name": "Hub -1",
+      "pos": [
+        0,
+        0,
+        -38
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Flange OD 160; bore 50; six diameter 11 on PCD 120.",
+        "No shaft key/locking or torque-transmitting flexible interface."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        -100
+      ],
+      "dimensions": [
+        160.0,
+        160.0,
+        71.0
+      ],
+      "volume_mm3": 523062.61,
+      "quantity": 1
+    },
+    {
+      "id": "AB-COUP-002",
+      "item": 2,
+      "name": "Hub 1",
+      "pos": [
+        0,
+        0,
+        38
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Flange OD 160; bore 50; six diameter 11 on PCD 120.",
+        "No shaft key/locking or torque-transmitting flexible interface."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        160.0,
+        160.0,
+        71.0
+      ],
+      "volume_mm3": 523062.61,
+      "quantity": 1
+    },
+    {
+      "id": "AB-COUP-003",
+      "item": 3,
+      "name": "Flexible-element reserved envelope",
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy complete coupling or engineered flexible element",
+      "notes": [
+        "Reserved space, not a functioning elastic or gear mechanism."
+      ],
+      "role": "interface-envelope",
+      "color": "#38a5d0",
+      "explode": [
+        0,
+        80,
+        0
+      ],
+      "dimensions": [
+        145.0,
+        145.0,
+        60.0
+      ],
+      "volume_mm3": 759872.723,
+      "quantity": 1
+    }
+  ],
+  "intersections": [],
+  "part_count": 3,
+  "downloads": {
+    "step": "AB-COUP-assembly.step",
+    "pdf": "AB-COUP-review-pack.pdf",
+    "zip": "AB-COUP-C0-review.zip"
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "55945c040c43c5f8c57b69549b6d8ac6b62de31d13e3c2b827453da319a3480d",
+    "bytes": 1846
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "c285286a34539240c06096ac5ff3f17f4a639c29f267a2ffc617e434b6217193",
+    "bytes": 568
+  },
+  {
+    "path": "README.md",
+    "sha256": "47dc0c8995d8841aa9ca426ff63176ead57db5a078ff85dc4b5066cff056a93f",
+    "bytes": 1202
+  },
+  {
+    "path": "AB-COUP-review-pack.pdf",
+    "sha256": "b8416f65ab26db89a9e9c8c3273a7d2ffd78d0f6bca45bb92370582ff274baa4",
+    "bytes": 120146
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "742c01824c7454f264321ee58de1e651a11b560438fbcef95a82881d3fbae744",
+    "bytes": 617
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-COUP-assembly.step",
+    "sha256": "096664582467367f25a1a7d1e6c44d81b63684ac5de2a8a4d6512dfd0a08d2f5",
+    "bytes": 100573
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "cbcd04b973ea68799fe80ba27a17e2dbaaed6a58cafe27b7c2bbb5a767eb9d59",
+    "bytes": 2189
+  },
+  {
+    "path": "parts/AB-COUP-001/AB-COUP-001.svg",
+    "sha256": "6a26bd57fc8844ccbf887ee0bb73d776e8d7baeaeefd9c2cef1b665f146d778e",
+    "bytes": 244332
+  },
+  {
+    "path": "parts/AB-COUP-001/AB-COUP-001.step",
+    "sha256": "9bab596644bc819c146eb9c4cb0cf1de7c9f273ce550f90973489056ab4815e7",
+    "bytes": 43016
+  },
+  {
+    "path": "parts/AB-COUP-002/AB-COUP-002.step",
+    "sha256": "aadcab8a7f443d0829d2c4478ce6c359f7edbb524c84b51a048e6c726cafc47c",
+    "bytes": 43000
+  },
+  {
+    "path": "parts/AB-COUP-002/AB-COUP-002.svg",
+    "sha256": "4b3885e3cac06f5d41fc75fc2cad40995a240e179271e6efb082518e11fa60b6",
+    "bytes": 244202
+  },
+  {
+    "path": "parts/AB-COUP-003/AB-COUP-003.step",
+    "sha256": "cf32a784a52f98964b35a16df612780c619e11c44baeb1b9be3cb4cda800ead0",
+    "bytes": 9598
+  },
+  {
+    "path": "parts/AB-COUP-003/AB-COUP-003.svg",
+    "sha256": "caf386acdd35cffefc909c15e1c0af41f91452a1513ca20630e10bb2582e856f",
+    "bytes": 92614
+  }
+]

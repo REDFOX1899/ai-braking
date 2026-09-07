@@ -1,0 +1,48 @@
+{
+  "parts": [
+    {
+      "part": "AB-SPEC-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-005",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-006",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-SPEC-007",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    }
+  ],
+  "intersections": [],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

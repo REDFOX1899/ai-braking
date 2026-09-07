@@ -1,0 +1,147 @@
+[
+  {
+    "path": "AB-DC-assembly.step",
+    "sha256": "002fa7ac43c03a485f5db31604c43c7dc007f3c925d608e23de33dd7f006d66a",
+    "bytes": 220599
+  },
+  {
+    "path": "bom.json",
+    "sha256": "a90d5515b61cd9780f4247bbbcae37d4ccc4085be5e175921126b291eb3558f6",
+    "bytes": 6131
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "8b56d9a024a3d18160956b60f855d6c2db182b14786e4558cb1a2c21fd37d10e",
+    "bytes": 1671
+  },
+  {
+    "path": "README.md",
+    "sha256": "371deb7e3f6a218723b363deb3e681da41b3cd1d56c8f26899142a7f5a8c34bc",
+    "bytes": 1217
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "d7f30efe2fe9f4fec754e1083f065524b22f4ca56d283fa1085bbd52079597d7",
+    "bytes": 1583
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-DC-review-pack.pdf",
+    "sha256": "439dfb3ac111e763aca80eed4b444c9f61482ff4022841b9a1f0cf7713f6047b",
+    "bytes": 109563
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "9551292d8a25c121adad4f1022cff02c195d01e6ddfe1c766480ae7784e53aea",
+    "bytes": 3116
+  },
+  {
+    "path": "parts/AB-DC-005/AB-DC-005.svg",
+    "sha256": "ceff93c52866948fcf796aa3316d3317271f2c478bfe025edba4badb77ba7eaf",
+    "bytes": 4377
+  },
+  {
+    "path": "parts/AB-DC-005/AB-DC-005.step",
+    "sha256": "d2ddd2f2d95d625ff8e77dc960f8cb98b7fe0e5e319bcc375decaeac404628e2",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-DC-002/AB-DC-002.step",
+    "sha256": "f21eb11c83ef08c6c1c1c49837599e2b75d6581efd165e3f927870ea15fb473f",
+    "bytes": 25082
+  },
+  {
+    "path": "parts/AB-DC-002/AB-DC-002.svg",
+    "sha256": "f9b96caa67b48b339dc94dc34c79f4f3fbddac44378a4b40d963e56ca1ee4923",
+    "bytes": 42729
+  },
+  {
+    "path": "parts/AB-DC-003/AB-DC-003.step",
+    "sha256": "9efa1d42e591e5d11467f47a6f5072edf46b74634700757d28da16bc7cb1aeb5",
+    "bytes": 25088
+  },
+  {
+    "path": "parts/AB-DC-003/AB-DC-003.svg",
+    "sha256": "a6fdea2b90cdf91f17d628377698eb7c05fda93ab5f72212d3700cf64e196ef4",
+    "bytes": 43692
+  },
+  {
+    "path": "parts/AB-DC-004/AB-DC-004.step",
+    "sha256": "b350879251157cf24d137c3db39e4d32670dcfcaaa0b1bd36bd76ad9e62cb8f8",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-DC-004/AB-DC-004.svg",
+    "sha256": "13e3f1b950f0afd2ed92bf55072703a56185a7055c00eaf08394ed5891014872",
+    "bytes": 38515
+  },
+  {
+    "path": "parts/AB-DC-010/AB-DC-010.step",
+    "sha256": "39a047f73ebd82da7a04f97d3493ef6ccc3944c0b994dae66d9b2b73557fbe96",
+    "bytes": 5774
+  },
+  {
+    "path": "parts/AB-DC-010/AB-DC-010.svg",
+    "sha256": "435d274859b62d78ab4da0209f9afa3e1780d4335603669b0efe60a079ec891f",
+    "bytes": 38383
+  },
+  {
+    "path": "parts/AB-DC-001/AB-DC-001.step",
+    "sha256": "9dfd24a805e589f01eaca60be99e969c91d49c22fad69ccb4937dcb3fbc854db",
+    "bytes": 39111
+  },
+  {
+    "path": "parts/AB-DC-001/AB-DC-001.svg",
+    "sha256": "45e23afdde6abc20e792ce5ba47942037bd5af6215110f0e877f330887ba9ba8",
+    "bytes": 251467
+  },
+  {
+    "path": "parts/AB-DC-006/AB-DC-006.step",
+    "sha256": "eaa20232cdf4bae064ee123ee8ac57d233721b7eaa15ae412c3bddcb490ee692",
+    "bytes": 5774
+  },
+  {
+    "path": "parts/AB-DC-006/AB-DC-006.svg",
+    "sha256": "9e51bfc4bcb0e583cc176b992412afd176ab4a3955e4ad4b82a195d306a38597",
+    "bytes": 38384
+  },
+  {
+    "path": "parts/AB-DC-008/AB-DC-008.svg",
+    "sha256": "8869400c807893f4503cee6cbdc2dfb605d07858ea0581d23977c37e2d995180",
+    "bytes": 38514
+  },
+  {
+    "path": "parts/AB-DC-008/AB-DC-008.step",
+    "sha256": "cb43b2f36f43c971a843a3e23e58bef1bbbe7391ef079104ad3f3fcf474bc553",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-DC-009/AB-DC-009.svg",
+    "sha256": "336be5aede55c2541526e3e906d0a2f97be8d51a69f41b8e341ced7f47ccd39f",
+    "bytes": 4376
+  },
+  {
+    "path": "parts/AB-DC-009/AB-DC-009.step",
+    "sha256": "a8b08366d8a0cc4a1f2568f7b55ae31f3a1e1a558cbd82c21e5a3292f340126b",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-DC-007/AB-DC-007.step",
+    "sha256": "216efa98f078d6d28d481b37eba1722a63d83b002edf890d100e6100bd497ea0",
+    "bytes": 25088
+  },
+  {
+    "path": "parts/AB-DC-007/AB-DC-007.svg",
+    "sha256": "f3dda106221f995175ae9c1f15ca7169363b46072fae6a10a7a20224c262ac28",
+    "bytes": 43691
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "980cd7adf99c9e0f24b98706524315bcc66b114952cb91546f9eaf2849269a13",
+    "bytes": 5435
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "fcbb076e419675d789539e6fe3e77c3525825afca6190347cc59c2a3566634f4",
+    "bytes": 1569
+  },
+  {
+    "path": "README.md",
+    "sha256": "d7bf770e274568a73fefd62274a0d6aaf8f8ca5554265f8bc756c2fc2a174d65",
+    "bytes": 1202
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "126eb858d8420111b10fefd471e93cdfabf32181541569706abd1acf98ae08ad",
+    "bytes": 1362
+  },
+  {
+    "path": "AB-ROT-review-pack.pdf",
+    "sha256": "becce71cc1afa99ab9ff2e44fc7d86df1d2a25d79f13263b46ef1bce8aa41d37",
+    "bytes": 160977
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-ROT-assembly.step",
+    "sha256": "309f606f028e20ea98312a7c009868f3220f52cb2839a9d77b120eedd8ecc871",
+    "bytes": 154044
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "a25158c1463525f0ee5f7f886b2679a516218163a6eac2c86627052b6738db6d",
+    "bytes": 2787
+  },
+  {
+    "path": "parts/AB-ROT-005/AB-ROT-005.svg",
+    "sha256": "cc474d9f462b67d7f50674503d9782691611d057ff0c366f5a97e58ac21eee62",
+    "bytes": 41287
+  },
+  {
+    "path": "parts/AB-ROT-005/AB-ROT-005.step",
+    "sha256": "cc7750dbeb5f0313d304afc59f833d473fd1b8dde9f2ce0d773b99af74d28014",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-002/AB-ROT-002.svg",
+    "sha256": "3e774e1f14630e9538da39c3bac7cf93b0625431ba6057d499bb4d0120f579c4",
+    "bytes": 297333
+  },
+  {
+    "path": "parts/AB-ROT-002/AB-ROT-002.step",
+    "sha256": "cfb30d5385c5924520f1cce8e6f85d177e276d565be797ad0682d65dc89256fd",
+    "bytes": 47003
+  },
+  {
+    "path": "parts/AB-ROT-003/AB-ROT-003.svg",
+    "sha256": "2c33543f962acca71d14fd2493fa5267a96e8e2f6961754c9f195af96b05078f",
+    "bytes": 41287
+  },
+  {
+    "path": "parts/AB-ROT-003/AB-ROT-003.step",
+    "sha256": "1223888662cd2026f8eadbeb18356614695aa7d2708c569d88151b8c917fbb63",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-004/AB-ROT-004.svg",
+    "sha256": "1ffd157284b194350234a72e7679ad13e58a24e009f94e2997a215da844fe182",
+    "bytes": 41287
+  },
+  {
+    "path": "parts/AB-ROT-004/AB-ROT-004.step",
+    "sha256": "2a4a69cb4dcc337b51002d0a353b7aec0d0002efd3ecd04d0cb2f8e98d2ef40d",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-008/AB-ROT-008.svg",
+    "sha256": "9dc849763a5024cd2eb9d5cb1a15817d0c9f5a4ad042f29cbc36f77ba534d250",
+    "bytes": 41287
+  },
+  {
+    "path": "parts/AB-ROT-008/AB-ROT-008.step",
+    "sha256": "1b1750effbcbfa748ed3c30483c32c5f5d8c7b10b2bb0e45d484b403734ab704",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-001/AB-ROT-001.step",
+    "sha256": "d45629233cd22a52fb9bf76aed578b38a85b545e9a23ea379f328a120ba08c4a",
+    "bytes": 39109
+  },
+  {
+    "path": "parts/AB-ROT-001/AB-ROT-001.svg",
+    "sha256": "10b8aa7f11cbf863147cbd3fb356146f7660b3233450b0beeac145acb500efbe",
+    "bytes": 251671
+  },
+  {
+    "path": "parts/AB-ROT-006/AB-ROT-006.step",
+    "sha256": "1992de293ed86724df371be024295a2273c16ebfa4cd4b79d2718787ce8abc86",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-006/AB-ROT-006.svg",
+    "sha256": "39e1cbe007d8bb239a15adcf80973349ced7182f3b8239391159bdd8aea12e79",
+    "bytes": 41287
+  },
+  {
+    "path": "parts/AB-ROT-007/AB-ROT-007.step",
+    "sha256": "00fc7c7f75957880f427bee162128d0133905e86f640c797e05d15b4fb47b04c",
+    "bytes": 9692
+  },
+  {
+    "path": "parts/AB-ROT-007/AB-ROT-007.svg",
+    "sha256": "007449999c9d5d58246f5fb6eb684ceb12c1fb0fe9b62d00b5df40248b251be3",
+    "bytes": 41287
+  }
+]

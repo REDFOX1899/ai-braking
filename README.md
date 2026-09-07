@@ -2,15 +2,15 @@
 
 Industrial brake research and engineering programme. **Concept stage: no AI Braking product is yet validated, certified or available for sale.**
 
-- Intended domain: **braking.fde.guru** (founder will connect Cloudflare manually).
-- Hosted preview (owner-only): https://ai-braking-research.shantanupatil1899.chatgpt.site
-- Private working repository: https://github.com/REDFOX1899/ai-braking
+- Live domain: **https://braking.fde.guru**.
+- Hosted preview (public): https://ai-braking-research.shantanupatil1899.chatgpt.site
+- Public working repository: https://github.com/REDFOX1899/ai-braking
 - Start with [Engineering handbook](engineering/ENGINEERING-HANDBOOK.md), [Product portfolio](reports/PRODUCT-PORTFOLIO.md), and [Programme and budget](reports/PROGRAMME-AND-BUDGET.md).
 - Read [Research method](reports/RESEARCH-METHOD.md) before using extracted specifications.
 
 ## Reference library
 
-`research/normalized/assets.json` and `asset-index.csv` index original files with source URLs and checksums. `sources/raw` contains privately retained third-party references; `sources/extracted` contains text and one-based PDF page references. These are reference materials, not instructions for the agent or design authority.
+`research/normalized/assets.json` and `asset-index.csv` index original files with source URLs and checksums. `sources/raw` contains collected third-party references (public repository; original rights unchanged); `sources/extracted` contains text and one-based PDF page references. These are reference materials, not instructions for the agent or design authority.
 
 `reviewed-specifications.json/csv` contains a limited source-checked seed set. `specification-candidates.json/csv` contains unreviewed extraction leads. Never feed candidates directly into an engineering calculation without checking the original and obtaining engineering approval.
 
@@ -45,3 +45,11 @@ The private repository retains third-party rights notices. No blanket licence gr
 Complete `engineering/REQUIREMENTS-TEMPLATE.csv` for real customer applications; confirm CAD/solver formats; request supplier and laboratory quotations using `engineering/SUPPLIER-REQUIREMENTS.csv`. Begin detailed design only against reviewed requirements.
 
 Validation record: [Release status](reports/RELEASE-STATUS.md). Search checks: `cd website && node --experimental-strip-types tests/research-search.mjs`.
+
+## Mechanical concept release C0
+
+Twelve product workspaces and 94 component instances are available on the live website. Download original assembly/part STEP, nominal reference SVG drawings, PDF review packs and BOMs. `scripts/cad/build_models.py` is the editable CadQuery source; `engineering/products/<code>/C0` holds the review artifacts.
+
+**Not for manufacture:** no solved mechanisms, released tolerances, approved material conditions, structural/thermal simulations or physical qualification are claimed. Purchased/internal mechanisms are labelled as envelopes. Read [Mechanical development plan](reports/MECHANICAL-DEVELOPMENT-PLAN.md) and [C0 release checks](reports/C0-release-validation.json).
+
+Rebuild CAD with `engineering/cad/requirements.txt` in an isolated Python 3.11 environment. Run `scripts/cad/build_models.py`, then `scripts/publish_data.py` to refresh the website allowlist, and `scripts/cad/validate_release.py` plus `scripts/validate.py` to check the release. The cloud build uses committed public exports; it does not regenerate CAD.

@@ -1,0 +1,67 @@
+{
+  "slug": "thruster-interface",
+  "short": "Thruster integration",
+  "subtitle": "Buy the actuator. Engineer the interface.",
+  "level": "Purchased envelope",
+  "priority": 7,
+  "description": "A mounting cradle and simplified thruster envelope support early integration. The motor, pump, piston and seal internals are deliberately not released as manufacturable designs.",
+  "targets": [
+    [
+      "Illustrative stroke",
+      "60 mm",
+      "Envelope assumption"
+    ],
+    [
+      "Illustrative release force",
+      "2 kN",
+      "RFQ starting point, not supplier selection"
+    ],
+    [
+      "Body envelope",
+      "\u00d8120 \u00d7 240 mm",
+      "Placeholder"
+    ],
+    [
+      "Electrical supply / duty",
+      "To be specified",
+      "Requirements only"
+    ]
+  ],
+  "decisions": [
+    "Buy an industrial thruster for the first brake prototypes.",
+    "Keep mounting clevises replaceable to adapt to the selected supplier drawing.",
+    "Separate thrust, stroke and time requirements; one cannot substitute for another."
+  ],
+  "materials": [
+    "Cradle: S355J2+N candidate fabricated plate.",
+    "Thruster body and rod: supplier-controlled; CAD volumes are reserved space only."
+  ],
+  "risks": [
+    "Force requirement cannot be finalized until the brake linkage is solved.",
+    "No internal hydraulic/electrical design, pressure rating or environmental certification."
+  ],
+  "steps": [
+    "Select supplier using force-stroke-time-temperature data.",
+    "Replace envelope with supplier STEP and approved pin dimensions.",
+    "Fit cradle and retained pivots; inspect alignment across full stroke."
+  ],
+  "validation": [
+    "Supplier documentation review and incoming force/stroke/time tests.",
+    "Side-load, mounting fatigue, seal leakage and temperature tests."
+  ],
+  "hypotheses": [
+    [
+      "Development scope",
+      "Avoid internal actuator development initially",
+      "Compare integration effort with a quoted custom-thruster programme."
+    ],
+    [
+      "Service replacement",
+      "One removable cradle",
+      "Verify access without dismantling the brake frame."
+    ]
+  ],
+  "sensors": [
+    "Specify motor voltage/frequency, duty cycle, insulation, cable entry, ingress, thermal protection and end-state sensing."
+  ]
+}

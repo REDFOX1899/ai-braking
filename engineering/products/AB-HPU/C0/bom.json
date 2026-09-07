@@ -1,0 +1,149 @@
+[
+  {
+    "id": "AB-HPU-001",
+    "item": 1,
+    "name": "Reservoir shell",
+    "pos": [
+      0,
+      0,
+      110
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Fabricate welded sheet; clean and leak-test after approval",
+    "notes": [
+      "Outer 400 x 260 x 220; nominal wall and floor 3 mm.",
+      "No baffles, drains or weld details released; open top."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -80
+    ],
+    "dimensions": [
+      400.0,
+      260.0,
+      220.0
+    ],
+    "volume_mm3": 1163508.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-HPU-002",
+    "item": 2,
+    "name": "Removable deck",
+    "pos": [
+      0,
+      0,
+      223
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "420 x 280 x 6; four diameter 9 holes at (+/-190,+/-120).",
+      "Tank mating flange/fasteners and gasket pending."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      60
+    ],
+    "dimensions": [
+      420.0,
+      280.0,
+      6.0
+    ],
+    "volume_mm3": 704073.186,
+    "quantity": 1
+  },
+  {
+    "id": "AB-HPU-003",
+    "item": 3,
+    "name": "Motor-pump envelope",
+    "pos": [
+      -95,
+      0,
+      316
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy selected motor-pump",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      -80,
+      0,
+      150
+    ],
+    "dimensions": [
+      125.0,
+      125.0,
+      180.0
+    ],
+    "volume_mm3": 2208932.335,
+    "quantity": 1
+  },
+  {
+    "id": "AB-HPU-004",
+    "item": 4,
+    "name": "Qualified valve block envelope",
+    "pos": [
+      95,
+      0,
+      263.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy manifold; no custom pressure channels",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#415a77",
+    "explode": [
+      80,
+      0,
+      110
+    ],
+    "dimensions": [
+      130.0,
+      100.0,
+      75.0
+    ],
+    "volume_mm3": 975000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-HPU-005",
+    "item": 5,
+    "name": "Filter envelope",
+    "pos": [
+      90,
+      90,
+      291
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy selected filter",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#76c6dc",
+    "explode": [
+      80,
+      70,
+      130
+    ],
+    "dimensions": [
+      55.0,
+      55.0,
+      130.0
+    ],
+    "volume_mm3": 308857.828,
+    "quantity": 1
+  }
+]

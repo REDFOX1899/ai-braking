@@ -1,0 +1,6 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-HPU-001,1,Reservoir shell,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Fabricate welded sheet; clean and leak-test after approval,"[400.0, 260.0, 220.0]"
+AB-HPU-002,2,Removable deck,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[420.0, 280.0, 6.0]"
+AB-HPU-003,3,Motor-pump envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy selected motor-pump,"[125.0, 125.0, 180.0]"
+AB-HPU-004,4,Qualified valve block envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy manifold; no custom pressure channels,"[130.0, 100.0, 75.0]"
+AB-HPU-005,5,Filter envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy selected filter,"[55.0, 55.0, 130.0]"

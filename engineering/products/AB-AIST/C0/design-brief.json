@@ -1,0 +1,69 @@
+{
+  "slug": "mill-duty-brake",
+  "short": "Mill-duty brake",
+  "subtitle": "An export interface study",
+  "level": "Kinematic layout",
+  "priority": 8,
+  "description": "A 12-inch drum layout explores a mill-duty envelope using the same modelling primitives. No AISE/AIST interchangeability, duty classification or compliance is asserted.",
+  "targets": [
+    [
+      "Drum diameter",
+      "304.8 mm / 12 in",
+      "Study geometry"
+    ],
+    [
+      "Shoe width",
+      "100 mm",
+      "Not a standard interface"
+    ],
+    [
+      "Study holding torque",
+      "500 N\u00b7m",
+      "Hypothesis; duty not received"
+    ],
+    [
+      "Mounting pattern",
+      "Unreleased",
+      "Customer interface drawing required"
+    ]
+  ],
+  "decisions": [
+    "Keep a separate interface family instead of relabelling the DIN-oriented concept.",
+    "Buy actuation until the severe-duty force/time envelope is known.",
+    "Prioritize access for inspection and replacement in dirty environments."
+  ],
+  "materials": [
+    "S355J2+N candidate structure with environment-specific coating.",
+    "Rotor and lining pair require mill-duty temperature and contamination assessment."
+  ],
+  "risks": [
+    "All mounting dimensions are original placeholders, not an AIST drawing.",
+    "High cycle duty, hot surroundings and corrosion require a separate load spectrum."
+  ],
+  "steps": [
+    "Obtain machine interface dimensions and applicable standard revision.",
+    "Review base, pivot and thruster positions against that interface.",
+    "Proceed with the drum-platform assembly sequence only after separate design approval."
+  ],
+  "validation": [
+    "Interface metrology and full duty-cycle definition.",
+    "Contaminated/environmental endurance and thermal testing."
+  ],
+  "hypotheses": [
+    [
+      "Maintenance access",
+      "20% faster inspection target",
+      "Timed inspection against the customer\u2019s installed mill brake."
+    ],
+    [
+      "Reuse",
+      "Shared non-interface components",
+      "Measure actual reuse after duty loads are approved."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ]
+}

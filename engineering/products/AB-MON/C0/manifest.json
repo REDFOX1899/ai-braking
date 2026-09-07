@@ -1,0 +1,117 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "0a2850ff4870f863c89b316a9b445c622e4c94f3db057995bede50407793e276",
+    "bytes": 4012
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "9395a2f7287056763d1ffc88633988e25712a19e1fda516ecdbc5d0b995a1924",
+    "bytes": 1155
+  },
+  {
+    "path": "README.md",
+    "sha256": "c0c775f22f1354b1658fc1738b0650f289d75862fb8b742957a51961df016999",
+    "bytes": 1219
+  },
+  {
+    "path": "AB-MON-assembly.step",
+    "sha256": "1d9f61e29944a6531a8c846abd4ac06eacc0c1c606320f6807b2a0b49b1d6390",
+    "bytes": 128257
+  },
+  {
+    "path": "AB-MON-review-pack.pdf",
+    "sha256": "2accdc00a7eb8455e853180bcf893c1f8f8642b8a7432eec968fe4de1f594e22",
+    "bytes": 64019
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "f8f3831083a4a62194725ba7ef68877d8c13f4a4145e4c7d8a62e4592e676c2d",
+    "bytes": 1178
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "2dd805602faae8a60cb5df43589a5705dd463a725d82d553956e2582c7b7d52d",
+    "bytes": 2491
+  },
+  {
+    "path": "parts/AB-MON-006/AB-MON-006.step",
+    "sha256": "1a15a8549e1a5b927e496f8eac4f235050f4eb56931dd213e810d967433107b5",
+    "bytes": 5786
+  },
+  {
+    "path": "parts/AB-MON-006/AB-MON-006.svg",
+    "sha256": "7e58b5232c9c17a77ced150e1b5fcee79d1313b8cd0157c1f1998aeebfa92129",
+    "bytes": 26365
+  },
+  {
+    "path": "parts/AB-MON-001/AB-MON-001.step",
+    "sha256": "c9e224802bea556bba0192e6e489756597423c28279379f25be5177cea762a69",
+    "bytes": 34779
+  },
+  {
+    "path": "parts/AB-MON-001/AB-MON-001.svg",
+    "sha256": "10ed06ad7db76a3d81fb92d7b065c7d2ccd42a471413c0e11cb450d3f9e406ec",
+    "bytes": 85265
+  },
+  {
+    "path": "parts/AB-MON-007/AB-MON-007.svg",
+    "sha256": "4109145b05b8dff748aaeaa36b4ab6fc8be0b43ff8db94beb859f944a06fc75a",
+    "bytes": 12740
+  },
+  {
+    "path": "parts/AB-MON-007/AB-MON-007.step",
+    "sha256": "67f188da35d6fcd537f3a3c27c946005e48fbc17e1fb5c971d823044a12cec10",
+    "bytes": 17291
+  },
+  {
+    "path": "parts/AB-MON-002/AB-MON-002.svg",
+    "sha256": "865d77e4e9c4719b69d5b3d69120d0e8b72c3c1e85c3c0b05bc2f9aead6f6acf",
+    "bytes": 33053
+  },
+  {
+    "path": "parts/AB-MON-002/AB-MON-002.step",
+    "sha256": "75c8d866747aae10aefd105ab061e341a9f93656c174f11269913d407cb908f8",
+    "bytes": 23025
+  },
+  {
+    "path": "parts/AB-MON-005/AB-MON-005.svg",
+    "sha256": "eeea48e50280364da9b6e03fe3fad87541d404de280c02c24bc5bf54abc800b3",
+    "bytes": 119988
+  },
+  {
+    "path": "parts/AB-MON-005/AB-MON-005.step",
+    "sha256": "1b727966c18496ef5a3a7bdb8ff6975567db168514f16449d005bbbed3980252",
+    "bytes": 9965
+  },
+  {
+    "path": "parts/AB-MON-004/AB-MON-004.svg",
+    "sha256": "f192c0ca068b43e952ba59e78f67fd50b1e82127b7e1e0cee8f94da5da7d4d9e",
+    "bytes": 34603
+  },
+  {
+    "path": "parts/AB-MON-004/AB-MON-004.step",
+    "sha256": "af2415fd0cc46f186a55122686fae9e665bf557f92e29540ac9254f7c098c3ea",
+    "bytes": 6011
+  },
+  {
+    "path": "parts/AB-MON-003/AB-MON-003.svg",
+    "sha256": "5688ab50861beb96fff2dd3970be173e6313eb499ecb5fceae3a2847278487a8",
+    "bytes": 33052
+  },
+  {
+    "path": "parts/AB-MON-003/AB-MON-003.step",
+    "sha256": "9a3dde6ea945506964d17b97ec4245387307cce4e5cf1ab71995e7015cedee40",
+    "bytes": 23025
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "path": "AB-POS-assembly.step",
+    "sha256": "04cf6779bcd5e799613b34086b99df262da3903567c26c12e03dd607280d621e",
+    "bytes": 220631
+  },
+  {
+    "path": "bom.json",
+    "sha256": "fbfd02dd749cae2a7504146818af6b7293f52239ae02a682bb1180b635238794",
+    "bytes": 6125
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "75bcc7865f83f106fdfe2b8618655465efbbfb7cf9ea5b85c68621b1c7e7558b",
+    "bytes": 1665
+  },
+  {
+    "path": "README.md",
+    "sha256": "8f44931cdb237ce02e09836dbf05e872d6369c982c430d9a5eb994f8d2161145",
+    "bytes": 1204
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "335924dc9f3845824377f77792f9e076c16d21f55d1a80965c99f3974de51c99",
+    "bytes": 1593
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-POS-review-pack.pdf",
+    "sha256": "70b71e1f38cf907208a9beefd547fb5650cf7bb53f94175bebe48445c27629c0",
+    "bytes": 109081
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "f54d24ea4c8fc49485d4089e80a13a51e7fa353ff9db92c753ae4057ea1f42c9",
+    "bytes": 2370
+  },
+  {
+    "path": "parts/AB-POS-010/AB-POS-010.step",
+    "sha256": "420fa7f9e8b91c4bfd6efd2a14b0c4ecf3ebfb51069c63a5030d19cae9ab5c8c",
+    "bytes": 5774
+  },
+  {
+    "path": "parts/AB-POS-010/AB-POS-010.svg",
+    "sha256": "ee94e716fd4bc661f8f43709c6cb730aa8f2972cbe605ba69619d20a1b273e46",
+    "bytes": 38376
+  },
+  {
+    "path": "parts/AB-POS-004/AB-POS-004.svg",
+    "sha256": "58c6ad855c56bd03671f46e28a21fcbb22407154bce981c04c10c9738700928c",
+    "bytes": 38516
+  },
+  {
+    "path": "parts/AB-POS-004/AB-POS-004.step",
+    "sha256": "d40eb9787265dbc38b69043dcd0c7903ba42a62f12095a3148b9a740b3c022b9",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-POS-003/AB-POS-003.svg",
+    "sha256": "c59c305e40ba406a23caa2a68a756a8c67c67c7c05677bd9d385e9966dbb78a2",
+    "bytes": 43693
+  },
+  {
+    "path": "parts/AB-POS-003/AB-POS-003.step",
+    "sha256": "3cddba75de54e9886c438ac3e970cc6a1699329a254ca11c0e6406b1e7cac70b",
+    "bytes": 25088
+  },
+  {
+    "path": "parts/AB-POS-002/AB-POS-002.svg",
+    "sha256": "400d5975a903108c0c8637d80973784393e5384a44df32c7acd972a15d953d88",
+    "bytes": 42730
+  },
+  {
+    "path": "parts/AB-POS-002/AB-POS-002.step",
+    "sha256": "42b4c525ba468d27e69114a62f96e7249ae7196bc4f1064f1ed01047fe7ddad1",
+    "bytes": 25082
+  },
+  {
+    "path": "parts/AB-POS-005/AB-POS-005.svg",
+    "sha256": "fb5d4dd45b77780813f5138cd770c73faa5be32b7fb9e0aa598c7ab553660210",
+    "bytes": 4378
+  },
+  {
+    "path": "parts/AB-POS-005/AB-POS-005.step",
+    "sha256": "15c9748039e3a385d5fa830736d344000b19f3ac09445a93f3fcb778b16c4331",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-POS-007/AB-POS-007.step",
+    "sha256": "5ece96cf9c155ff7f1ddf1e4762dccf8862a6ea07678cbc4f2adfd97b777cf53",
+    "bytes": 25088
+  },
+  {
+    "path": "parts/AB-POS-007/AB-POS-007.svg",
+    "sha256": "3c8f99837d30265ea709c3b5b91543af73f090f812e3143e7fd14fde42ba37f7",
+    "bytes": 43692
+  },
+  {
+    "path": "parts/AB-POS-009/AB-POS-009.svg",
+    "sha256": "cccfc4855df0dd624c9648272da7216d82a6c6d94bf4191a9918175c123d711f",
+    "bytes": 4377
+  },
+  {
+    "path": "parts/AB-POS-009/AB-POS-009.step",
+    "sha256": "447958702b1eadd60d90bda5f760a89f3ea9683e98a2f39c3d92c056ac78fdf8",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-POS-008/AB-POS-008.svg",
+    "sha256": "a8167b312fc993d5aaae6fc36d3e13981ec2353cd8b4025dccf4f86a54da07c2",
+    "bytes": 38515
+  },
+  {
+    "path": "parts/AB-POS-008/AB-POS-008.step",
+    "sha256": "7a7d63ecf5b8633979ab2bc2fe34c4ce0b6bb10d31056f9f07f4ac2903570092",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-POS-006/AB-POS-006.step",
+    "sha256": "9237c038366e5a0d7d333b3750b90e4df3886c7167d0169b3470820bd421b6f3",
+    "bytes": 5774
+  },
+  {
+    "path": "parts/AB-POS-006/AB-POS-006.svg",
+    "sha256": "93154103e1199d052b159dc685e55937fe677d9a2fea68db26c38ce27fd1f4c7",
+    "bytes": 38377
+  },
+  {
+    "path": "parts/AB-POS-001/AB-POS-001.step",
+    "sha256": "f7b26c72024849069e3d2162b8a8a05957f172c4dfff27b09086899cfaaa4b13",
+    "bytes": 39111
+  },
+  {
+    "path": "parts/AB-POS-001/AB-POS-001.svg",
+    "sha256": "09ecf579da144022c55127b580cafd641d5de726fdf8ba7e3efd7f9ee3250d6b",
+    "bytes": 251468
+  }
+]

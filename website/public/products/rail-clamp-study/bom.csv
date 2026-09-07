@@ -1,0 +1,8 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-SPEC-001,1,Rail reference envelope,1,interface-envelope,Customer rail specification required,Reference only; not supplied,"[140.0, 350.0, 120.0]"
+AB-SPEC-002,2,Clamp crosshead,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[260.0, 140.0, 30.0]"
+AB-SPEC-003,3,Jaw carrier -1,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[35.0, 100.0, 100.0]"
+AB-SPEC-004,4,Rail shoe -1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Specialist rail-contact material,"[10.0, 100.0, 28.0]"
+AB-SPEC-005,5,Jaw carrier 1,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[35.0, 100.0, 100.0]"
+AB-SPEC-006,6,Rail shoe 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Specialist rail-contact material,"[10.0, 100.0, 28.0]"
+AB-SPEC-007,7,Actuation reserved volume,1,interface-envelope,Supplier-controlled; illustrative reserved envelope,Specialist spring/wedge mechanism required,"[95.0, 95.0, 110.0]"

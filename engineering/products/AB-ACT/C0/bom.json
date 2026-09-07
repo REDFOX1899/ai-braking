@@ -1,0 +1,118 @@
+[
+  {
+    "id": "AB-ACT-001",
+    "item": 1,
+    "name": "Integration base",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "200 x 180 x 16; 4 x diameter 13 at (+/-75,+/-60)."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -70
+    ],
+    "dimensions": [
+      200.0,
+      180.0,
+      16.0
+    ],
+    "volume_mm3": 567505.133,
+    "quantity": 1
+  },
+  {
+    "id": "AB-ACT-002",
+    "item": 2,
+    "name": "Thruster body envelope",
+    "pos": [
+      0,
+      0,
+      140
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy selected electrohydraulic thruster",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      30
+    ],
+    "dimensions": [
+      120.0,
+      120.0,
+      240.0
+    ],
+    "volume_mm3": 2714336.053,
+    "quantity": 1
+  },
+  {
+    "id": "AB-ACT-003",
+    "item": 3,
+    "name": "Rod travel envelope",
+    "pos": [
+      0,
+      0,
+      310
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Supplier model required",
+    "notes": [
+      "Includes 60 mm assumed stroke; no seal or bearing design."
+    ],
+    "role": "interface-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      0,
+      0,
+      100
+    ],
+    "dimensions": [
+      30.0,
+      30.0,
+      100.0
+    ],
+    "volume_mm3": 70685.835,
+    "quantity": 1
+  },
+  {
+    "id": "AB-ACT-004",
+    "item": 4,
+    "name": "Top clevis envelope",
+    "pos": [
+      0,
+      0,
+      385
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Supplier interface",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "interface-envelope",
+    "color": "#415a77",
+    "explode": [
+      0,
+      0,
+      150
+    ],
+    "dimensions": [
+      65.0,
+      35.0,
+      50.0
+    ],
+    "volume_mm3": 84879.638,
+    "quantity": 1
+  }
+]

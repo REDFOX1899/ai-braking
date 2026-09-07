@@ -1,0 +1,69 @@
+{
+  "slug": "service-kits",
+  "short": "Service kits",
+  "subtitle": "Parts that keep the platform serviceable",
+  "level": "Mechanical concept",
+  "priority": 4,
+  "description": "An identifiable caliper service set: backing plates, lining blocks, retainer pins and bushes. It is scoped to AI Braking concepts; no fit or compatibility with a competitor brake is implied.",
+  "targets": [
+    [
+      "Pad footprint",
+      "70 \u00d7 60 mm",
+      "Shared with AB-DC"
+    ],
+    [
+      "Lining concept thickness",
+      "8 mm",
+      "Wear allowance unapproved"
+    ],
+    [
+      "Retainer pin diameter",
+      "8 mm",
+      "Nominal concept"
+    ],
+    [
+      "Traceability",
+      "100% kits linked to parent revision",
+      "Process objective, not achieved factory evidence"
+    ]
+  ],
+  "decisions": [
+    "Separate wear parts from structural parts in the BOM and drawing numbering.",
+    "Source the friction compound and its retention process from a specialist.",
+    "Mark non-friction backing surfaces, avoiding stress-sensitive and rubbing surfaces."
+  ],
+  "materials": [
+    "Backing plate: C45 candidate, corrosion protection excluded from bond/friction areas.",
+    "Lining: supplier-controlled non-asbestos compound, not a generic material grade.",
+    "Pins/bushes: certified steel and purchased bronze candidates."
+  ],
+  "risks": [
+    "Friction coefficient changes with pressure, speed, temperature and wear.",
+    "Bond strength, rivet design, retainer fatigue and wear limits are not specified."
+  ],
+  "steps": [
+    "Verify parent brake revision and compound lot.",
+    "Inspect backing plate and clean bond surfaces using supplier process.",
+    "Bond/retain lining only to an approved supplier procedure.",
+    "Install pins and bushes with the engineer-approved fit and retention."
+  ],
+  "validation": [
+    "Bond/retention strength, dimensional fit and compound lot consistency.",
+    "Paired dynamometer testing of fade, recovery and wear."
+  ],
+  "hypotheses": [
+    [
+      "Identification errors",
+      "Zero wrong-revision installations target",
+      "Test scanning and human-readable part identification in service trials."
+    ],
+    [
+      "Service inventory",
+      "Shared kit target",
+      "Confirm common parts without extending compatibility beyond released drawings."
+    ]
+  ],
+  "sensors": [
+    "Record digital part/lot identity and wear measurement requirements; sensor design deferred."
+  ]
+}

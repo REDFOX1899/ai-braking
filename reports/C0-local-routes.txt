@@ -1,0 +1,13 @@
+AB-ROT: route and downloads OK
+AB-DR: route and downloads OK
+AB-DC: route and downloads OK
+AB-SP: route and downloads OK
+AB-MON: route and downloads OK
+AB-HPU: route and downloads OK
+AB-ACT: route and downloads OK
+AB-AIST: route and downloads OK
+AB-COUP: route and downloads OK
+AB-POS: route and downloads OK
+AB-BUF: route and downloads OK
+AB-SPEC: route and downloads OK
+12 routes, 260 downloads and 404 verified. Browser/WebGL interaction not tested.

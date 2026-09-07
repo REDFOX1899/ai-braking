@@ -1,0 +1,5 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-BUF-001,1,Mounting plate,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[240.0, 240.0, 25.0]"
+AB-BUF-002,2,Absorber body envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy rated absorber,"[130.0, 130.0, 250.0]"
+AB-BUF-003,3,Rod envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Vendor stroke model required,"[55.0, 55.0, 150.0]"
+AB-BUF-004,4,Impact face envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy supplier face/bumper,"[180.0, 180.0, 35.0]"

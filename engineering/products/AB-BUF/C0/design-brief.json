@@ -1,0 +1,67 @@
+{
+  "slug": "buffer-module",
+  "short": "Buffer module",
+  "subtitle": "An absorber integration, not a brake",
+  "level": "Purchased envelope",
+  "priority": 11,
+  "description": "A replaceable purchased energy absorber, bumper face and bolted mounting plate for a later crane end-stop programme. Absorber internals and force-stroke characteristics are not designed.",
+  "targets": [
+    [
+      "Study impact energy",
+      "5 kJ",
+      "Illustrative requirements input"
+    ],
+    [
+      "Illustrative stroke",
+      "150 mm",
+      "Reserved travel"
+    ],
+    [
+      "Average stopping force",
+      "33.3 kN",
+      "E / s only; peak force unknown"
+    ],
+    [
+      "Supplier rating",
+      "Unassigned",
+      "Impact mass, speed and duty required"
+    ]
+  ],
+  "decisions": [
+    "Partner with an absorber specialist rather than infer impact qualification from brake work.",
+    "Use a replaceable mounting interface and visible stroke envelope.",
+    "Size the machine attachment for verified peak force, not E/s average."
+  ],
+  "materials": [
+    "Mounting plate: S355J2+N candidate.",
+    "Absorber and bumper face: supplier-controlled hydraulic/elastomer components."
+  ],
+  "risks": [
+    "No metering geometry, damping curve or peak force established.",
+    "Travel envelope does not demonstrate energy absorption."
+  ],
+  "steps": [
+    "Collect impact mass, speed, available stroke and recovery interval.",
+    "Select rated absorber and replace CAD envelope with supplier model.",
+    "Approve foundation fasteners and collision clearance."
+  ],
+  "validation": [
+    "Supplier force-stroke curve and machine structure analysis.",
+    "Instrumented impact, temperature and repeated-impact tests."
+  ],
+  "hypotheses": [
+    [
+      "Replacement time",
+      "20% reduction target",
+      "Compare removable cartridge service with the customer baseline."
+    ],
+    [
+      "Verification",
+      "Measured peak-force requirement",
+      "No performance multiple assigned before impact testing."
+    ]
+  ],
+  "sensors": [
+    "Stroke/end-position and impact-event recording only; define survival environment and cable protection."
+  ]
+}

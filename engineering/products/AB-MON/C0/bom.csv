@@ -1,0 +1,8 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-MON-001,1,Inspection base,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[650.0, 350.0, 25.0]"
+AB-MON-002,2,Centre support envelope -1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy precision centre/support,"[90.0, 120.0, 250.0]"
+AB-MON-003,3,Centre support envelope 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy precision centre/support,"[90.0, 120.0, 250.0]"
+AB-MON-004,4,Study mandrel,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Turn/grind after datum and mounting design,"[490.0, 50.0, 50.0]"
+AB-MON-005,5,Reference disc,1,interface-envelope,Reference test piece; not AB-ROT interface,Reference only,"[20.0, 400.0, 400.0]"
+AB-MON-006,6,Indicator column,1,make-concept,6082-T6 aluminium candidate,Machine adjustable metrology support,"[25.0, 25.0, 350.0]"
+AB-MON-007,7,Probe arm envelope,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Buy articulated holder and calibrated indicator,"[127.09, 20.0, 20.0]"

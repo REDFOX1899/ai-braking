@@ -1,0 +1,422 @@
+[
+  {
+    "id": "AB-DR-001",
+    "item": 1,
+    "name": "Four-hole base",
+    "pos": [
+      0,
+      0,
+      10
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "520 x 240 x 20; 4 x diameter 18 THRU.",
+      "Hole centres X +/-230, Y +/-90 from part origin.",
+      "Machine base datum; mounting preload unassigned."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -80
+    ],
+    "dimensions": [
+      520.0,
+      240.0,
+      20.0
+    ],
+    "volume_mm3": 2475642.48,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-002",
+    "item": 2,
+    "name": "Study brake drum",
+    "pos": [
+      0,
+      0,
+      257.5
+    ],
+    "material": "C45 prototype candidate; friction/thermal qualification required",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "OD 315; friction width 100 within 110 mm axial envelope.",
+      "Web bore 90; 6 x diameter 13 on PCD 125.",
+      "Shaft hub and retention not detailed."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      -150,
+      20
+    ],
+    "dimensions": [
+      315.0,
+      110.0,
+      315.0
+    ],
+    "volume_mm3": 2603137.81,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-003",
+    "item": 3,
+    "name": "Pivot clevis -1",
+    "pos": [
+      -199.5,
+      0,
+      52.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Clevis pin bore 20; nominal ear gap 56 mm.",
+      "Foot 4 x diameter 9 at (+/-20,+/-35); base mating holes pending."
+    ],
+    "role": "make-concept",
+    "color": "#38a5d0",
+    "explode": [
+      -60,
+      0,
+      -20
+    ],
+    "dimensions": [
+      65.0,
+      100.0,
+      65.0
+    ],
+    "volume_mm3": 169706.904,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-004",
+    "item": 4,
+    "name": "Lever -1",
+    "pos": [
+      -199.5,
+      0,
+      52.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "32 x 24 section; pin centres Z 0, 205, 260 in local coordinates.",
+      "Nominal pin bore 20; bush fit not detailed."
+    ],
+    "role": "make-concept",
+    "color": "#415a77",
+    "explode": [
+      -110,
+      0,
+      0
+    ],
+    "dimensions": [
+      32.0,
+      24.0,
+      290.0
+    ],
+    "volume_mm3": 200100.533,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-005",
+    "item": 5,
+    "name": "Lower pivot pin -1",
+    "pos": [
+      -199.5,
+      0,
+      52.5
+    ],
+    "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+    "process": "Turn/grind; specify retention after review",
+    "notes": [
+      "Diameter 19.8 study clearance in nominal 20 bore.",
+      "No final fit, hardness or axial retainer design."
+    ],
+    "role": "make-concept",
+    "color": "#76c6dc",
+    "explode": [
+      -70,
+      100,
+      0
+    ],
+    "dimensions": [
+      19.8,
+      105.0,
+      19.8
+    ],
+    "volume_mm3": 32330.287,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-006",
+    "item": 6,
+    "name": "Lining -1",
+    "pos": [
+      0,
+      0,
+      257.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy friction lining / machine carrier to approved retention drawing",
+    "notes": [
+      "1 mm radial study gap at drum; not a release-clearance specification.",
+      "Carrier pivots and lining retention remain to be designed."
+    ],
+    "role": "bought-envelope",
+    "color": "#d3dde5",
+    "explode": [
+      -90,
+      0,
+      30
+    ],
+    "dimensions": [
+      36.031,
+      100.0,
+      180.0
+    ],
+    "volume_mm3": 152621.633,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-007",
+    "item": 7,
+    "name": "Shoe carrier -1",
+    "pos": [
+      0,
+      0,
+      257.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Buy friction lining / machine carrier to approved retention drawing",
+    "notes": [
+      "1 mm radial study gap at drum; not a release-clearance specification.",
+      "Carrier pivots and lining retention remain to be designed."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      -90,
+      0,
+      30
+    ],
+    "dimensions": [
+      40.421,
+      100.0,
+      180.0
+    ],
+    "volume_mm3": 264968.868,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-008",
+    "item": 8,
+    "name": "Pivot clevis 1",
+    "pos": [
+      199.5,
+      0,
+      52.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Clevis pin bore 20; nominal ear gap 56 mm.",
+      "Foot 4 x diameter 9 at (+/-20,+/-35); base mating holes pending."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      60,
+      0,
+      -20
+    ],
+    "dimensions": [
+      65.0,
+      100.0,
+      65.0
+    ],
+    "volume_mm3": 169706.904,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-009",
+    "item": 9,
+    "name": "Lever 1",
+    "pos": [
+      199.5,
+      0,
+      52.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "32 x 24 section; pin centres Z 0, 205, 260 in local coordinates.",
+      "Nominal pin bore 20; bush fit not detailed."
+    ],
+    "role": "make-concept",
+    "color": "#38a5d0",
+    "explode": [
+      110,
+      0,
+      0
+    ],
+    "dimensions": [
+      32.0,
+      24.0,
+      290.0
+    ],
+    "volume_mm3": 200100.533,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-010",
+    "item": 10,
+    "name": "Lower pivot pin 1",
+    "pos": [
+      199.5,
+      0,
+      52.5
+    ],
+    "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+    "process": "Turn/grind; specify retention after review",
+    "notes": [
+      "Diameter 19.8 study clearance in nominal 20 bore.",
+      "No final fit, hardness or axial retainer design."
+    ],
+    "role": "make-concept",
+    "color": "#415a77",
+    "explode": [
+      70,
+      100,
+      0
+    ],
+    "dimensions": [
+      19.8,
+      105.0,
+      19.8
+    ],
+    "volume_mm3": 32330.287,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-011",
+    "item": 11,
+    "name": "Lining 1",
+    "pos": [
+      0,
+      0,
+      257.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy friction lining / machine carrier to approved retention drawing",
+    "notes": [
+      "1 mm radial study gap at drum; not a release-clearance specification.",
+      "Carrier pivots and lining retention remain to be designed."
+    ],
+    "role": "bought-envelope",
+    "color": "#76c6dc",
+    "explode": [
+      90,
+      0,
+      30
+    ],
+    "dimensions": [
+      36.031,
+      100.0,
+      180.0
+    ],
+    "volume_mm3": 152621.633,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-012",
+    "item": 12,
+    "name": "Shoe carrier 1",
+    "pos": [
+      0,
+      0,
+      257.5
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Buy friction lining / machine carrier to approved retention drawing",
+    "notes": [
+      "1 mm radial study gap at drum; not a release-clearance specification.",
+      "Carrier pivots and lining retention remain to be designed."
+    ],
+    "role": "make-concept",
+    "color": "#d3dde5",
+    "explode": [
+      90,
+      0,
+      30
+    ],
+    "dimensions": [
+      40.421,
+      100.0,
+      180.0
+    ],
+    "volume_mm3": 264968.868,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-013",
+    "item": 13,
+    "name": "Thruster reserved space",
+    "pos": [
+      302.5,
+      0,
+      140
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy selected thruster; replace with vendor STEP",
+    "notes": [
+      "Nonfunctional body envelope; linkage not included."
+    ],
+    "role": "bought-envelope",
+    "color": "#5e91b7",
+    "explode": [
+      160,
+      0,
+      40
+    ],
+    "dimensions": [
+      100.0,
+      100.0,
+      190.0
+    ],
+    "volume_mm3": 1492256.51,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DR-014",
+    "item": 14,
+    "name": "Spring/equalizer reserved space",
+    "pos": [
+      0,
+      0,
+      475.0
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Engineer spring/linkage after kinematics",
+    "notes": [
+      "Reserved volume only; no spring, force path or release motion solved."
+    ],
+    "role": "interface-envelope",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      110
+    ],
+    "dimensions": [
+      160.0,
+      50.0,
+      45.0
+    ],
+    "volume_mm3": 360000.0,
+    "quantity": 1
+  }
+]

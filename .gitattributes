@@ -8,3 +8,5 @@
 *.FCStd filter=lfs diff=lfs merge=lfs -text
 # Keep the original website download available in ordinary CI checkouts.
 website/public/downloads/engineering-handbook.pdf -filter -diff -merge -text
+# Original C0 website releases must deploy without Git LFS materialization.
+website/public/products/** -filter -diff -merge -text

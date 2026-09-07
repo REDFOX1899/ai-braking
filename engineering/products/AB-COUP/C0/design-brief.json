@@ -1,0 +1,67 @@
+{
+  "slug": "coupling-interface",
+  "short": "Coupling interface",
+  "subtitle": "A modular drive-train connection",
+  "level": "Interface concept",
+  "priority": 9,
+  "description": "Two flanged hubs and a spacer envelope explore a bought flexible element. Tooth forms and elastomer geometry are not designed, so this is not a working gear or flexible coupling.",
+  "targets": [
+    [
+      "Illustrative shaft bores",
+      "50 mm",
+      "Unreleased shaft fit"
+    ],
+    [
+      "Hub flange diameter",
+      "160 mm",
+      "Concept geometry"
+    ],
+    [
+      "Six-hole pattern",
+      "PCD 120 mm, \u00d811",
+      "M10 candidate"
+    ],
+    [
+      "Torque / misalignment / speed",
+      "Unassigned",
+      "Supplier and shaft-system study required"
+    ]
+  ],
+  "decisions": [
+    "Buy the flexible element or full coupling for the first prototypes.",
+    "Keep hub removal and brake-disc access visible in the packaging study.",
+    "Treat torsional resonance and misalignment separately from static torque."
+  ],
+  "materials": [
+    "Hubs: 42CrMo4 candidate, condition to be selected for section and fatigue.",
+    "Flexible element: vendor-controlled compound or gear assembly."
+  ],
+  "risks": [
+    "No transmitting connection between the placeholder flexible element and hubs is released.",
+    "No keyway, shaft fit, balancing or retention design."
+  ],
+  "steps": [
+    "Approve shaft and torsional system requirements.",
+    "Replace spacer with qualified supplier geometry.",
+    "Finalize hub attachment, alignment and guarding before prototype assembly."
+  ],
+  "validation": [
+    "Shaft torsion, key/locking connection, fatigue and critical-speed assessment.",
+    "Supplier torque/misalignment endurance and balance confirmation."
+  ],
+  "hypotheses": [
+    [
+      "Access",
+      "Hub removal without rotor damage target",
+      "Validate on a physical installation mock-up."
+    ],
+    [
+      "Schedule",
+      "Buy before custom gear development",
+      "Compare quoted full-coupling integration against a custom programme."
+    ]
+  ],
+  "sensors": [
+    "Reserve guard clearance and optional vibration/speed monitoring; no sensors in rotating masses."
+  ]
+}

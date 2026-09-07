@@ -1,0 +1,87 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "b9cd1cb15f1bcca93afab832849d7bd9d381c686a244499b055461cf4b3895b6",
+    "bytes": 2348
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "11c7c4e721e0f47723af9dcd1f71378f80aaf3cd7ee9ec0ec08744287de65bcf",
+    "bytes": 683
+  },
+  {
+    "path": "AB-BUF-review-pack.pdf",
+    "sha256": "53bbf297c25bb3afc8378c041313cceea89c0f9d298e8e93841dfd73e48b1e4b",
+    "bytes": 47927
+  },
+  {
+    "path": "README.md",
+    "sha256": "5aad2ac7b99d1cfab31eb57354f8b23805d7d69743e7fb0cce9ff3b60f78c5f1",
+    "bytes": 1208
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "f59e385c189f0f6ae3dd9c28da3aa9221db41871383b321ace387fe4a6ba60ef",
+    "bytes": 746
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-BUF-assembly.step",
+    "sha256": "5259364b461ef58d4ff51e608adaa2e115ae5d4b08c5d34f5660c746abdd8ff6",
+    "bytes": 55746
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "0f5a46003fb105c96957e4d34b1a63430ea01c2990092915c93ad6195b4022b1",
+    "bytes": 2155
+  },
+  {
+    "path": "parts/AB-BUF-004/AB-BUF-004.svg",
+    "sha256": "fb261056712734f2ae35bff82b87af649fd96c48ba333d034dc01b5b20d00f38",
+    "bytes": 59506
+  },
+  {
+    "path": "parts/AB-BUF-004/AB-BUF-004.step",
+    "sha256": "a97b75bcfe6504dced1f66b54dae86498a03b9f1313c0671f3ae76335203a864",
+    "bytes": 5777
+  },
+  {
+    "path": "parts/AB-BUF-003/AB-BUF-003.svg",
+    "sha256": "7addb2f16273e18a0265574a52ec59f2487ab9b0646a802c8aea83fbf6f5493c",
+    "bytes": 35647
+  },
+  {
+    "path": "parts/AB-BUF-003/AB-BUF-003.step",
+    "sha256": "d83a9c2c161316a29715ea8a49f5abeb3a09e060d534be8005094ef42cfdbe73",
+    "bytes": 5775
+  },
+  {
+    "path": "parts/AB-BUF-002/AB-BUF-002.svg",
+    "sha256": "a91045c36da8d92621431a11026cc02d3602bd17a500f1e90caf157000c0b9ab",
+    "bytes": 50891
+  },
+  {
+    "path": "parts/AB-BUF-002/AB-BUF-002.step",
+    "sha256": "6049e30f86811972786632001496a2654a2c8ee921a099386c9120abbbc1b753",
+    "bytes": 5778
+  },
+  {
+    "path": "parts/AB-BUF-001/AB-BUF-001.svg",
+    "sha256": "5ca86c22200f6cad559b84f73bf5c40c53034a5c353aeeea4df686a3f09a0075",
+    "bytes": 99924
+  },
+  {
+    "path": "parts/AB-BUF-001/AB-BUF-001.step",
+    "sha256": "dbf2de91ef38904cda91cf6be947eb6f6495fd322e86671fe8d4bde6a88ed2e9",
+    "bytes": 34681
+  }
+]

@@ -1,0 +1,11 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-DC-001,1,Common disc reference,1,shared-concept,C45 candidate,Saw/laser blank; CNC critical faces and bores,"[400.0, 400.0, 20.0]"
+AB-DC-002,2,Bridge beam,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[150.0, 45.0, 60.0]"
+AB-DC-003,3,Cheek plate -1,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[150.0, 160.0, 20.0]"
+AB-DC-004,4,Pad backing -1,1,make-concept,C45 candidate,Saw/laser blank; CNC critical faces and bores,"[70.0, 60.0, 8.0]"
+AB-DC-005,5,Friction pad -1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Purchase matched compound and approved bonding/retention,"[70.0, 60.0, 8.0]"
+AB-DC-006,6,Spring-release cartridge -1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Purchase cartridge; mounting interface unassigned,"[65.0, 65.0, 70.0]"
+AB-DC-007,7,Cheek plate 1,1,make-concept,S355J2+N candidate; condition and design properties unapproved,Saw/laser blank; CNC critical faces and bores,"[150.0, 160.0, 20.0]"
+AB-DC-008,8,Pad backing 1,1,make-concept,C45 candidate,Saw/laser blank; CNC critical faces and bores,"[70.0, 60.0, 8.0]"
+AB-DC-009,9,Friction pad 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Purchase matched compound and approved bonding/retention,"[70.0, 60.0, 8.0]"
+AB-DC-010,10,Spring-release cartridge 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Purchase cartridge; mounting interface unassigned,"[65.0, 65.0, 70.0]"

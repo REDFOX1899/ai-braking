@@ -1,0 +1,54 @@
+{
+  "parts": [
+    {
+      "part": "AB-ROT-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 3.854812160499524e-14
+    },
+    {
+      "part": "AB-ROT-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 3.389638735110243e-14
+    },
+    {
+      "part": "AB-ROT-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    },
+    {
+      "part": "AB-ROT-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    },
+    {
+      "part": "AB-ROT-005",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    },
+    {
+      "part": "AB-ROT-006",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    },
+    {
+      "part": "AB-ROT-007",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    },
+    {
+      "part": "AB-ROT-008",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.800362701485604e-15
+    }
+  ],
+  "intersections": [],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "9bc9c4d09967485badbe9369fd4a0afc22d7e3d5ea3310d336a8ce84a8019e1b",
+    "bytes": 3029
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "257e87259e2dd7f865f778adfec2777b51274db4841b30e83aa7f8eb61dd6449",
+    "bytes": 896
+  },
+  {
+    "path": "README.md",
+    "sha256": "ad13082f89c1e4a9815139afea7b298383ca468d35efc252dc38c6e5c4657ab5",
+    "bytes": 1197
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "9db99063eebfff1383bdb696797b48d72453f1b6c9262d6875df4f3ad1a4d7dd",
+    "bytes": 841
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "AB-HPU-assembly.step",
+    "sha256": "ca824bd1ff7d862121d344098fc1aa353bc20f749220d61e3ea0c33664b84a2f",
+    "bytes": 97950
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-HPU-review-pack.pdf",
+    "sha256": "7811fd93fe000b406523a8a6c537ae236dd6ee9c08560f4b9c7d441d7e10f268",
+    "bytes": 36484
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "ad1de95414e0f8fd797dbf0c3ed5f7a3ea98035cd79e86411cef8430efaa661e",
+    "bytes": 2623
+  },
+  {
+    "path": "parts/AB-HPU-004/AB-HPU-004.svg",
+    "sha256": "967f276577416f2f382025eb59b536029cac4ca2f09b65b104c95f91a7fab1b9",
+    "bytes": 4343
+  },
+  {
+    "path": "parts/AB-HPU-004/AB-HPU-004.step",
+    "sha256": "2bbb9b0cc6b812ac74c263ffcff343da8bfeb046dd2e42f29780855b9aa46a32",
+    "bytes": 15540
+  },
+  {
+    "path": "parts/AB-HPU-003/AB-HPU-003.svg",
+    "sha256": "33d854e441a382aaee9ac6e94c895b081ab1082feb152637ed4210f547f5615f",
+    "bytes": 49692
+  },
+  {
+    "path": "parts/AB-HPU-003/AB-HPU-003.step",
+    "sha256": "1235e27f794a05aed079e1663c80abbb258225977a084dbdea94a596ece817d5",
+    "bytes": 5775
+  },
+  {
+    "path": "parts/AB-HPU-002/AB-HPU-002.svg",
+    "sha256": "35ab153aa2127701919afdcb655dc14d19cfd6b507f6c3f311b72747bb347c41",
+    "bytes": 76747
+  },
+  {
+    "path": "parts/AB-HPU-002/AB-HPU-002.step",
+    "sha256": "87f7e7290044f8e49239c509c194c72c32d97f92d26bfc9cf4d244a77eaa79f8",
+    "bytes": 34663
+  },
+  {
+    "path": "parts/AB-HPU-005/AB-HPU-005.step",
+    "sha256": "470e7151588de4674c519b9b85bef8b300a2b33eeeca6ccac4438acabec49a5f",
+    "bytes": 5775
+  },
+  {
+    "path": "parts/AB-HPU-005/AB-HPU-005.svg",
+    "sha256": "26b6ef4231769d79391066223f49e79bbe0d944718834f8665d4538fbe848dad",
+    "bytes": 35676
+  },
+  {
+    "path": "parts/AB-HPU-001/AB-HPU-001.svg",
+    "sha256": "1f3015b3beb604c56d52088079941a79a5f061f6cd0bc54d2fceea9c088da1cf",
+    "bytes": 6216
+  },
+  {
+    "path": "parts/AB-HPU-001/AB-HPU-001.step",
+    "sha256": "d62e4402389c93009711885e1a2036ea1281b451d87b09cc81aed8ebb7740114",
+    "bytes": 30026
+  }
+]

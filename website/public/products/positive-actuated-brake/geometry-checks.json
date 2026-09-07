@@ -1,0 +1,66 @@
+{
+  "parts": [
+    {
+      "part": "AB-POS-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 3.854812160499524e-14
+    },
+    {
+      "part": "AB-POS-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 1.1968508075795848e-15
+    },
+    {
+      "part": "AB-POS-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.4524457665400957e-16
+    },
+    {
+      "part": "AB-POS-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.676807663330907e-16
+    },
+    {
+      "part": "AB-POS-005",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-POS-006",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-POS-007",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.4524457665400957e-16
+    },
+    {
+      "part": "AB-POS-008",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.676807663330907e-16
+    },
+    {
+      "part": "AB-POS-009",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-POS-010",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    }
+  ],
+  "intersections": [],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

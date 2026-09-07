@@ -1,0 +1,301 @@
+[
+  {
+    "id": "AB-DC-001",
+    "item": 1,
+    "name": "Common disc reference",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "C45 candidate",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Common AB-ROT disc geometry; see rotor package for hub."
+    ],
+    "role": "shared-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      -100,
+      0
+    ],
+    "dimensions": [
+      400.0,
+      400.0,
+      20.0
+    ],
+    "volume_mm3": 2307279.893,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-002",
+    "item": 2,
+    "name": "Bridge beam",
+    "pos": [
+      0,
+      247.5,
+      0
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Bridge width 150; depth 45; axial span 60.",
+      "Tie interface bores are concept only; structural joint not released."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      90,
+      0
+    ],
+    "dimensions": [
+      150.0,
+      45.0,
+      60.0
+    ],
+    "volume_mm3": 389072.125,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-003",
+    "item": 3,
+    "name": "Cheek plate -1",
+    "pos": [
+      0,
+      195,
+      -40
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "150 x 160 x 20; mounting holes local X +/-55, Y 52.5.",
+      "Faces mate bridge at Z +/-30; preload/fastener detail pending."
+    ],
+    "role": "make-concept",
+    "color": "#38a5d0",
+    "explode": [
+      0,
+      0,
+      -110
+    ],
+    "dimensions": [
+      150.0,
+      160.0,
+      20.0
+    ],
+    "volume_mm3": 474690.708,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-004",
+    "item": 4,
+    "name": "Pad backing -1",
+    "pos": [
+      0,
+      155,
+      -23
+    ],
+    "material": "C45 candidate",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "70 x 60 x 8; two diameter 8.5 retainer holes.",
+      "Retention detail must avoid lining damage."
+    ],
+    "role": "make-concept",
+    "color": "#415a77",
+    "explode": [
+      0,
+      -30,
+      -70
+    ],
+    "dimensions": [
+      70.0,
+      60.0,
+      8.0
+    ],
+    "volume_mm3": 32692.08,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-005",
+    "item": 5,
+    "name": "Friction pad -1",
+    "pos": [
+      0,
+      155,
+      -15
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Purchase matched compound and approved bonding/retention",
+    "notes": [
+      "Pad inner face Z +/-11; 1 mm cold study clearance to disc.",
+      "Uniform pressure effective radius approximated at 155 mm."
+    ],
+    "role": "bought-envelope",
+    "color": "#76c6dc",
+    "explode": [
+      0,
+      -35,
+      -40
+    ],
+    "dimensions": [
+      70.0,
+      60.0,
+      8.0
+    ],
+    "volume_mm3": 33600.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-006",
+    "item": 6,
+    "name": "Spring-release cartridge -1",
+    "pos": [
+      0,
+      155,
+      -85
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Purchase cartridge; mounting interface unassigned",
+    "notes": [
+      "Diameter 65 x 70 envelope only.",
+      "No pressure port, piston, seals or spring mechanism modelled."
+    ],
+    "role": "bought-envelope",
+    "color": "#d3dde5",
+    "explode": [
+      0,
+      0,
+      -160
+    ],
+    "dimensions": [
+      65.0,
+      65.0,
+      70.0
+    ],
+    "volume_mm3": 232281.507,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-007",
+    "item": 7,
+    "name": "Cheek plate 1",
+    "pos": [
+      0,
+      195,
+      40
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "150 x 160 x 20; mounting holes local X +/-55, Y 52.5.",
+      "Faces mate bridge at Z +/-30; preload/fastener detail pending."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      110
+    ],
+    "dimensions": [
+      150.0,
+      160.0,
+      20.0
+    ],
+    "volume_mm3": 474690.708,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-008",
+    "item": 8,
+    "name": "Pad backing 1",
+    "pos": [
+      0,
+      155,
+      23
+    ],
+    "material": "C45 candidate",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "70 x 60 x 8; two diameter 8.5 retainer holes.",
+      "Retention detail must avoid lining damage."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      -30,
+      70
+    ],
+    "dimensions": [
+      70.0,
+      60.0,
+      8.0
+    ],
+    "volume_mm3": 32692.08,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-009",
+    "item": 9,
+    "name": "Friction pad 1",
+    "pos": [
+      0,
+      155,
+      15
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Purchase matched compound and approved bonding/retention",
+    "notes": [
+      "Pad inner face Z +/-11; 1 mm cold study clearance to disc.",
+      "Uniform pressure effective radius approximated at 155 mm."
+    ],
+    "role": "bought-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      0,
+      -35,
+      40
+    ],
+    "dimensions": [
+      70.0,
+      60.0,
+      8.0
+    ],
+    "volume_mm3": 33600.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-DC-010",
+    "item": 10,
+    "name": "Spring-release cartridge 1",
+    "pos": [
+      0,
+      155,
+      85
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Purchase cartridge; mounting interface unassigned",
+    "notes": [
+      "Diameter 65 x 70 envelope only.",
+      "No pressure port, piston, seals or spring mechanism modelled."
+    ],
+    "role": "bought-envelope",
+    "color": "#415a77",
+    "explode": [
+      0,
+      0,
+      160
+    ],
+    "dimensions": [
+      65.0,
+      65.0,
+      70.0
+    ],
+    "volume_mm3": 232281.507,
+    "quantity": 1
+  }
+]

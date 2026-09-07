@@ -1,0 +1,16 @@
+{
+  "products": 12,
+  "component_instances": 94,
+  "positive_volume_intersections": 0,
+  "checks": [
+    "BOM/mesh/part identity",
+    "Finite indexed triangle meshes",
+    "CAD validity and STEP round-trip evidence",
+    "STEP/PDF signatures",
+    "ZIP CRC and SHA256 manifests",
+    "Per-asset hosting size",
+    "Study arithmetic"
+  ],
+  "engineering_validation": "NOT performed: no FEA, solved motion, physical tests or production release",
+  "errors": []
+}

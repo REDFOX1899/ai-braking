@@ -1,0 +1,187 @@
+[
+  {
+    "path": "AB-AIST-review-pack.pdf",
+    "sha256": "bacebb1633f37bb1162c396a8322d0083e5161443245830fb204bdac8b14fefe",
+    "bytes": 186381
+  },
+  {
+    "path": "bom.json",
+    "sha256": "014634ec56c4d5f5878dd89456f17da784ac35c97bf157a5b93b085e102be4bd",
+    "bytes": 9041
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "e149009047fc9d9eb8e5fcaca81c9269c29e63c505b92c18c965af56617f9672",
+    "bytes": 2583
+  },
+  {
+    "path": "AB-AIST-assembly.step",
+    "sha256": "2ec45fa91f96e84dfd77de4c26f427a9f5266e9b6dc8e5bf862814ed630b878b",
+    "bytes": 431447
+  },
+  {
+    "path": "README.md",
+    "sha256": "2280dff9b89e7b19bfc48f168ceb32651f855ee5bf067125c71460c45b930c3b",
+    "bytes": 1192
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "d916d1bc5d73305b3e8f82a236bd79dcaef82252c4899a4129192e33ea552f14",
+    "bytes": 2192
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "31a12f4b5e0983f624a5a88c1ffa45fadbf73cc6af043c0d20a564282e0a414c",
+    "bytes": 2421
+  },
+  {
+    "path": "parts/AB-AIST-007/AB-AIST-007.svg",
+    "sha256": "71eab2032bafea947f5dac7fa94181e5156d0c052cf3c78943d3736d4d83ce7a",
+    "bytes": 37049
+  },
+  {
+    "path": "parts/AB-AIST-007/AB-AIST-007.step",
+    "sha256": "5f3e549c1b3dd14a74228f4c78df7d0d304cf23473a73e5a10ef27b819e1b078",
+    "bytes": 18260
+  },
+  {
+    "path": "parts/AB-AIST-009/AB-AIST-009.step",
+    "sha256": "ab753371b506b21764a633e48a9aa79e19ca6ad49e41a7e293a1a81c19d02b28",
+    "bytes": 26779
+  },
+  {
+    "path": "parts/AB-AIST-009/AB-AIST-009.svg",
+    "sha256": "714caa6cff2659466ecbd81515d695f43d07912124e7d21bda60c7e73931ad05",
+    "bytes": 70884
+  },
+  {
+    "path": "parts/AB-AIST-008/AB-AIST-008.svg",
+    "sha256": "99ccf62c1e7035b9299d62aa426846a99776e7373ea21c1137d36ca7beb0ad1e",
+    "bytes": 51949
+  },
+  {
+    "path": "parts/AB-AIST-008/AB-AIST-008.step",
+    "sha256": "fcf5ba9b2843f17af235d44829b8ba65b1d957bcadebeb310e0cc6377ba1db4a",
+    "bytes": 82205
+  },
+  {
+    "path": "parts/AB-AIST-001/AB-AIST-001.step",
+    "sha256": "6998c39ab8b30353a48c1af971661d2b4e940c0c7b364b68f28b751939940d0d",
+    "bytes": 34625
+  },
+  {
+    "path": "parts/AB-AIST-001/AB-AIST-001.svg",
+    "sha256": "861ba998e0d86d6f009ac276990deab03c058c69872857f3495fdad8139ab8f5",
+    "bytes": 94177
+  },
+  {
+    "path": "parts/AB-AIST-006/AB-AIST-006.svg",
+    "sha256": "ea750a264df84ab043c6b89603295a7f8b0f36bc8e7d9b249e2e50b1fa764abe",
+    "bytes": 38171
+  },
+  {
+    "path": "parts/AB-AIST-006/AB-AIST-006.step",
+    "sha256": "24ca135036e52eb8161c9ae5e45145d63c32e1855b147300948c65c76d639884",
+    "bytes": 18274
+  },
+  {
+    "path": "parts/AB-AIST-012/AB-AIST-012.svg",
+    "sha256": "c53c87303f45c9a6c182f26fa5cc1958cb71f91b6c3676861f540e8cc31be4fe",
+    "bytes": 36012
+  },
+  {
+    "path": "parts/AB-AIST-012/AB-AIST-012.step",
+    "sha256": "69cf7a91b918e90afef369630f898ce0d5ba8b2c4615a0cbd4c69f5dc9dad179",
+    "bytes": 19732
+  },
+  {
+    "path": "parts/AB-AIST-013/AB-AIST-013.svg",
+    "sha256": "1d8c57d81daf9411c099665cab9226d1ac5a894397255ce9b043d3840f684f1f",
+    "bytes": 45299
+  },
+  {
+    "path": "parts/AB-AIST-013/AB-AIST-013.step",
+    "sha256": "ae6da0317ca2e12d8549c11c8aa1129cda043c75094b0266da7028850b1857cb",
+    "bytes": 5763
+  },
+  {
+    "path": "parts/AB-AIST-014/AB-AIST-014.svg",
+    "sha256": "c83ce9763c5238b615ddb188c704e5952c9793a013162b696348464d488d0964",
+    "bytes": 4337
+  },
+  {
+    "path": "parts/AB-AIST-014/AB-AIST-014.step",
+    "sha256": "7020e2ad569e969ee4cd58605ddda332ec4cbe93c1a36a4f56e5f5f19d2ab326",
+    "bytes": 15536
+  },
+  {
+    "path": "parts/AB-AIST-003/AB-AIST-003.svg",
+    "sha256": "50311247905c39a83fa15f001648664eb24bf854ec6e40fc512dfecdc2dd02f9",
+    "bytes": 51950
+  },
+  {
+    "path": "parts/AB-AIST-003/AB-AIST-003.step",
+    "sha256": "120c99c53247661909603e7e6c34fbe84433b449f182e826ff35f87c7986c748",
+    "bytes": 82205
+  },
+  {
+    "path": "parts/AB-AIST-004/AB-AIST-004.svg",
+    "sha256": "bbeedb018edd4aeb2667d7c6b1cb1b7e22f9ef1c889c5a3429740c522afd34f0",
+    "bytes": 70885
+  },
+  {
+    "path": "parts/AB-AIST-004/AB-AIST-004.step",
+    "sha256": "1f480fac7f04a7ba8614d457036edb54fb5e796c7fa71e9a6d54d881c2f18f27",
+    "bytes": 26779
+  },
+  {
+    "path": "parts/AB-AIST-005/AB-AIST-005.svg",
+    "sha256": "e0df3d6618a802a9340d2fd9b8b812aab9162ce6dcad34997a1220e7279709a2",
+    "bytes": 23898
+  },
+  {
+    "path": "parts/AB-AIST-005/AB-AIST-005.step",
+    "sha256": "a4c0721b840d7de7b2ca62cb34f16da5b4449e911a8ab175900f6f6d22c12edf",
+    "bytes": 5976
+  },
+  {
+    "path": "parts/AB-AIST-002/AB-AIST-002.svg",
+    "sha256": "6731ff1517da6bad8a11c487cb4a9a2147ee2d6b025c1b53fd4dd337456e81f8",
+    "bytes": 378262
+  },
+  {
+    "path": "parts/AB-AIST-002/AB-AIST-002.step",
+    "sha256": "f759629a6e63cd6f0ca7f222d247f1ce9f2ded2b33cd93ad204474db56861649",
+    "bytes": 48224
+  },
+  {
+    "path": "parts/AB-AIST-011/AB-AIST-011.step",
+    "sha256": "22eb20efd4a815b665e73bbc4b841155062558f8efcfc2747af71d2489f25cf0",
+    "bytes": 19741
+  },
+  {
+    "path": "parts/AB-AIST-011/AB-AIST-011.svg",
+    "sha256": "0f81ba664c7f1531ce87e97b112f8d1e5ed4c216d3f7c5fac7bb80abe52be2eb",
+    "bytes": 37040
+  },
+  {
+    "path": "parts/AB-AIST-010/AB-AIST-010.svg",
+    "sha256": "90ac533f1fe79f12a72a83f2cc30ea29b114a6e69d85822ea7f7ebb3b890198a",
+    "bytes": 23897
+  },
+  {
+    "path": "parts/AB-AIST-010/AB-AIST-010.step",
+    "sha256": "dcc7ccbcde75f923c1376fb97975b5ecd303f1592c0d9a5f38bf84438cda9241",
+    "bytes": 5976
+  }
+]

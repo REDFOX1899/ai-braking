@@ -1,0 +1,329 @@
+{
+  "code": "AB-ROT",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "rotating-components",
+  "short": "Discs & hubs",
+  "subtitle": "The common rotating interface",
+  "level": "Mechanical concept",
+  "priority": 1,
+  "description": "A 400 mm disc and detachable flanged hub define a shared prototype interface. The drum variant appears in the drum-brake package. This is a geometry study, not a speed-rated rotor.",
+  "targets": [
+    [
+      "Disc outside diameter",
+      "400 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Disc thickness",
+      "20 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Hub shaft bore",
+      "50 mm",
+      "Illustrative shaft interface"
+    ],
+    [
+      "Mounting pattern",
+      "6 \u00d7 \u00d813 on PCD 150 mm",
+      "Modelled; M12 candidate"
+    ],
+    [
+      "Torque / speed rating",
+      "Not assigned",
+      "Shaft, balance and thermal assessment required"
+    ]
+  ],
+  "decisions": [
+    "Use a detachable hub to replace the friction disc without replacing the shaft interface.",
+    "Begin with machined steel for prototype traceability; evaluate a cast-iron friction variant only through paired friction and thermal tests.",
+    "Use one six-hole interface across the first disc concepts; bolt preload and joint slip capacity remain to be sized."
+  ],
+  "materials": [
+    "Disc: C45 normalized steel candidate; friction compound must be qualified with this surface.",
+    "Hub: 42CrMo4 quenched-and-tempered candidate; property certificate must correspond to actual section size."
+  ],
+  "risks": [
+    "Disc-to-hub torque transfer, bolt preload and fatigue are not yet established.",
+    "No keyway or locking element is released; the 50 mm bore is an interface placeholder.",
+    "Thermal coning, hot runout, balance and overspeed remain unverified."
+  ],
+  "steps": [
+    "Inspect disc and hub identification, bore and interface faces.",
+    "Locate disc on the hub spigot; align six through holes.",
+    "Fit the specified through-bolts, washers and nuts after joint design is approved.",
+    "Measure assembled runout and balance before guarded testing."
+  ],
+  "validation": [
+    "Thermal transient model with moving pad heat flux and measured heat partition.",
+    "Bolted joint slip, bearing, hub torsion and rotational stress calculations.",
+    "Guarded speed, runout, balance and repeated stop tests."
+  ],
+  "hypotheses": [
+    [
+      "Service time",
+      "25% reduction target",
+      "Time disc replacement versus a documented integral-hub baseline with the same shaft access."
+    ],
+    [
+      "Commonality",
+      "One disc/hub pattern",
+      "Count unique components across the disc-brake concepts; this is not a competitor advantage claim."
+    ]
+  ],
+  "sensors": [
+    "Reserve non-contact runout measurement access and a temperature observation window."
+  ],
+  "parts": [
+    {
+      "id": "AB-ROT-001",
+      "item": 1,
+      "name": "Disc 400",
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "material": "C45 normalized candidate; friction pair unqualified",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "OD 400; bore 110; thickness 20 mm.",
+        "6 x diameter 13 THRU on PCD 150; first hole on +X.",
+        "Candidate M12 through-bolts; preload and friction joint unresolved."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        70
+      ],
+      "dimensions": [
+        400.0,
+        400.0,
+        20.0
+      ],
+      "volume_mm3": 2307279.893,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-002",
+      "item": 2,
+      "name": "Detachable flanged hub",
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Shaft bore 50; spigot OD 110; flange OD 170 mm.",
+        "Flange 12 mm; 6 x diameter 13 THRU on PCD 150.",
+        "No shaft locking, keyway, fit or retention released."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        0,
+        -70
+      ],
+      "dimensions": [
+        170.0,
+        170.0,
+        87.0
+      ],
+      "volume_mm3": 594159.208,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-003",
+      "item": 3,
+      "name": "M12 interface fastener envelope 1",
+      "pos": [
+        75.0,
+        0.0,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#38a5d0",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-004",
+      "item": 4,
+      "name": "M12 interface fastener envelope 2",
+      "pos": [
+        37.50000000000001,
+        64.9519052838329,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#415a77",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-005",
+      "item": 5,
+      "name": "M12 interface fastener envelope 3",
+      "pos": [
+        -37.499999999999986,
+        64.9519052838329,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#76c6dc",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-006",
+      "item": 6,
+      "name": "M12 interface fastener envelope 4",
+      "pos": [
+        -75.0,
+        9.184850993605149e-15,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#d3dde5",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-007",
+      "item": 7,
+      "name": "M12 interface fastener envelope 5",
+      "pos": [
+        -37.500000000000036,
+        -64.95190528383287,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    },
+    {
+      "id": "AB-ROT-008",
+      "item": 8,
+      "name": "M12 interface fastener envelope 6",
+      "pos": [
+        37.50000000000001,
+        -64.9519052838329,
+        -8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy certified bolt/nut/washer set after joint calculation",
+      "notes": [
+        "Smooth nominal shank only; threads, washer and nut omitted.",
+        "Fastener length, grade and preload not released."
+      ],
+      "role": "bought-envelope",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        20.0,
+        20.0,
+        52.0
+      ],
+      "volume_mm3": 7489.557,
+      "quantity": 1
+    }
+  ],
+  "intersections": [],
+  "part_count": 8,
+  "downloads": {
+    "step": "AB-ROT-assembly.step",
+    "pdf": "AB-ROT-review-pack.pdf",
+    "zip": "AB-ROT-C0-review.zip"
+  }
+}

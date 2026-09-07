@@ -1,0 +1,69 @@
+{
+  "slug": "hydraulic-power-unit",
+  "short": "Hydraulic power unit",
+  "subtitle": "A serviceable hydraulic integration deck",
+  "level": "Integration layout",
+  "priority": 6,
+  "description": "A compact reservoir and removable equipment deck reserve space for a bought motor-pump, valve manifold and filtration. This is packaging CAD, not a designed hydraulic circuit.",
+  "targets": [
+    [
+      "Reservoir outside envelope",
+      "400 \u00d7 260 \u00d7 220 mm",
+      "Geometry"
+    ],
+    [
+      "Gross internal volume",
+      "\u224821.5 L",
+      "Unbaffled volume; usable oil level unassigned"
+    ],
+    [
+      "System pressure / flow",
+      "Unassigned",
+      "Derive from selected caliper and release timing"
+    ],
+    [
+      "Circuit architecture",
+      "Pending safety analysis",
+      "No pressure-retaining custom manifold design"
+    ]
+  ],
+  "decisions": [
+    "Buy qualified hydraulic components and manifold rather than machine custom pressure passages.",
+    "Use a removable deck for bench service and clearly separated fill/drain access.",
+    "Allocate pressure sensing and filtered breather space early; select hardware after the circuit review."
+  ],
+  "materials": [
+    "Reservoir: S355J2+N candidate welded sheet; cleanliness and coating compatibility require review.",
+    "Pump, motor, valve block and filter: purchased certified components."
+  ],
+  "risks": [
+    "No circuit, relief setting, accumulator sizing or failure-state analysis is completed.",
+    "Reserved component volumes are not vendor dimensions.",
+    "Reservoir baffles, suction conditions and thermal dissipation remain unresolved."
+  ],
+  "steps": [
+    "Approve circuit and equipment list before cutting sheet.",
+    "Fabricate and leak-test reservoir to approved welding and cleaning procedure.",
+    "Install removable deck and selected component brackets.",
+    "Fit piping, flushing, relief protection and controls per approved hydraulic schematic."
+  ],
+  "validation": [
+    "Circuit failure analysis, pressure transients, oil temperature and cleanliness.",
+    "Leak, flush, loss-of-power and repeated application/release tests."
+  ],
+  "hypotheses": [
+    [
+      "Bench service",
+      "25% less disassembly time target",
+      "Compare equipment access against a fixed-deck baseline."
+    ],
+    [
+      "Procurement",
+      "Bought pressure components",
+      "Compare qualified vendor quotations, not assumed unit costs."
+    ]
+  ],
+  "sensors": [
+    "Define pressure transducer, oil level/temperature, filter clog switch, motor starter, E-stop interaction and independent safe valve state."
+  ]
+}

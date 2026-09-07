@@ -1,0 +1,75 @@
+{
+  "slug": "rotating-components",
+  "short": "Discs & hubs",
+  "subtitle": "The common rotating interface",
+  "level": "Mechanical concept",
+  "priority": 1,
+  "description": "A 400 mm disc and detachable flanged hub define a shared prototype interface. The drum variant appears in the drum-brake package. This is a geometry study, not a speed-rated rotor.",
+  "targets": [
+    [
+      "Disc outside diameter",
+      "400 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Disc thickness",
+      "20 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Hub shaft bore",
+      "50 mm",
+      "Illustrative shaft interface"
+    ],
+    [
+      "Mounting pattern",
+      "6 \u00d7 \u00d813 on PCD 150 mm",
+      "Modelled; M12 candidate"
+    ],
+    [
+      "Torque / speed rating",
+      "Not assigned",
+      "Shaft, balance and thermal assessment required"
+    ]
+  ],
+  "decisions": [
+    "Use a detachable hub to replace the friction disc without replacing the shaft interface.",
+    "Begin with machined steel for prototype traceability; evaluate a cast-iron friction variant only through paired friction and thermal tests.",
+    "Use one six-hole interface across the first disc concepts; bolt preload and joint slip capacity remain to be sized."
+  ],
+  "materials": [
+    "Disc: C45 normalized steel candidate; friction compound must be qualified with this surface.",
+    "Hub: 42CrMo4 quenched-and-tempered candidate; property certificate must correspond to actual section size."
+  ],
+  "risks": [
+    "Disc-to-hub torque transfer, bolt preload and fatigue are not yet established.",
+    "No keyway or locking element is released; the 50 mm bore is an interface placeholder.",
+    "Thermal coning, hot runout, balance and overspeed remain unverified."
+  ],
+  "steps": [
+    "Inspect disc and hub identification, bore and interface faces.",
+    "Locate disc on the hub spigot; align six through holes.",
+    "Fit the specified through-bolts, washers and nuts after joint design is approved.",
+    "Measure assembled runout and balance before guarded testing."
+  ],
+  "validation": [
+    "Thermal transient model with moving pad heat flux and measured heat partition.",
+    "Bolted joint slip, bearing, hub torsion and rotational stress calculations.",
+    "Guarded speed, runout, balance and repeated stop tests."
+  ],
+  "hypotheses": [
+    [
+      "Service time",
+      "25% reduction target",
+      "Time disc replacement versus a documented integral-hub baseline with the same shaft access."
+    ],
+    [
+      "Commonality",
+      "One disc/hub pattern",
+      "Count unique components across the disc-brake concepts; this is not a competitor advantage claim."
+    ]
+  ],
+  "sensors": [
+    "Reserve non-contact runout measurement access and a temperature observation window."
+  ]
+}

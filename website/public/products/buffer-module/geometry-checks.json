@@ -1,0 +1,30 @@
+{
+  "parts": [
+    {
+      "part": "AB-BUF-001",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 6.642877249999358e-16
+    },
+    {
+      "part": "AB-BUF-002",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 0.0
+    },
+    {
+      "part": "AB-BUF-003",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 1.6333288304476467e-16
+    },
+    {
+      "part": "AB-BUF-004",
+      "valid_solid": true,
+      "solid_count": 1,
+      "step_volume_relative_error": 2.6141903238646205e-16
+    }
+  ],
+  "intersections": [],
+  "scope": "B-rep validity and STEP round-trip only; intersections are unresolved review items, not contact analysis."
+}

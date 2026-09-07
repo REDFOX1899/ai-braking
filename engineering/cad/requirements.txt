@@ -1,0 +1,4 @@
+cadquery==2.6.1
+reportlab==5.0.1
+
+svglib==2.2.0

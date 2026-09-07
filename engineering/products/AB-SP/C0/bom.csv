@@ -1,0 +1,9 @@
+id,item,name,quantity,role,material,process,dimensions
+AB-SP-001,1,Backing plate 1,1,make-concept,C45 candidate,Saw/laser blank; CNC critical faces and bores,"[70.0, 60.0, 8.0]"
+AB-SP-002,2,Lining block 1,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Specialist friction supplier,"[70.0, 60.0, 8.0]"
+AB-SP-003,3,Retainer pin 1,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Turn/grind; retention detail pending,"[8.0, 8.0, 85.0]"
+AB-SP-004,4,Bush 1,1,make-concept,Purchased bronze bearing candidate,Buy or turn to approved fit,"[28.0, 28.0, 24.0]"
+AB-SP-005,5,Backing plate 2,1,make-concept,C45 candidate,Saw/laser blank; CNC critical faces and bores,"[70.0, 60.0, 8.0]"
+AB-SP-006,6,Lining block 2,1,bought-envelope,Supplier-controlled; illustrative reserved envelope,Specialist friction supplier,"[70.0, 60.0, 8.0]"
+AB-SP-007,7,Retainer pin 2,1,make-concept,42CrMo4 candidate; heat treatment / fit unapproved,Turn/grind; retention detail pending,"[8.0, 8.0, 85.0]"
+AB-SP-008,8,Bush 2,1,make-concept,Purchased bronze bearing candidate,Buy or turn to approved fit,"[28.0, 28.0, 24.0]"

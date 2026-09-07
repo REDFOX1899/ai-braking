@@ -33,7 +33,15 @@
   },
   {
     "path": "downloads/domain-handoff.md",
-    "sha256": "0e6d4f3d8db54f4f5c0f6e3d489d67527efa7d8aba14399d64a6ca1f45d9a0bc"
+    "sha256": "78f0441e91486235d831cad45c66b278dfbedb1d32b2ff291a57441fbc340aa2"
+  },
+  {
+    "path": "downloads/mechanical-development-plan.md",
+    "sha256": "d5b061bfcc3b1e2ead7ac6e2ec92b1cbee63a1b59f41782c8e75cf880ec267c5"
+  },
+  {
+    "path": "downloads/mechanical-C0-build-log.md",
+    "sha256": "b891e0ecd9165b76716bee8c405f5988625a2171755875ea9e088b325efb0b22"
   },
   {
     "path": "downloads/reviewed-specifications.csv",
@@ -49,7 +57,7 @@
   },
   {
     "path": "downloads/build-log-2026-09-07.md",
-    "sha256": "c561a2b573ead7f95281a1f458959097c236ec218e13236c5f1a908d6c930e38"
+    "sha256": "da97e331cce08fcf88c837b6b822dee68c7d5e6273142dbcba4fddaa4b7b65e1"
   },
   {
     "path": "downloads/collection-galvi.md",
@@ -82,5 +90,1141 @@
   {
     "path": "downloads/collection-emg.md",
     "sha256": "67bf12df76140b522d54ec3ef43ca3eceadbc43c42cce79176e73e0f6fec8895"
+  },
+  {
+    "path": "products/rotating-components/AB-ROT-assembly.step",
+    "sha256": "309f606f028e20ea98312a7c009868f3220f52cb2839a9d77b120eedd8ecc871"
+  },
+  {
+    "path": "products/rotating-components/AB-ROT-review-pack.pdf",
+    "sha256": "becce71cc1afa99ab9ff2e44fc7d86df1d2a25d79f13263b46ef1bce8aa41d37"
+  },
+  {
+    "path": "products/rotating-components/AB-ROT-C0-review.zip",
+    "sha256": "10ee9487f538c5c496fa57290d97fc8df4aca73a93aa7482a7d5c4c87e6b5f31"
+  },
+  {
+    "path": "products/rotating-components/bom.csv",
+    "sha256": "fcbb076e419675d789539e6fe3e77c3525825afca6190347cc59c2a3566634f4"
+  },
+  {
+    "path": "products/rotating-components/geometry-checks.json",
+    "sha256": "126eb858d8420111b10fefd471e93cdfabf32181541569706abd1acf98ae08ad"
+  },
+  {
+    "path": "products/rotating-components/README.md",
+    "sha256": "d7bf770e274568a73fefd62274a0d6aaf8f8ca5554265f8bc756c2fc2a174d65"
+  },
+  {
+    "path": "products/rotating-components/mesh.json",
+    "sha256": "9efb313596ca40514f2dcbd1e746bb67fda753ee487b30d734dc84cbb9691f61"
+  },
+  {
+    "path": "products/rotating-components/preview.svg",
+    "sha256": "c8e1ed24ed59b3ace35eb60adc21b4c5eeb368649acc800527162c2bf78e3762"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-001/AB-ROT-001.step",
+    "sha256": "d45629233cd22a52fb9bf76aed578b38a85b545e9a23ea379f328a120ba08c4a"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-001/AB-ROT-001.svg",
+    "sha256": "10b8aa7f11cbf863147cbd3fb356146f7660b3233450b0beeac145acb500efbe"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-002/AB-ROT-002.step",
+    "sha256": "cfb30d5385c5924520f1cce8e6f85d177e276d565be797ad0682d65dc89256fd"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-002/AB-ROT-002.svg",
+    "sha256": "3e774e1f14630e9538da39c3bac7cf93b0625431ba6057d499bb4d0120f579c4"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-003/AB-ROT-003.step",
+    "sha256": "1223888662cd2026f8eadbeb18356614695aa7d2708c569d88151b8c917fbb63"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-003/AB-ROT-003.svg",
+    "sha256": "2c33543f962acca71d14fd2493fa5267a96e8e2f6961754c9f195af96b05078f"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-004/AB-ROT-004.step",
+    "sha256": "2a4a69cb4dcc337b51002d0a353b7aec0d0002efd3ecd04d0cb2f8e98d2ef40d"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-004/AB-ROT-004.svg",
+    "sha256": "1ffd157284b194350234a72e7679ad13e58a24e009f94e2997a215da844fe182"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-005/AB-ROT-005.step",
+    "sha256": "cc7750dbeb5f0313d304afc59f833d473fd1b8dde9f2ce0d773b99af74d28014"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-005/AB-ROT-005.svg",
+    "sha256": "cc474d9f462b67d7f50674503d9782691611d057ff0c366f5a97e58ac21eee62"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-006/AB-ROT-006.step",
+    "sha256": "1992de293ed86724df371be024295a2273c16ebfa4cd4b79d2718787ce8abc86"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-006/AB-ROT-006.svg",
+    "sha256": "39e1cbe007d8bb239a15adcf80973349ced7182f3b8239391159bdd8aea12e79"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-007/AB-ROT-007.step",
+    "sha256": "00fc7c7f75957880f427bee162128d0133905e86f640c797e05d15b4fb47b04c"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-007/AB-ROT-007.svg",
+    "sha256": "007449999c9d5d58246f5fb6eb684ceb12c1fb0fe9b62d00b5df40248b251be3"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-008/AB-ROT-008.step",
+    "sha256": "1b1750effbcbfa748ed3c30483c32c5f5d8c7b10b2bb0e45d484b403734ab704"
+  },
+  {
+    "path": "products/rotating-components/parts/AB-ROT-008/AB-ROT-008.svg",
+    "sha256": "9dc849763a5024cd2eb9d5cb1a15817d0c9f5a4ad042f29cbc36f77ba534d250"
+  },
+  {
+    "path": "products/drum-brake/AB-DR-assembly.step",
+    "sha256": "977bb3b837c3c54730bc66ad2b02a1eac319a0ae10b648d8edda5c703d70a7fd"
+  },
+  {
+    "path": "products/drum-brake/AB-DR-review-pack.pdf",
+    "sha256": "b3aad8a6e4f43a6cd60da46d0c7b7474fcb6d852505c65c3e77b6470a497e43b"
+  },
+  {
+    "path": "products/drum-brake/AB-DR-C0-review.zip",
+    "sha256": "f03762ed00a9146d9d2b0c87e8efacaf9f7ee8a32eb040b0abee776c30328e07"
+  },
+  {
+    "path": "products/drum-brake/bom.csv",
+    "sha256": "d5553fe937ddc3b6121f8bc1c4a111bd3a064b5f59fc3290ae0785e10cf16fee"
+  },
+  {
+    "path": "products/drum-brake/geometry-checks.json",
+    "sha256": "a0c4dbfb0c586df4d40e1ad20bb690da1157be17dae3b4c264c3170085810418"
+  },
+  {
+    "path": "products/drum-brake/README.md",
+    "sha256": "6a69d320a2d2db508c5fb5a4c46fe6885cdae2d2c0848d72e10b50f9b920a240"
+  },
+  {
+    "path": "products/drum-brake/mesh.json",
+    "sha256": "1cb3cbcf24e962d7e81d034c19ce7f88fe449f430ead1f81741ac191b4865a5e"
+  },
+  {
+    "path": "products/drum-brake/preview.svg",
+    "sha256": "255186c01b437b89b20113cf5e0a5948cebc0492ce3a912323ca81321dab8c96"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-001/AB-DR-001.step",
+    "sha256": "48346a92e9d9677d9f3a1f538be8de405bf6973fe053c88a5752495a889f4ebf"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-001/AB-DR-001.svg",
+    "sha256": "dbce910b84d652af058fbbeca715b3d746603587fc0f1d84f3e51515baa5ba82"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-002/AB-DR-002.step",
+    "sha256": "12fe30f434a0b0fbddbd02f1b223dd9c061b0e8e3fb2c3d614fdf0a7ea8163fd"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-002/AB-DR-002.svg",
+    "sha256": "3d9e6db0eb7cf0b00b766a86666fbeb56ae899ba0d4ff23cae25908dcd83d682"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-003/AB-DR-003.step",
+    "sha256": "c7c9b812e25fdfa3b81d4ecd387de9731a8f15e2a9e4de78f6ac3b500ceddc63"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-003/AB-DR-003.svg",
+    "sha256": "0a07d700b55774359ab696092ec04a5acc53af2e2a8e9d9bf9a166c2f397a541"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-004/AB-DR-004.step",
+    "sha256": "e3376285de055d2b5f416fabe648cdea9fff7162f7a64d5c4593644f8fef071d"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-004/AB-DR-004.svg",
+    "sha256": "4f116046d2d7283761c97bc631d856ed47cd8c00759acc2380d288f8f9b5ced3"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-005/AB-DR-005.step",
+    "sha256": "370236e7f6275959a3bda952870c11e09cebbedde789718b2c46486db0dd5da7"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-005/AB-DR-005.svg",
+    "sha256": "c67bb9db5dccf1b9923b03abc85aad2348a067d4788ad474114af13319a15931"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-006/AB-DR-006.step",
+    "sha256": "4c2aab082977bc0cf2576604744fed920ca9e8e1d9dbb20a5fbb7436fca63222"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-006/AB-DR-006.svg",
+    "sha256": "ad398ee042f073dec55ca19e017f5d5cd06b4e440b0c4fa5cbe69a419203f4b6"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-007/AB-DR-007.step",
+    "sha256": "710e41eff0d7c5ca07a6f37b9e34647aa9030e310fac76fc748eabd4aa14b08d"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-007/AB-DR-007.svg",
+    "sha256": "23d2bb7730a8b74b60c83904edff34a4bae863509d8602f35dc158ded045b424"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-008/AB-DR-008.step",
+    "sha256": "92fffba98fda998514df29273b413d4118646acbedf5c710e8e957876fe956a3"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-008/AB-DR-008.svg",
+    "sha256": "0090e987dc7fc41f5b2cbeba20dfadf52f51cd4017aab34f78090fb9afe08353"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-009/AB-DR-009.step",
+    "sha256": "2b6cc315285496e3a69984640f6dc596ce8dd9ee8ed62a39dd10106aa2ba146f"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-009/AB-DR-009.svg",
+    "sha256": "8ce41ea8213d9e1333b23179b18002916be9450d93b941f4c457ce4524a1917d"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-010/AB-DR-010.step",
+    "sha256": "7dd32435eb647c4e1f79cdc4efba9f0ab83c4d21a3d9d77b3e824277c67c29ba"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-010/AB-DR-010.svg",
+    "sha256": "ec877cc2c10d98ce0e1b77f388f99b282187ec3cf46a411e2fceb242a60d317a"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-011/AB-DR-011.step",
+    "sha256": "83a79903cc09e906eb32ed7738b9839aa36694c0610cf2b17a6be6b0bb9cddad"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-011/AB-DR-011.svg",
+    "sha256": "93fa12a1e0c533a6419997a6220690138f17cd21e19af92e2bd16e4824b5a713"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-012/AB-DR-012.step",
+    "sha256": "725832062e4fc9026e01edd698db3c5a1ddba22352d5a9edde20795f1424310c"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-012/AB-DR-012.svg",
+    "sha256": "9fbd5cd05eedadaf063662cb057a0bd63b6dc1cc1979d18d47b57f756ac4220b"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-013/AB-DR-013.step",
+    "sha256": "7d1c47d9b6830a7a36f3d3d9c55599c588e56f9a2d272cedb2abcf9444e10e97"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-013/AB-DR-013.svg",
+    "sha256": "0da3153b06c0aefd5795450e3d126cf6930dfaa23e95a1d376d0a0b0e7fc3ae0"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-014/AB-DR-014.step",
+    "sha256": "56c803aefd42cce0c880a0a615f7c4c8daf02cc370c3c50a8e7affe45d41e75d"
+  },
+  {
+    "path": "products/drum-brake/parts/AB-DR-014/AB-DR-014.svg",
+    "sha256": "f27bc3e5e0ff329e59f6547d76680072fffb4918f57a87a94f80efd4c5b750a3"
+  },
+  {
+    "path": "products/disc-caliper/AB-DC-assembly.step",
+    "sha256": "002fa7ac43c03a485f5db31604c43c7dc007f3c925d608e23de33dd7f006d66a"
+  },
+  {
+    "path": "products/disc-caliper/AB-DC-review-pack.pdf",
+    "sha256": "439dfb3ac111e763aca80eed4b444c9f61482ff4022841b9a1f0cf7713f6047b"
+  },
+  {
+    "path": "products/disc-caliper/AB-DC-C0-review.zip",
+    "sha256": "8a0fd54a2814df340e7f92371f29d3abe64f0793018c442f0af435627a5c2b4e"
+  },
+  {
+    "path": "products/disc-caliper/bom.csv",
+    "sha256": "8b56d9a024a3d18160956b60f855d6c2db182b14786e4558cb1a2c21fd37d10e"
+  },
+  {
+    "path": "products/disc-caliper/geometry-checks.json",
+    "sha256": "d7f30efe2fe9f4fec754e1083f065524b22f4ca56d283fa1085bbd52079597d7"
+  },
+  {
+    "path": "products/disc-caliper/README.md",
+    "sha256": "371deb7e3f6a218723b363deb3e681da41b3cd1d56c8f26899142a7f5a8c34bc"
+  },
+  {
+    "path": "products/disc-caliper/mesh.json",
+    "sha256": "f3a83a6f7b9ed19db3aeea68da79216b07fa27f8872ca67110d7c389b6ff49dc"
+  },
+  {
+    "path": "products/disc-caliper/preview.svg",
+    "sha256": "df12ae0210c9351fbc1e9cc847c8214e1f33ab3c02076421a251d342cfb9b049"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-001/AB-DC-001.step",
+    "sha256": "9dfd24a805e589f01eaca60be99e969c91d49c22fad69ccb4937dcb3fbc854db"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-001/AB-DC-001.svg",
+    "sha256": "45e23afdde6abc20e792ce5ba47942037bd5af6215110f0e877f330887ba9ba8"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-002/AB-DC-002.step",
+    "sha256": "f21eb11c83ef08c6c1c1c49837599e2b75d6581efd165e3f927870ea15fb473f"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-002/AB-DC-002.svg",
+    "sha256": "f9b96caa67b48b339dc94dc34c79f4f3fbddac44378a4b40d963e56ca1ee4923"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-003/AB-DC-003.step",
+    "sha256": "9efa1d42e591e5d11467f47a6f5072edf46b74634700757d28da16bc7cb1aeb5"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-003/AB-DC-003.svg",
+    "sha256": "a6fdea2b90cdf91f17d628377698eb7c05fda93ab5f72212d3700cf64e196ef4"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-004/AB-DC-004.step",
+    "sha256": "b350879251157cf24d137c3db39e4d32670dcfcaaa0b1bd36bd76ad9e62cb8f8"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-004/AB-DC-004.svg",
+    "sha256": "13e3f1b950f0afd2ed92bf55072703a56185a7055c00eaf08394ed5891014872"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-005/AB-DC-005.step",
+    "sha256": "d2ddd2f2d95d625ff8e77dc960f8cb98b7fe0e5e319bcc375decaeac404628e2"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-005/AB-DC-005.svg",
+    "sha256": "ceff93c52866948fcf796aa3316d3317271f2c478bfe025edba4badb77ba7eaf"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-006/AB-DC-006.step",
+    "sha256": "eaa20232cdf4bae064ee123ee8ac57d233721b7eaa15ae412c3bddcb490ee692"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-006/AB-DC-006.svg",
+    "sha256": "9e51bfc4bcb0e583cc176b992412afd176ab4a3955e4ad4b82a195d306a38597"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-007/AB-DC-007.step",
+    "sha256": "216efa98f078d6d28d481b37eba1722a63d83b002edf890d100e6100bd497ea0"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-007/AB-DC-007.svg",
+    "sha256": "f3dda106221f995175ae9c1f15ca7169363b46072fae6a10a7a20224c262ac28"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-008/AB-DC-008.step",
+    "sha256": "cb43b2f36f43c971a843a3e23e58bef1bbbe7391ef079104ad3f3fcf474bc553"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-008/AB-DC-008.svg",
+    "sha256": "8869400c807893f4503cee6cbdc2dfb605d07858ea0581d23977c37e2d995180"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-009/AB-DC-009.step",
+    "sha256": "a8b08366d8a0cc4a1f2568f7b55ae31f3a1e1a558cbd82c21e5a3292f340126b"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-009/AB-DC-009.svg",
+    "sha256": "336be5aede55c2541526e3e906d0a2f97be8d51a69f41b8e341ced7f47ccd39f"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-010/AB-DC-010.step",
+    "sha256": "39a047f73ebd82da7a04f97d3493ef6ccc3944c0b994dae66d9b2b73557fbe96"
+  },
+  {
+    "path": "products/disc-caliper/parts/AB-DC-010/AB-DC-010.svg",
+    "sha256": "435d274859b62d78ab4da0209f9afa3e1780d4335603669b0efe60a079ec891f"
+  },
+  {
+    "path": "products/service-kits/AB-SP-assembly.step",
+    "sha256": "ea05c861009e7b368eabfaf2ef88073c1d390700d65ef577c3cf3a443e8bb979"
+  },
+  {
+    "path": "products/service-kits/AB-SP-review-pack.pdf",
+    "sha256": "20a4f2500af8ccc79ac96535ea29df19480f7811f3bdef3911df1a7e5b2c2646"
+  },
+  {
+    "path": "products/service-kits/AB-SP-C0-review.zip",
+    "sha256": "d2b39fd0143c36eea65ebef4c17068d63d5e4934a9cd85ff58e08d3468b1e841"
+  },
+  {
+    "path": "products/service-kits/bom.csv",
+    "sha256": "3897d662cb6c17956f31da6d99961b2ab8a5c37d044d9b030836fb9f1f499ee4"
+  },
+  {
+    "path": "products/service-kits/geometry-checks.json",
+    "sha256": "6961046f22be60841d3dec75389ee19fe772012729fcc6abba8601161f369b37"
+  },
+  {
+    "path": "products/service-kits/README.md",
+    "sha256": "012ce5c8ed471ae3edc37920b2e78ed4a79e45bc1cea522849d987b329103e4b"
+  },
+  {
+    "path": "products/service-kits/mesh.json",
+    "sha256": "43a675aae9c5b241686a7635c346a691d16471c2f26f8d20a5e7e4e42513dc24"
+  },
+  {
+    "path": "products/service-kits/preview.svg",
+    "sha256": "8baced1a3c2f696078561a6c594e7d682b593f1c4cb08e5206f17353e214f320"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-001/AB-SP-001.step",
+    "sha256": "f0d4cfa2ce03863906905bc531a02e022ee082c76f89894bea0cfc647ef7a617"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-001/AB-SP-001.svg",
+    "sha256": "3492bfee212e452f4731590eb598fb72df20b7046011888df1a8238273ab0c13"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-002/AB-SP-002.step",
+    "sha256": "a95e627143cd36b40ab52244e732f88e1fd334741591582ed5a49c03f205706b"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-002/AB-SP-002.svg",
+    "sha256": "99126ec2f5a1f01b15f484f504e39a0716f9da4061b47f51be3c6a4c5a213b6c"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-003/AB-SP-003.step",
+    "sha256": "1e333e6b4aff4fd3fbda2aa9e4c1b47f1d6b2e3d31236075b4e733639377e06e"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-003/AB-SP-003.svg",
+    "sha256": "c2768168d9f42bfd06ebab6dabcab07048ce7fad287035a5c225c6a1069043df"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-004/AB-SP-004.step",
+    "sha256": "50db4e591345040cde57c337e86a93e2fc8394c08b7e1e9b577615f5a8f7e6a7"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-004/AB-SP-004.svg",
+    "sha256": "5f568bd8ca987439541a7bfd5d8449d47a1757b834960127f0254356e9826d42"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-005/AB-SP-005.step",
+    "sha256": "daf14c9bb13ef57ab82a2d7bc3956901571ffcaa8e2577cade77b608526bf757"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-005/AB-SP-005.svg",
+    "sha256": "5b433259b44a380b8d0accd2531184eace0286eca9412d94acfe5cea852bc1b0"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-006/AB-SP-006.step",
+    "sha256": "85e1657bdfed8c821f64918494d38b00fbcd39100914cf9fd72966a6e272a89b"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-006/AB-SP-006.svg",
+    "sha256": "c08684aced6b75af558aa6abaf43bae1bbee73b1358ceb25c8863299c714cfc3"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-007/AB-SP-007.step",
+    "sha256": "7ba0dc70bc0f5780d739ca43cff88a39f241587854e4b1734d6e56cb29347d93"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-007/AB-SP-007.svg",
+    "sha256": "f3fbdf3dd2dfccd9b424b3ae2dfc606fbcb9531afcde8f08cc06b35a947f960a"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-008/AB-SP-008.step",
+    "sha256": "ef9cd86efde6b629958069bbc5924eb341f9ba7b1a7397f26d83b2cb84c266cf"
+  },
+  {
+    "path": "products/service-kits/parts/AB-SP-008/AB-SP-008.svg",
+    "sha256": "4d8af26c2546526a1e0589b3d2d651d4f48202b449613d7278807e51660cf4c0"
+  },
+  {
+    "path": "products/inspection-fixture/AB-MON-assembly.step",
+    "sha256": "1d9f61e29944a6531a8c846abd4ac06eacc0c1c606320f6807b2a0b49b1d6390"
+  },
+  {
+    "path": "products/inspection-fixture/AB-MON-review-pack.pdf",
+    "sha256": "2accdc00a7eb8455e853180bcf893c1f8f8642b8a7432eec968fe4de1f594e22"
+  },
+  {
+    "path": "products/inspection-fixture/AB-MON-C0-review.zip",
+    "sha256": "7d04317681d3bf41ebf47653b6dd5b5ed83e68ad5763b66b054bb72a10ffdbc7"
+  },
+  {
+    "path": "products/inspection-fixture/bom.csv",
+    "sha256": "9395a2f7287056763d1ffc88633988e25712a19e1fda516ecdbc5d0b995a1924"
+  },
+  {
+    "path": "products/inspection-fixture/geometry-checks.json",
+    "sha256": "f8f3831083a4a62194725ba7ef68877d8c13f4a4145e4c7d8a62e4592e676c2d"
+  },
+  {
+    "path": "products/inspection-fixture/README.md",
+    "sha256": "c0c775f22f1354b1658fc1738b0650f289d75862fb8b742957a51961df016999"
+  },
+  {
+    "path": "products/inspection-fixture/mesh.json",
+    "sha256": "9bf39bea088788c57106c5c8353c0264604257147449854defc6185f3c75d516"
+  },
+  {
+    "path": "products/inspection-fixture/preview.svg",
+    "sha256": "6a57c9329ad88277d97f465185de7e50b776cfa435b46877fbc4547f9c0f8fcd"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-001/AB-MON-001.step",
+    "sha256": "c9e224802bea556bba0192e6e489756597423c28279379f25be5177cea762a69"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-001/AB-MON-001.svg",
+    "sha256": "10ed06ad7db76a3d81fb92d7b065c7d2ccd42a471413c0e11cb450d3f9e406ec"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-002/AB-MON-002.step",
+    "sha256": "75c8d866747aae10aefd105ab061e341a9f93656c174f11269913d407cb908f8"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-002/AB-MON-002.svg",
+    "sha256": "865d77e4e9c4719b69d5b3d69120d0e8b72c3c1e85c3c0b05bc2f9aead6f6acf"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-003/AB-MON-003.step",
+    "sha256": "9a3dde6ea945506964d17b97ec4245387307cce4e5cf1ab71995e7015cedee40"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-003/AB-MON-003.svg",
+    "sha256": "5688ab50861beb96fff2dd3970be173e6313eb499ecb5fceae3a2847278487a8"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-004/AB-MON-004.step",
+    "sha256": "af2415fd0cc46f186a55122686fae9e665bf557f92e29540ac9254f7c098c3ea"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-004/AB-MON-004.svg",
+    "sha256": "f192c0ca068b43e952ba59e78f67fd50b1e82127b7e1e0cee8f94da5da7d4d9e"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-005/AB-MON-005.step",
+    "sha256": "1b727966c18496ef5a3a7bdb8ff6975567db168514f16449d005bbbed3980252"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-005/AB-MON-005.svg",
+    "sha256": "eeea48e50280364da9b6e03fe3fad87541d404de280c02c24bc5bf54abc800b3"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-006/AB-MON-006.step",
+    "sha256": "1a15a8549e1a5b927e496f8eac4f235050f4eb56931dd213e810d967433107b5"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-006/AB-MON-006.svg",
+    "sha256": "7e58b5232c9c17a77ced150e1b5fcee79d1313b8cd0157c1f1998aeebfa92129"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-007/AB-MON-007.step",
+    "sha256": "67f188da35d6fcd537f3a3c27c946005e48fbc17e1fb5c971d823044a12cec10"
+  },
+  {
+    "path": "products/inspection-fixture/parts/AB-MON-007/AB-MON-007.svg",
+    "sha256": "4109145b05b8dff748aaeaa36b4ab6fc8be0b43ff8db94beb859f944a06fc75a"
+  },
+  {
+    "path": "products/hydraulic-power-unit/AB-HPU-assembly.step",
+    "sha256": "ca824bd1ff7d862121d344098fc1aa353bc20f749220d61e3ea0c33664b84a2f"
+  },
+  {
+    "path": "products/hydraulic-power-unit/AB-HPU-review-pack.pdf",
+    "sha256": "7811fd93fe000b406523a8a6c537ae236dd6ee9c08560f4b9c7d441d7e10f268"
+  },
+  {
+    "path": "products/hydraulic-power-unit/AB-HPU-C0-review.zip",
+    "sha256": "c2c77488dd902d2bf406a7a6f67595197a631d143468023185cc9cf53a2c65be"
+  },
+  {
+    "path": "products/hydraulic-power-unit/bom.csv",
+    "sha256": "257e87259e2dd7f865f778adfec2777b51274db4841b30e83aa7f8eb61dd6449"
+  },
+  {
+    "path": "products/hydraulic-power-unit/geometry-checks.json",
+    "sha256": "9db99063eebfff1383bdb696797b48d72453f1b6c9262d6875df4f3ad1a4d7dd"
+  },
+  {
+    "path": "products/hydraulic-power-unit/README.md",
+    "sha256": "ad13082f89c1e4a9815139afea7b298383ca468d35efc252dc38c6e5c4657ab5"
+  },
+  {
+    "path": "products/hydraulic-power-unit/mesh.json",
+    "sha256": "6f511e499741998c924ba44673c10f92a51e638b1f13a51a7f2ca47497d59656"
+  },
+  {
+    "path": "products/hydraulic-power-unit/preview.svg",
+    "sha256": "2214d2b6b30b99b03b32a6f6ab79937666c4063e4cd96a3d8bc849468ff59dd5"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-001/AB-HPU-001.step",
+    "sha256": "d62e4402389c93009711885e1a2036ea1281b451d87b09cc81aed8ebb7740114"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-001/AB-HPU-001.svg",
+    "sha256": "1f3015b3beb604c56d52088079941a79a5f061f6cd0bc54d2fceea9c088da1cf"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-002/AB-HPU-002.step",
+    "sha256": "87f7e7290044f8e49239c509c194c72c32d97f92d26bfc9cf4d244a77eaa79f8"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-002/AB-HPU-002.svg",
+    "sha256": "35ab153aa2127701919afdcb655dc14d19cfd6b507f6c3f311b72747bb347c41"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-003/AB-HPU-003.step",
+    "sha256": "1235e27f794a05aed079e1663c80abbb258225977a084dbdea94a596ece817d5"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-003/AB-HPU-003.svg",
+    "sha256": "33d854e441a382aaee9ac6e94c895b081ab1082feb152637ed4210f547f5615f"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-004/AB-HPU-004.step",
+    "sha256": "2bbb9b0cc6b812ac74c263ffcff343da8bfeb046dd2e42f29780855b9aa46a32"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-004/AB-HPU-004.svg",
+    "sha256": "967f276577416f2f382025eb59b536029cac4ca2f09b65b104c95f91a7fab1b9"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-005/AB-HPU-005.step",
+    "sha256": "470e7151588de4674c519b9b85bef8b300a2b33eeeca6ccac4438acabec49a5f"
+  },
+  {
+    "path": "products/hydraulic-power-unit/parts/AB-HPU-005/AB-HPU-005.svg",
+    "sha256": "26b6ef4231769d79391066223f49e79bbe0d944718834f8665d4538fbe848dad"
+  },
+  {
+    "path": "products/thruster-interface/AB-ACT-assembly.step",
+    "sha256": "ec4961f96fd92527619f10420c4aa90fd8ad6b77043c060b27fc849da039a0c8"
+  },
+  {
+    "path": "products/thruster-interface/AB-ACT-review-pack.pdf",
+    "sha256": "ce6080f1b29d609b7bc2022c37172a26a7eb697cea2c8ed349a3dd3dbde65ea3"
+  },
+  {
+    "path": "products/thruster-interface/AB-ACT-C0-review.zip",
+    "sha256": "5d9f93d8ffa031daa0d1b30aedb5213295cd27eebd1964e9435a73f66443fe57"
+  },
+  {
+    "path": "products/thruster-interface/bom.csv",
+    "sha256": "9920a41e0fa4a28e9d8305071258ed2b0c5d37bbae2273eab37d920841b90f3e"
+  },
+  {
+    "path": "products/thruster-interface/geometry-checks.json",
+    "sha256": "5f973c24e52a7a5fdb34a6e5d6bf7ebbeab0107a009a3e09b2f9487da47adc51"
+  },
+  {
+    "path": "products/thruster-interface/README.md",
+    "sha256": "ba75e9f4e8f0de8dda53e36754881e3a774422ecdfff21a970b42b3042fe839b"
+  },
+  {
+    "path": "products/thruster-interface/mesh.json",
+    "sha256": "d1bdb2aa4c80d6ea32e64cdbf8158112ad0917fe57ae3df99de22d3ebdbb6780"
+  },
+  {
+    "path": "products/thruster-interface/preview.svg",
+    "sha256": "f1bc60e7dccb95b1c446786c16a9c7e27f241e15fba38ed686d0dcb72661a33c"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-001/AB-ACT-001.step",
+    "sha256": "901552050b0ce7284692eef698abee093c9f13dc7d73b30efc6751cc4a7d6793"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-001/AB-ACT-001.svg",
+    "sha256": "2f000047e28a81e625d97a7f1397f9999b48a616738aff8f19f0c06e6ec30c28"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-002/AB-ACT-002.step",
+    "sha256": "4a98068c668bfeb9034f2066287b3d792a20c06b02feee2fac4e4a83ed49a4d4"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-002/AB-ACT-002.svg",
+    "sha256": "2f27b54fb814dcc2bbe963fc9da112540f19dd949a1fc56b80d2415f151e7e56"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-003/AB-ACT-003.step",
+    "sha256": "a8d6c018a2afe30b9281aeb54376f4a3dc9b76da4cab29f704ca0b29021012e0"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-003/AB-ACT-003.svg",
+    "sha256": "2606585b393c94b0ad19409a6eaf38cec6dd20dd946064adc3ec11ee3f818972"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-004/AB-ACT-004.step",
+    "sha256": "874f254d7865aa11e431059e05ebdb384c87b8e3d233cd9bbd927d637696fa30"
+  },
+  {
+    "path": "products/thruster-interface/parts/AB-ACT-004/AB-ACT-004.svg",
+    "sha256": "51dd511a0c8bbee7d921981fa476c4785c93f36091641d37cf0add9e5076be1f"
+  },
+  {
+    "path": "products/mill-duty-brake/AB-AIST-assembly.step",
+    "sha256": "2ec45fa91f96e84dfd77de4c26f427a9f5266e9b6dc8e5bf862814ed630b878b"
+  },
+  {
+    "path": "products/mill-duty-brake/AB-AIST-review-pack.pdf",
+    "sha256": "bacebb1633f37bb1162c396a8322d0083e5161443245830fb204bdac8b14fefe"
+  },
+  {
+    "path": "products/mill-duty-brake/AB-AIST-C0-review.zip",
+    "sha256": "b60160bfc667d4dd96c942e44f5dd673c2968b6cbb905a339df541341ecedfa3"
+  },
+  {
+    "path": "products/mill-duty-brake/bom.csv",
+    "sha256": "e149009047fc9d9eb8e5fcaca81c9269c29e63c505b92c18c965af56617f9672"
+  },
+  {
+    "path": "products/mill-duty-brake/geometry-checks.json",
+    "sha256": "d916d1bc5d73305b3e8f82a236bd79dcaef82252c4899a4129192e33ea552f14"
+  },
+  {
+    "path": "products/mill-duty-brake/README.md",
+    "sha256": "2280dff9b89e7b19bfc48f168ceb32651f855ee5bf067125c71460c45b930c3b"
+  },
+  {
+    "path": "products/mill-duty-brake/mesh.json",
+    "sha256": "a7e2b25880a8a8c33a1ccbea2fdd48f5e8c5b19fd815142c7a4e6583fb96980a"
+  },
+  {
+    "path": "products/mill-duty-brake/preview.svg",
+    "sha256": "006eb610fccd8d739f1ea40542d0b3dd8a80fcd87191f0fdde5740e07e89514c"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-001/AB-AIST-001.step",
+    "sha256": "6998c39ab8b30353a48c1af971661d2b4e940c0c7b364b68f28b751939940d0d"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-001/AB-AIST-001.svg",
+    "sha256": "861ba998e0d86d6f009ac276990deab03c058c69872857f3495fdad8139ab8f5"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-002/AB-AIST-002.step",
+    "sha256": "f759629a6e63cd6f0ca7f222d247f1ce9f2ded2b33cd93ad204474db56861649"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-002/AB-AIST-002.svg",
+    "sha256": "6731ff1517da6bad8a11c487cb4a9a2147ee2d6b025c1b53fd4dd337456e81f8"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-003/AB-AIST-003.step",
+    "sha256": "120c99c53247661909603e7e6c34fbe84433b449f182e826ff35f87c7986c748"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-003/AB-AIST-003.svg",
+    "sha256": "50311247905c39a83fa15f001648664eb24bf854ec6e40fc512dfecdc2dd02f9"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-004/AB-AIST-004.step",
+    "sha256": "1f480fac7f04a7ba8614d457036edb54fb5e796c7fa71e9a6d54d881c2f18f27"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-004/AB-AIST-004.svg",
+    "sha256": "bbeedb018edd4aeb2667d7c6b1cb1b7e22f9ef1c889c5a3429740c522afd34f0"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-005/AB-AIST-005.step",
+    "sha256": "a4c0721b840d7de7b2ca62cb34f16da5b4449e911a8ab175900f6f6d22c12edf"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-005/AB-AIST-005.svg",
+    "sha256": "e0df3d6618a802a9340d2fd9b8b812aab9162ce6dcad34997a1220e7279709a2"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-006/AB-AIST-006.step",
+    "sha256": "24ca135036e52eb8161c9ae5e45145d63c32e1855b147300948c65c76d639884"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-006/AB-AIST-006.svg",
+    "sha256": "ea750a264df84ab043c6b89603295a7f8b0f36bc8e7d9b249e2e50b1fa764abe"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-007/AB-AIST-007.step",
+    "sha256": "5f3e549c1b3dd14a74228f4c78df7d0d304cf23473a73e5a10ef27b819e1b078"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-007/AB-AIST-007.svg",
+    "sha256": "71eab2032bafea947f5dac7fa94181e5156d0c052cf3c78943d3736d4d83ce7a"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-008/AB-AIST-008.step",
+    "sha256": "fcf5ba9b2843f17af235d44829b8ba65b1d957bcadebeb310e0cc6377ba1db4a"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-008/AB-AIST-008.svg",
+    "sha256": "99ccf62c1e7035b9299d62aa426846a99776e7373ea21c1137d36ca7beb0ad1e"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-009/AB-AIST-009.step",
+    "sha256": "ab753371b506b21764a633e48a9aa79e19ca6ad49e41a7e293a1a81c19d02b28"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-009/AB-AIST-009.svg",
+    "sha256": "714caa6cff2659466ecbd81515d695f43d07912124e7d21bda60c7e73931ad05"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-010/AB-AIST-010.step",
+    "sha256": "dcc7ccbcde75f923c1376fb97975b5ecd303f1592c0d9a5f38bf84438cda9241"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-010/AB-AIST-010.svg",
+    "sha256": "90ac533f1fe79f12a72a83f2cc30ea29b114a6e69d85822ea7f7ebb3b890198a"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-011/AB-AIST-011.step",
+    "sha256": "22eb20efd4a815b665e73bbc4b841155062558f8efcfc2747af71d2489f25cf0"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-011/AB-AIST-011.svg",
+    "sha256": "0f81ba664c7f1531ce87e97b112f8d1e5ed4c216d3f7c5fac7bb80abe52be2eb"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-012/AB-AIST-012.step",
+    "sha256": "69cf7a91b918e90afef369630f898ce0d5ba8b2c4615a0cbd4c69f5dc9dad179"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-012/AB-AIST-012.svg",
+    "sha256": "c53c87303f45c9a6c182f26fa5cc1958cb71f91b6c3676861f540e8cc31be4fe"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-013/AB-AIST-013.step",
+    "sha256": "ae6da0317ca2e12d8549c11c8aa1129cda043c75094b0266da7028850b1857cb"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-013/AB-AIST-013.svg",
+    "sha256": "1d8c57d81daf9411c099665cab9226d1ac5a894397255ce9b043d3840f684f1f"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-014/AB-AIST-014.step",
+    "sha256": "7020e2ad569e969ee4cd58605ddda332ec4cbe93c1a36a4f56e5f5f19d2ab326"
+  },
+  {
+    "path": "products/mill-duty-brake/parts/AB-AIST-014/AB-AIST-014.svg",
+    "sha256": "c83ce9763c5238b615ddb188c704e5952c9793a013162b696348464d488d0964"
+  },
+  {
+    "path": "products/coupling-interface/AB-COUP-assembly.step",
+    "sha256": "096664582467367f25a1a7d1e6c44d81b63684ac5de2a8a4d6512dfd0a08d2f5"
+  },
+  {
+    "path": "products/coupling-interface/AB-COUP-review-pack.pdf",
+    "sha256": "b8416f65ab26db89a9e9c8c3273a7d2ffd78d0f6bca45bb92370582ff274baa4"
+  },
+  {
+    "path": "products/coupling-interface/AB-COUP-C0-review.zip",
+    "sha256": "38d83faa9c1c9b12db088c1d831c4e95a9d542cf06b6a5c7572045d3e8f2501e"
+  },
+  {
+    "path": "products/coupling-interface/bom.csv",
+    "sha256": "c285286a34539240c06096ac5ff3f17f4a639c29f267a2ffc617e434b6217193"
+  },
+  {
+    "path": "products/coupling-interface/geometry-checks.json",
+    "sha256": "742c01824c7454f264321ee58de1e651a11b560438fbcef95a82881d3fbae744"
+  },
+  {
+    "path": "products/coupling-interface/README.md",
+    "sha256": "47dc0c8995d8841aa9ca426ff63176ead57db5a078ff85dc4b5066cff056a93f"
+  },
+  {
+    "path": "products/coupling-interface/mesh.json",
+    "sha256": "7c6a6248f7807f867b4776a15932bca30f147b6723108c1cec0f60b65c0b283d"
+  },
+  {
+    "path": "products/coupling-interface/preview.svg",
+    "sha256": "d7fee8c17873438b72057dc190745a13c36ea7b5b9c6f7b7fe062257e408c0ee"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-001/AB-COUP-001.step",
+    "sha256": "9bab596644bc819c146eb9c4cb0cf1de7c9f273ce550f90973489056ab4815e7"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-001/AB-COUP-001.svg",
+    "sha256": "6a26bd57fc8844ccbf887ee0bb73d776e8d7baeaeefd9c2cef1b665f146d778e"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-002/AB-COUP-002.step",
+    "sha256": "aadcab8a7f443d0829d2c4478ce6c359f7edbb524c84b51a048e6c726cafc47c"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-002/AB-COUP-002.svg",
+    "sha256": "4b3885e3cac06f5d41fc75fc2cad40995a240e179271e6efb082518e11fa60b6"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-003/AB-COUP-003.step",
+    "sha256": "cf32a784a52f98964b35a16df612780c619e11c44baeb1b9be3cb4cda800ead0"
+  },
+  {
+    "path": "products/coupling-interface/parts/AB-COUP-003/AB-COUP-003.svg",
+    "sha256": "caf386acdd35cffefc909c15e1c0af41f91452a1513ca20630e10bb2582e856f"
+  },
+  {
+    "path": "products/positive-actuated-brake/AB-POS-assembly.step",
+    "sha256": "04cf6779bcd5e799613b34086b99df262da3903567c26c12e03dd607280d621e"
+  },
+  {
+    "path": "products/positive-actuated-brake/AB-POS-review-pack.pdf",
+    "sha256": "70b71e1f38cf907208a9beefd547fb5650cf7bb53f94175bebe48445c27629c0"
+  },
+  {
+    "path": "products/positive-actuated-brake/AB-POS-C0-review.zip",
+    "sha256": "52ab568730f61d25e516635729a450e81157c029314dcc9177ec6b1daf3bb049"
+  },
+  {
+    "path": "products/positive-actuated-brake/bom.csv",
+    "sha256": "75bcc7865f83f106fdfe2b8618655465efbbfb7cf9ea5b85c68621b1c7e7558b"
+  },
+  {
+    "path": "products/positive-actuated-brake/geometry-checks.json",
+    "sha256": "335924dc9f3845824377f77792f9e076c16d21f55d1a80965c99f3974de51c99"
+  },
+  {
+    "path": "products/positive-actuated-brake/README.md",
+    "sha256": "8f44931cdb237ce02e09836dbf05e872d6369c982c430d9a5eb994f8d2161145"
+  },
+  {
+    "path": "products/positive-actuated-brake/mesh.json",
+    "sha256": "5b8d642953842a37200383191ad3638d551c03d1c4200fafd018f07ac6405bb3"
+  },
+  {
+    "path": "products/positive-actuated-brake/preview.svg",
+    "sha256": "df12ae0210c9351fbc1e9cc847c8214e1f33ab3c02076421a251d342cfb9b049"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-001/AB-POS-001.step",
+    "sha256": "f7b26c72024849069e3d2162b8a8a05957f172c4dfff27b09086899cfaaa4b13"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-001/AB-POS-001.svg",
+    "sha256": "09ecf579da144022c55127b580cafd641d5de726fdf8ba7e3efd7f9ee3250d6b"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-002/AB-POS-002.step",
+    "sha256": "42b4c525ba468d27e69114a62f96e7249ae7196bc4f1064f1ed01047fe7ddad1"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-002/AB-POS-002.svg",
+    "sha256": "400d5975a903108c0c8637d80973784393e5384a44df32c7acd972a15d953d88"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-003/AB-POS-003.step",
+    "sha256": "3cddba75de54e9886c438ac3e970cc6a1699329a254ca11c0e6406b1e7cac70b"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-003/AB-POS-003.svg",
+    "sha256": "c59c305e40ba406a23caa2a68a756a8c67c67c7c05677bd9d385e9966dbb78a2"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-004/AB-POS-004.step",
+    "sha256": "d40eb9787265dbc38b69043dcd0c7903ba42a62f12095a3148b9a740b3c022b9"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-004/AB-POS-004.svg",
+    "sha256": "58c6ad855c56bd03671f46e28a21fcbb22407154bce981c04c10c9738700928c"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-005/AB-POS-005.step",
+    "sha256": "15c9748039e3a385d5fa830736d344000b19f3ac09445a93f3fcb778b16c4331"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-005/AB-POS-005.svg",
+    "sha256": "fb5d4dd45b77780813f5138cd770c73faa5be32b7fb9e0aa598c7ab553660210"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-006/AB-POS-006.step",
+    "sha256": "9237c038366e5a0d7d333b3750b90e4df3886c7167d0169b3470820bd421b6f3"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-006/AB-POS-006.svg",
+    "sha256": "93154103e1199d052b159dc685e55937fe677d9a2fea68db26c38ce27fd1f4c7"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-007/AB-POS-007.step",
+    "sha256": "5ece96cf9c155ff7f1ddf1e4762dccf8862a6ea07678cbc4f2adfd97b777cf53"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-007/AB-POS-007.svg",
+    "sha256": "3c8f99837d30265ea709c3b5b91543af73f090f812e3143e7fd14fde42ba37f7"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-008/AB-POS-008.step",
+    "sha256": "7a7d63ecf5b8633979ab2bc2fe34c4ce0b6bb10d31056f9f07f4ac2903570092"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-008/AB-POS-008.svg",
+    "sha256": "a8167b312fc993d5aaae6fc36d3e13981ec2353cd8b4025dccf4f86a54da07c2"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-009/AB-POS-009.step",
+    "sha256": "447958702b1eadd60d90bda5f760a89f3ea9683e98a2f39c3d92c056ac78fdf8"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-009/AB-POS-009.svg",
+    "sha256": "cccfc4855df0dd624c9648272da7216d82a6c6d94bf4191a9918175c123d711f"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-010/AB-POS-010.step",
+    "sha256": "420fa7f9e8b91c4bfd6efd2a14b0c4ecf3ebfb51069c63a5030d19cae9ab5c8c"
+  },
+  {
+    "path": "products/positive-actuated-brake/parts/AB-POS-010/AB-POS-010.svg",
+    "sha256": "ee94e716fd4bc661f8f43709c6cb730aa8f2972cbe605ba69619d20a1b273e46"
+  },
+  {
+    "path": "products/buffer-module/AB-BUF-assembly.step",
+    "sha256": "5259364b461ef58d4ff51e608adaa2e115ae5d4b08c5d34f5660c746abdd8ff6"
+  },
+  {
+    "path": "products/buffer-module/AB-BUF-review-pack.pdf",
+    "sha256": "53bbf297c25bb3afc8378c041313cceea89c0f9d298e8e93841dfd73e48b1e4b"
+  },
+  {
+    "path": "products/buffer-module/AB-BUF-C0-review.zip",
+    "sha256": "20a1aa96555ddbd25d7a26f722937f149200726e614ba995381660ac85ebeb92"
+  },
+  {
+    "path": "products/buffer-module/bom.csv",
+    "sha256": "11c7c4e721e0f47723af9dcd1f71378f80aaf3cd7ee9ec0ec08744287de65bcf"
+  },
+  {
+    "path": "products/buffer-module/geometry-checks.json",
+    "sha256": "f59e385c189f0f6ae3dd9c28da3aa9221db41871383b321ace387fe4a6ba60ef"
+  },
+  {
+    "path": "products/buffer-module/README.md",
+    "sha256": "5aad2ac7b99d1cfab31eb57354f8b23805d7d69743e7fb0cce9ff3b60f78c5f1"
+  },
+  {
+    "path": "products/buffer-module/mesh.json",
+    "sha256": "7329c3684e400383b46bbe912af8174de0e90e8d34997bd57a0e9de4cb9b7cf0"
+  },
+  {
+    "path": "products/buffer-module/preview.svg",
+    "sha256": "53261ad00d817536cdafb2e3a6b5632195d7fc69d2d3a7617e9d3e6b586d69e4"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-001/AB-BUF-001.step",
+    "sha256": "dbf2de91ef38904cda91cf6be947eb6f6495fd322e86671fe8d4bde6a88ed2e9"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-001/AB-BUF-001.svg",
+    "sha256": "5ca86c22200f6cad559b84f73bf5c40c53034a5c353aeeea4df686a3f09a0075"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-002/AB-BUF-002.step",
+    "sha256": "6049e30f86811972786632001496a2654a2c8ee921a099386c9120abbbc1b753"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-002/AB-BUF-002.svg",
+    "sha256": "a91045c36da8d92621431a11026cc02d3602bd17a500f1e90caf157000c0b9ab"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-003/AB-BUF-003.step",
+    "sha256": "d83a9c2c161316a29715ea8a49f5abeb3a09e060d534be8005094ef42cfdbe73"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-003/AB-BUF-003.svg",
+    "sha256": "7addb2f16273e18a0265574a52ec59f2487ab9b0646a802c8aea83fbf6f5493c"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-004/AB-BUF-004.step",
+    "sha256": "a97b75bcfe6504dced1f66b54dae86498a03b9f1313c0671f3ae76335203a864"
+  },
+  {
+    "path": "products/buffer-module/parts/AB-BUF-004/AB-BUF-004.svg",
+    "sha256": "fb261056712734f2ae35bff82b87af649fd96c48ba333d034dc01b5b20d00f38"
+  },
+  {
+    "path": "products/rail-clamp-study/AB-SPEC-assembly.step",
+    "sha256": "5b6cfbb1e558580b8b49956524f9b924ba2e0bdd74b0dc42d8de3d6c7b792ce9"
+  },
+  {
+    "path": "products/rail-clamp-study/AB-SPEC-review-pack.pdf",
+    "sha256": "9d6be31afc44dad8220b193c3e04c092a7316af028a5c9f71368f2fd32cd2b34"
+  },
+  {
+    "path": "products/rail-clamp-study/AB-SPEC-C0-review.zip",
+    "sha256": "a6898f6bd534b57051d287e406fa33bed0e5ebbcd2b94375913bcbb12bafdfa2"
+  },
+  {
+    "path": "products/rail-clamp-study/bom.csv",
+    "sha256": "ccac5e68f078895ec1051ef33a8877fbaacfb74759409ee38fd1a28cc759fbb6"
+  },
+  {
+    "path": "products/rail-clamp-study/geometry-checks.json",
+    "sha256": "658efe63ecc2e8bb700ee6db3409cd0f7c924072f12ec136a13fd8458fba7beb"
+  },
+  {
+    "path": "products/rail-clamp-study/README.md",
+    "sha256": "f98591f3dd7c6187cdd11421a7e085b7705a5e13e75fe3eb1021a26376c5e964"
+  },
+  {
+    "path": "products/rail-clamp-study/mesh.json",
+    "sha256": "67ea7aa85263c593cf8193020db9ba77aeae69f781a9fd6b2e6b1fbdbc06ddac"
+  },
+  {
+    "path": "products/rail-clamp-study/preview.svg",
+    "sha256": "39b450c6d3699af5f2272bd060ae8f16bdfebd30b3361c8838ecf0a0baf700c3"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-001/AB-SPEC-001.step",
+    "sha256": "99a132009b9c66e7474b574b3271f6506b88255bddb616681167680870336eb9"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-001/AB-SPEC-001.svg",
+    "sha256": "79fe9a95062ed1e95767a7be1418e9ec9373b30693adeacb7f19fdf34d520194"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-002/AB-SPEC-002.step",
+    "sha256": "b90c99a261f952459820a63276517574901eb1b27d087c1d3540cbed5bf15286"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-002/AB-SPEC-002.svg",
+    "sha256": "db0392aebaa5902c5cd6e642ec326c57ce7187851ee2e3fd6abf2553086b26ca"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-003/AB-SPEC-003.step",
+    "sha256": "7bd4eadb42b9eb58bf5de238dd2c039d831010aaa5235ccf92920ab5794b7997"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-003/AB-SPEC-003.svg",
+    "sha256": "0aece79f079b6796d06a508768de0b94dfdc432695c1fda8fd66a3df743688c5"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-004/AB-SPEC-004.step",
+    "sha256": "f360c92ab513c9af1df129b4bf5e24b789bea13c75b8188a13c12e8446ad3714"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-004/AB-SPEC-004.svg",
+    "sha256": "6d32119f2b10f64c2016d2bfd778c89fdc8a46b212f446fa5330d34b83884ff2"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-005/AB-SPEC-005.step",
+    "sha256": "cdd884d660d8a88ae7ac1c07ef08cc7055e94dea94fe74022fda33a984c636e3"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-005/AB-SPEC-005.svg",
+    "sha256": "994bfcb9ea1b1396207812c6c6f172c9cb0dcfd9f1bb1cecc536d789fe8b173c"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-006/AB-SPEC-006.step",
+    "sha256": "f57f207c5ae1183d109f1c84fc91c9434ea0ef1561538cdbb04c2812d509c090"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-006/AB-SPEC-006.svg",
+    "sha256": "5a34fdbf02ac89cb55816e860ad5254ec15aaedd39c272da7ef074646606f5e2"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-007/AB-SPEC-007.step",
+    "sha256": "2e851d1ef9ff6213e866d677e5eb2d70eb934239531bd390add039ab84a72ae9"
+  },
+  {
+    "path": "products/rail-clamp-study/parts/AB-SPEC-007/AB-SPEC-007.svg",
+    "sha256": "fafd95476dd502a4f8b4ea572ae11abaa420f833f6d826af6093b91605a06b8b"
   }
 ]

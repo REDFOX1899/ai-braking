@@ -1,0 +1,79 @@
+{
+  "slug": "disc-caliper",
+  "short": "Disc caliper",
+  "subtitle": "A shared spring-applied platform",
+  "level": "Mechanical layout",
+  "priority": 3,
+  "description": "A fixed opposed-pad bridge concept around the common 400 mm disc. A purchased spring-applied hydraulic-release cartridge is represented by its envelope; its internal mechanism is not designed here.",
+  "targets": [
+    [
+      "Disc diameter / thickness",
+      "400 / 20 mm",
+      "Shared geometry"
+    ],
+    [
+      "Pad planform",
+      "70 \u00d7 60 mm",
+      "Concept area before corner / retention detail"
+    ],
+    [
+      "Study torque",
+      "1,000 N\u00b7m",
+      "Unverified requirements hypothesis"
+    ],
+    [
+      "Effective radius",
+      "155 mm",
+      "Uniform-pressure rectangular-pad approximation"
+    ],
+    [
+      "Normal force per face",
+      "10.75 kN",
+      "T / (2\u03bcr), \u03bc = 0.30"
+    ]
+  ],
+  "decisions": [
+    "A fixed bridge establishes a direct load path; removable pad retainers are a serviceability hypothesis.",
+    "Use a bought release cartridge for the first test rig rather than developing seals and spring stacks simultaneously.",
+    "Share the rotor/hub pattern with the positive-actuated brake study."
+  ],
+  "materials": [
+    "Bridge and cheeks: S355J2+N plate for prototype; machined critical faces after fabrication.",
+    "Pad backing: C45 steel candidate, with purchased qualified lining.",
+    "Tie fasteners: purchased certified fasteners; grade, preload and locking method unresolved."
+  ],
+  "risks": [
+    "Bridge deflection, pad pressure distribution and hot clearance are not verified.",
+    "Cartridge load path and equalization are interface requirements, not functional geometry.",
+    "Pressure, spring force and release stroke must come from the selected supplier."
+  ],
+  "steps": [
+    "Locate bridge and cheek plates with interface holes aligned.",
+    "Install replaceable backing plates, lining and retainer pins.",
+    "Mount supplier-approved actuator cartridges on the outer interfaces.",
+    "Centre rotor in the cold gap; verify hot-growth allowance analytically.",
+    "Approve joint preload, retainer security and release stroke before guarded testing."
+  ],
+  "validation": [
+    "Contact/nonlinear bridge FEA with supplier actuator loads.",
+    "Thermal distortion, wear travel and worst-case tolerance stack.",
+    "Torque versus pressure/release state, pad change, leakage and endurance tests."
+  ],
+  "hypotheses": [
+    [
+      "Pad replacement",
+      "30% less hands-on time target",
+      "Timed pad change with matched guarding and access."
+    ],
+    [
+      "Prototype variants",
+      "One rotor interface",
+      "Demonstrate common disc and hub across two actuation variants."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ]
+}

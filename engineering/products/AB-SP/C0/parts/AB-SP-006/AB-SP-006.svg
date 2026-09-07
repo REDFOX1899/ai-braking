@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#fff"/>
+<g transform="translate(35,50)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(3.0, -3.0)   translate(43.333333333333336,-38.333333333333336)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-35.0,-30.0 L-35.0,30.0 " />
+			<path d="M35.0,-30.0 L35.0,30.0 " />
+			<path d="M-35.0,-30.0 L35.0,-30.0 " />
+			<path d="M-35.0,30.0 L35.0,30.0 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-35.0,-30.0 L-35.0,30.0 " />
+			<path d="M35.0,-30.0 L35.0,30.0 " />
+			<path d="M-35.0,-30.0 L35.0,-30.0 " />
+			<path d="M-35.0,30.0 L35.0,30.0 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="40" fill="#254c6e" font-size="13">TOP X-Y</text>
+<g transform="translate(35,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(5.25, -5.25)   translate(39.76190476190476,-8.761904761904766)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-35.0,-3.9999999999999964 L-35.0,4.0000000000000036 " />
+			<path d="M35.0,-3.9999999999999964 L35.0,4.0000000000000036 " />
+			<path d="M-35.0,-3.9999999999999964 L35.0,-3.9999999999999964 " />
+			<path d="M-35.0,4.0000000000000036 L35.0,4.0000000000000036 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-35.0,-4.0000000000000036 L-35.0,3.9999999999999964 " />
+			<path d="M35.0,-4.0000000000000036 L35.0,3.9999999999999964 " />
+			<path d="M-35.0,-4.0000000000000036 L35.0,-4.0000000000000036 " />
+			<path d="M-35.0,3.9999999999999964 L35.0,3.9999999999999964 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="405" fill="#254c6e" font-size="13">FRONT X-Z</text>
+<g transform="translate(630,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(6.125, -6.125)   translate(34.08163265306123,-8.081632653061227)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-30.000000000000004,-3.999999999999996 L-30.000000000000004,4.0000000000000036 " />
+			<path d="M-30.000000000000004,4.0000000000000036 L29.999999999999996,4.0000000000000036 " />
+			<path d="M29.999999999999996,-3.999999999999996 L29.999999999999996,4.0000000000000036 " />
+			<path d="M-30.000000000000004,-3.999999999999996 L29.999999999999996,-3.999999999999996 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-29.999999999999996,-4.0000000000000036 L-29.999999999999996,3.9999999999999964 " />
+			<path d="M-29.999999999999996,3.999999999999996 L30.000000000000004,3.999999999999996 " />
+			<path d="M30.000000000000004,-4.0000000000000036 L30.000000000000004,3.9999999999999964 " />
+			<path d="M-29.999999999999996,-4.0000000000000036 L30.000000000000004,-4.0000000000000036 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="630" y="405" fill="#254c6e" font-size="13">SIDE Y-Z</text>
+<text x="625" y="85" fill="#19334f" font-size="24">AB-SP-006 / C0</text>
+<text x="625" y="118" fill="#19334f" font-size="19">Lining block 2</text>
+<text x="625" y="155" fill="#365774" font-size="12">Overall X / Y / Z bounds: 70.00 / 60.00 / 8.00 mm</text>
+<text x="625" y="183" fill="#365774" font-size="12">8 mm concept thickness; compound and retention unresolved.</text>
+<rect x="20" y="748" width="1160" height="53" fill="#eaf3fa"/>
+<text x="36" y="771" fill="#1b4e80" font-size="15">C0 CONCEPT / NOT FOR MANUFACTURE / NOMINAL mm / THIRD-ANGLE VIEW POSITIONS</text>
+<text x="36" y="791" fill="#365774" font-size="12">CAD hidden-line projections; bounds and features are reference only. No tolerance, fit, finish or strength approval.</text>
+</svg>

@@ -1,0 +1,127 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "1ea9ec022c5cf2ad2ade52ca0affdaadd9ab63853d6797809e99577bd0416931",
+    "bytes": 4326
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "3897d662cb6c17956f31da6d99961b2ab8a5c37d044d9b030836fb9f1f499ee4",
+    "bytes": 1136
+  },
+  {
+    "path": "AB-SP-review-pack.pdf",
+    "sha256": "20a4f2500af8ccc79ac96535ea29df19480f7811f3bdef3911df1a7e5b2c2646",
+    "bytes": 55160
+  },
+  {
+    "path": "AB-SP-assembly.step",
+    "sha256": "ea05c861009e7b368eabfaf2ef88073c1d390700d65ef577c3cf3a443e8bb979",
+    "bytes": 120285
+  },
+  {
+    "path": "README.md",
+    "sha256": "012ce5c8ed471ae3edc37920b2e78ed4a79e45bc1cea522849d987b329103e4b",
+    "bytes": 1210
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "6961046f22be60841d3dec75389ee19fe772012729fcc6abba8601161f369b37",
+    "bytes": 1284
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "c1f04ac2124957621c1b9ad3aa753d469703465cabde59d6ea95e99d484260f7",
+    "bytes": 2447
+  },
+  {
+    "path": "parts/AB-SP-007/AB-SP-007.step",
+    "sha256": "7ba0dc70bc0f5780d739ca43cff88a39f241587854e4b1734d6e56cb29347d93",
+    "bytes": 5762
+  },
+  {
+    "path": "parts/AB-SP-007/AB-SP-007.svg",
+    "sha256": "f3fbdf3dd2dfccd9b424b3ae2dfc606fbcb9531afcde8f08cc06b35a947f960a",
+    "bytes": 17897
+  },
+  {
+    "path": "parts/AB-SP-008/AB-SP-008.step",
+    "sha256": "ef9cd86efde6b629958069bbc5924eb341f9ba7b1a7397f26d83b2cb84c266cf",
+    "bytes": 9596
+  },
+  {
+    "path": "parts/AB-SP-008/AB-SP-008.svg",
+    "sha256": "4d8af26c2546526a1e0589b3d2d651d4f48202b449613d7278807e51660cf4c0",
+    "bytes": 50625
+  },
+  {
+    "path": "parts/AB-SP-001/AB-SP-001.step",
+    "sha256": "f0d4cfa2ce03863906905bc531a02e022ee082c76f89894bea0cfc647ef7a617",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-SP-001/AB-SP-001.svg",
+    "sha256": "3492bfee212e452f4731590eb598fb72df20b7046011888df1a8238273ab0c13",
+    "bytes": 38509
+  },
+  {
+    "path": "parts/AB-SP-006/AB-SP-006.step",
+    "sha256": "85e1657bdfed8c821f64918494d38b00fbcd39100914cf9fd72966a6e272a89b",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-SP-006/AB-SP-006.svg",
+    "sha256": "c08684aced6b75af558aa6abaf43bae1bbee73b1358ceb25c8863299c714cfc3",
+    "bytes": 4259
+  },
+  {
+    "path": "parts/AB-SP-003/AB-SP-003.step",
+    "sha256": "1e333e6b4aff4fd3fbda2aa9e4c1b47f1d6b2e3d31236075b4e733639377e06e",
+    "bytes": 5762
+  },
+  {
+    "path": "parts/AB-SP-003/AB-SP-003.svg",
+    "sha256": "c2768168d9f42bfd06ebab6dabcab07048ce7fad287035a5c225c6a1069043df",
+    "bytes": 17897
+  },
+  {
+    "path": "parts/AB-SP-004/AB-SP-004.step",
+    "sha256": "50db4e591345040cde57c337e86a93e2fc8394c08b7e1e9b577615f5a8f7e6a7",
+    "bytes": 9596
+  },
+  {
+    "path": "parts/AB-SP-004/AB-SP-004.svg",
+    "sha256": "5f568bd8ca987439541a7bfd5d8449d47a1757b834960127f0254356e9826d42",
+    "bytes": 50625
+  },
+  {
+    "path": "parts/AB-SP-005/AB-SP-005.step",
+    "sha256": "daf14c9bb13ef57ab82a2d7bc3956901571ffcaa8e2577cade77b608526bf757",
+    "bytes": 25018
+  },
+  {
+    "path": "parts/AB-SP-005/AB-SP-005.svg",
+    "sha256": "5b433259b44a380b8d0accd2531184eace0286eca9412d94acfe5cea852bc1b0",
+    "bytes": 38509
+  },
+  {
+    "path": "parts/AB-SP-002/AB-SP-002.step",
+    "sha256": "a95e627143cd36b40ab52244e732f88e1fd334741591582ed5a49c03f205706b",
+    "bytes": 15476
+  },
+  {
+    "path": "parts/AB-SP-002/AB-SP-002.svg",
+    "sha256": "99126ec2f5a1f01b15f484f504e39a0716f9da4061b47f51be3c6a4c5a213b6c",
+    "bytes": 4259
+  }
+]

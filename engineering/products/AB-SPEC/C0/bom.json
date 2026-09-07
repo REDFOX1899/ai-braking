@@ -1,0 +1,207 @@
+[
+  {
+    "id": "AB-SPEC-001",
+    "item": 1,
+    "name": "Rail reference envelope",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "Customer rail specification required",
+    "process": "Reference only; not supplied",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "interface-envelope",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      -100,
+      -40
+    ],
+    "dimensions": [
+      140.0,
+      350.0,
+      120.0
+    ],
+    "volume_mm3": 2205000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-002",
+    "item": 2,
+    "name": "Clamp crosshead",
+    "pos": [
+      0,
+      0,
+      170
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Original package interface only; not a structural sizing."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      100
+    ],
+    "dimensions": [
+      260.0,
+      140.0,
+      30.0
+    ],
+    "volume_mm3": 1061463.719,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-003",
+    "item": 3,
+    "name": "Jaw carrier -1",
+    "pos": [
+      -65,
+      0,
+      105
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Carrier concept; mechanism, pins and adjustment omitted."
+    ],
+    "role": "make-concept",
+    "color": "#38a5d0",
+    "explode": [
+      -90,
+      0,
+      40
+    ],
+    "dimensions": [
+      35.0,
+      100.0,
+      100.0
+    ],
+    "volume_mm3": 350000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-004",
+    "item": 4,
+    "name": "Rail shoe -1",
+    "pos": [
+      -41,
+      0,
+      85
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Specialist rail-contact material",
+    "notes": [
+      "1 mm lateral rail clearance study.",
+      "No wedge/latch or contact force mechanism."
+    ],
+    "role": "bought-envelope",
+    "color": "#415a77",
+    "explode": [
+      -60,
+      0,
+      0
+    ],
+    "dimensions": [
+      10.0,
+      100.0,
+      28.0
+    ],
+    "volume_mm3": 28000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-005",
+    "item": 5,
+    "name": "Jaw carrier 1",
+    "pos": [
+      65,
+      0,
+      105
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Carrier concept; mechanism, pins and adjustment omitted."
+    ],
+    "role": "make-concept",
+    "color": "#76c6dc",
+    "explode": [
+      90,
+      0,
+      40
+    ],
+    "dimensions": [
+      35.0,
+      100.0,
+      100.0
+    ],
+    "volume_mm3": 350000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-006",
+    "item": 6,
+    "name": "Rail shoe 1",
+    "pos": [
+      41,
+      0,
+      85
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Specialist rail-contact material",
+    "notes": [
+      "1 mm lateral rail clearance study.",
+      "No wedge/latch or contact force mechanism."
+    ],
+    "role": "bought-envelope",
+    "color": "#d3dde5",
+    "explode": [
+      60,
+      0,
+      0
+    ],
+    "dimensions": [
+      10.0,
+      100.0,
+      28.0
+    ],
+    "volume_mm3": 28000.0,
+    "quantity": 1
+  },
+  {
+    "id": "AB-SPEC-007",
+    "item": 7,
+    "name": "Actuation reserved volume",
+    "pos": [
+      0,
+      0,
+      240
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Specialist spring/wedge mechanism required",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "interface-envelope",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      150
+    ],
+    "dimensions": [
+      95.0,
+      95.0,
+      110.0
+    ],
+    "volume_mm3": 779704.027,
+    "quantity": 1
+  }
+]

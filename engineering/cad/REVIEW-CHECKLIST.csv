@@ -1,0 +1,11 @@
+Gate,Characteristic,Current status,Required evidence,Owner
+C0,Part solid validity and STEP round trip,Automated geometry check,geometry-checks.json,CAD author
+C0,Static overlaps,Automated review list,Intersections and contact disposition,Mechanical checker
+C1,Duty and environment,Unapproved,Customer requirements matrix,Application engineer
+C1,Mechanism motion and force path,Unsolved,Travel sweep and mechanical calculations,Mechanical lead
+C1,Fasteners and retention,Unreleased,Preload slip fatigue and retention calculations,Mechanical lead
+C1,Materials and friction pair,Candidates only,Section-specific properties and friction tests,Materials / friction specialist
+C1,Drawings and GD&T,Nominal reference only,Signed manufacturing drawings with tolerances,Checker
+P1,Metrology,Unqualified,Calibration records and uncertainty budget,Quality lead
+P1,Structural and thermal performance,Untested,Correlated simulation and physical results,Test lead
+R1,Manufacturing release,Blocked pending engineering,Signed release evidence package,Engineering authority

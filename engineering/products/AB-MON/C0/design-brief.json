@@ -1,0 +1,69 @@
+{
+  "slug": "inspection-fixture",
+  "short": "Inspection fixture",
+  "subtitle": "Measure first. Let AI assist.",
+  "level": "Fixture concept",
+  "priority": 5,
+  "description": "A non-safety bench fixture for checking a disc with bought supports and a movable indicator arm. It gives inspection a repeatable physical datum while electronics and AI stay at requirements level.",
+  "targets": [
+    [
+      "Supported disc",
+      "400 mm concept",
+      "Packaging check"
+    ],
+    [
+      "Runout study target",
+      "\u22640.05 mm",
+      "Proposed requirement, not a part acceptance limit"
+    ],
+    [
+      "Gauge resolution objective",
+      "\u22640.005 mm",
+      "Ten-to-one study rule; full uncertainty needed"
+    ],
+    [
+      "Acceptance authority",
+      "Calibrated measurement + approved plan",
+      "AI advisory only"
+    ]
+  ],
+  "decisions": [
+    "Buy calibrated indicators and supports; fabricate the base and adjustable brackets.",
+    "Separate model anomaly detection from final dimensional acceptance.",
+    "Tie each reading to part, fixture, instrument, calibration and environmental records."
+  ],
+  "materials": [
+    "Base: machined steel candidate; stiffness and stability require assessment.",
+    "Arms: aluminium 6082-T6 candidate; non-load-bearing metrology supports.",
+    "Indicators and centres: purchased calibrated equipment."
+  ],
+  "risks": [
+    "No measurement-system analysis or uncertainty budget has been completed.",
+    "Fixture and datum errors can dominate small runout readings."
+  ],
+  "steps": [
+    "Level and qualify the base and purchased centres.",
+    "Mount the rotor without distorting its datum surfaces.",
+    "Set a calibrated probe normal to the inspected face.",
+    "Record repeated rotations, remounts and operator variation before acceptance use."
+  ],
+  "validation": [
+    "Gauge repeatability/reproducibility and uncertainty budget.",
+    "Comparison with calibrated reference artefacts and independent CMM measurement."
+  ],
+  "hypotheses": [
+    [
+      "Reporting effort",
+      "50% less transcription time target",
+      "Timed digital versus manual inspection report creation."
+    ],
+    [
+      "Acceptance quality",
+      "No accuracy improvement claim",
+      "Demonstrate uncertainty and false-alarm rates before use."
+    ]
+  ],
+  "sensors": [
+    "Define displacement range/resolution, triggering, sampling, DAQ, traceable calibration, environmental sensing, storage and human approval workflow."
+  ]
+}

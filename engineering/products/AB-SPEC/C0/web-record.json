@@ -1,0 +1,287 @@
+{
+  "code": "AB-SPEC",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "rail-clamp-study",
+  "short": "Rail clamp study",
+  "subtitle": "A separate storm-holding programme",
+  "level": "Interface concept",
+  "priority": 12,
+  "description": "A rail-head clamp packaging study with opposed shoes and an actuator envelope. Rail dimensions, wedge/spring mechanism and certified holding force require an application-specific design.",
+  "targets": [
+    [
+      "Illustrative rail head",
+      "70 mm wide",
+      "Not a railway profile standard"
+    ],
+    [
+      "Study holding force",
+      "20 kN",
+      "Hypothesis"
+    ],
+    [
+      "Assumed wet friction",
+      "0.10",
+      "Sensitivity only; tests required"
+    ],
+    [
+      "Normal force per shoe",
+      "100 kN",
+      "F / (2\u03bc), excluding mechanisms"
+    ]
+  ],
+  "decisions": [
+    "Require the actual rail profile and wind-load analysis before developing a clamp mechanism.",
+    "Partner with a specialist for first installations.",
+    "Keep contamination and rail surface variation central to the requirements."
+  ],
+  "materials": [
+    "Frame: S355J2+N candidate only; loads may force a different section or material.",
+    "Rail shoes: supplier friction system; rail damage compatibility must be assessed."
+  ],
+  "risks": [
+    "No functional wedge, latch or spring mechanism is modelled.",
+    "High required normal forces make this an application-specific structural programme.",
+    "No personnel-transport, storm safety or hazardous-area approval."
+  ],
+  "steps": [
+    "Obtain rail profile, rail restraint, wind loads and failure-state requirements.",
+    "Approve specialist mechanism and dimensional interface.",
+    "Finalize clamps, foundation, guarding and independent verification."
+  ],
+  "validation": [
+    "Wind load and machine/rail load path analysis.",
+    "Wet/oily rail holding tests, release clearance and fault testing."
+  ],
+  "hypotheses": [
+    [
+      "Inspection",
+      "Accessible wear surfaces target",
+      "Validate with a service mock-up."
+    ],
+    [
+      "Holding force",
+      "No improvement claim",
+      "Compare only tested units on the same rail, contamination and load case."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ],
+  "parts": [
+    {
+      "id": "AB-SPEC-001",
+      "item": 1,
+      "name": "Rail reference envelope",
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "material": "Customer rail specification required",
+      "process": "Reference only; not supplied",
+      "notes": [
+        "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+      ],
+      "role": "interface-envelope",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        -100,
+        -40
+      ],
+      "dimensions": [
+        140.0,
+        350.0,
+        120.0
+      ],
+      "volume_mm3": 2205000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-002",
+      "item": 2,
+      "name": "Clamp crosshead",
+      "pos": [
+        0,
+        0,
+        170
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Original package interface only; not a structural sizing."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        0,
+        100
+      ],
+      "dimensions": [
+        260.0,
+        140.0,
+        30.0
+      ],
+      "volume_mm3": 1061463.719,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-003",
+      "item": 3,
+      "name": "Jaw carrier -1",
+      "pos": [
+        -65,
+        0,
+        105
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Carrier concept; mechanism, pins and adjustment omitted."
+      ],
+      "role": "make-concept",
+      "color": "#38a5d0",
+      "explode": [
+        -90,
+        0,
+        40
+      ],
+      "dimensions": [
+        35.0,
+        100.0,
+        100.0
+      ],
+      "volume_mm3": 350000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-004",
+      "item": 4,
+      "name": "Rail shoe -1",
+      "pos": [
+        -41,
+        0,
+        85
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Specialist rail-contact material",
+      "notes": [
+        "1 mm lateral rail clearance study.",
+        "No wedge/latch or contact force mechanism."
+      ],
+      "role": "bought-envelope",
+      "color": "#415a77",
+      "explode": [
+        -60,
+        0,
+        0
+      ],
+      "dimensions": [
+        10.0,
+        100.0,
+        28.0
+      ],
+      "volume_mm3": 28000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-005",
+      "item": 5,
+      "name": "Jaw carrier 1",
+      "pos": [
+        65,
+        0,
+        105
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Carrier concept; mechanism, pins and adjustment omitted."
+      ],
+      "role": "make-concept",
+      "color": "#76c6dc",
+      "explode": [
+        90,
+        0,
+        40
+      ],
+      "dimensions": [
+        35.0,
+        100.0,
+        100.0
+      ],
+      "volume_mm3": 350000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-006",
+      "item": 6,
+      "name": "Rail shoe 1",
+      "pos": [
+        41,
+        0,
+        85
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Specialist rail-contact material",
+      "notes": [
+        "1 mm lateral rail clearance study.",
+        "No wedge/latch or contact force mechanism."
+      ],
+      "role": "bought-envelope",
+      "color": "#d3dde5",
+      "explode": [
+        60,
+        0,
+        0
+      ],
+      "dimensions": [
+        10.0,
+        100.0,
+        28.0
+      ],
+      "volume_mm3": 28000.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SPEC-007",
+      "item": 7,
+      "name": "Actuation reserved volume",
+      "pos": [
+        0,
+        0,
+        240
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Specialist spring/wedge mechanism required",
+      "notes": [
+        "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+      ],
+      "role": "interface-envelope",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        150
+      ],
+      "dimensions": [
+        95.0,
+        95.0,
+        110.0
+      ],
+      "volume_mm3": 779704.027,
+      "quantity": 1
+    }
+  ],
+  "intersections": [],
+  "part_count": 7,
+  "downloads": {
+    "step": "AB-SPEC-assembly.step",
+    "pdf": "AB-SPEC-review-pack.pdf",
+    "zip": "AB-SPEC-C0-review.zip"
+  }
+}

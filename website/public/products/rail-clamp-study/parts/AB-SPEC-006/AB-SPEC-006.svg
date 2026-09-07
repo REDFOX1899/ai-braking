@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#fff"/>
+<g transform="translate(35,50)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(1.7999999999999998, -1.7999999999999998)   translate(18.888888888888893,-63.88888888888889)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-5.0,-50.0 L-5.0,50.0 " />
+			<path d="M5.0,-50.0 L5.0,50.0 " />
+			<path d="M-5.0,-50.0 L5.0,-50.0 " />
+			<path d="M-5.0,50.0 L5.0,50.0 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-5.0,-50.0 L-5.0,50.0 " />
+			<path d="M5.0,-50.0 L5.0,50.0 " />
+			<path d="M-5.0,-50.0 L5.0,-50.0 " />
+			<path d="M-5.0,50.0 L5.0,50.0 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="40" fill="#254c6e" font-size="13">TOP X-Y</text>
+<g transform="translate(35,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(6.428571428571425, -6.428571428571425)   translate(8.888888888888891,-17.888888888888896)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-5.0,-13.999999999999995 L-5.0,14.000000000000005 " />
+			<path d="M5.0,-13.999999999999995 L5.0,14.000000000000005 " />
+			<path d="M-5.0,-13.999999999999995 L5.0,-13.999999999999995 " />
+			<path d="M-5.0,14.000000000000005 L5.0,14.000000000000005 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-5.0,-14.000000000000005 L-5.0,13.999999999999995 " />
+			<path d="M5.0,-14.000000000000005 L5.0,13.999999999999995 " />
+			<path d="M-5.0,-14.000000000000005 L5.0,-14.000000000000005 " />
+			<path d="M-5.0,13.999999999999995 L5.0,13.999999999999995 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="35" y="405" fill="#254c6e" font-size="13">FRONT X-Z</text>
+<g transform="translate(630,415)">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="490.0"
+   height="240.0"
+
+>
+    <g transform="scale(3.6750000000000003, -3.6750000000000003)   translate(56.802721088435376,-20.802721088435373)" stroke-width="0.8"  fill="none">
+       <!-- hidden lines -->
+       <g  stroke="rgb(165,188,205)" fill="none" stroke-dasharray="0.8,0.8" >
+			<path d="M-50.0,-14.0 L-50.0,14.0 " />
+			<path d="M-50.0,14.0 L50.0,14.0 " />
+			<path d="M50.0,-14.0 L50.0,14.0 " />
+			<path d="M-50.0,-14.0 L50.0,-14.0 " />
+
+       </g>
+
+       <!-- solid lines -->
+       <g  stroke="rgb(37,76,110)" fill="none">
+			<path d="M-50.0,-14.0 L-50.0,14.0 " />
+			<path d="M-50.0,14.0 L50.0,14.0 " />
+			<path d="M50.0,-14.0 L50.0,14.0 " />
+			<path d="M-50.0,-14.0 L50.0,-14.0 " />
+
+       </g>
+    </g>
+    
+</svg>
+
+</g>
+<text x="630" y="405" fill="#254c6e" font-size="13">SIDE Y-Z</text>
+<text x="625" y="85" fill="#19334f" font-size="24">AB-SPEC-006 / C0</text>
+<text x="625" y="118" fill="#19334f" font-size="19">Rail shoe 1</text>
+<text x="625" y="155" fill="#365774" font-size="12">Overall X / Y / Z bounds: 10.00 / 100.00 / 28.00 mm</text>
+<text x="625" y="183" fill="#365774" font-size="12">1 mm lateral rail clearance study.</text>
+<text x="625" y="211" fill="#365774" font-size="12">No wedge/latch or contact force mechanism.</text>
+<rect x="20" y="748" width="1160" height="53" fill="#eaf3fa"/>
+<text x="36" y="771" fill="#1b4e80" font-size="15">C0 CONCEPT / NOT FOR MANUFACTURE / NOMINAL mm / THIRD-ANGLE VIEW POSITIONS</text>
+<text x="36" y="791" fill="#365774" font-size="12">CAD hidden-line projections; bounds and features are reference only. No tolerance, fit, finish or strength approval.</text>
+</svg>

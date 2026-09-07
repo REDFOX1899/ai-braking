@@ -1,0 +1,87 @@
+[
+  {
+    "path": "bom.json",
+    "sha256": "ba31493202da1947c544d4699c47ba090f6c854795e42cfac00344a713a2b558",
+    "bytes": 2280
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "9920a41e0fa4a28e9d8305071258ed2b0c5d37bbae2273eab37d920841b90f3e",
+    "bytes": 704
+  },
+  {
+    "path": "README.md",
+    "sha256": "ba75e9f4e8f0de8dda53e36754881e3a774422ecdfff21a970b42b3042fe839b",
+    "bytes": 1199
+  },
+  {
+    "path": "AB-ACT-review-pack.pdf",
+    "sha256": "ce6080f1b29d609b7bc2022c37172a26a7eb697cea2c8ed349a3dd3dbde65ea3",
+    "bytes": 38218
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "5f973c24e52a7a5fdb34a6e5d6bf7ebbeab0107a009a3e09b2f9487da47adc51",
+    "bytes": 725
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "AB-ACT-assembly.step",
+    "sha256": "ec4961f96fd92527619f10420c4aa90fd8ad6b77043c060b27fc849da039a0c8",
+    "bytes": 89539
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "c649003a764b1570159928d0a20fa7a706eb9137120c9eecb1c8909c290d3bdc",
+    "bytes": 2267
+  },
+  {
+    "path": "parts/AB-ACT-001/AB-ACT-001.step",
+    "sha256": "901552050b0ce7284692eef698abee093c9f13dc7d73b30efc6751cc4a7d6793",
+    "bytes": 34605
+  },
+  {
+    "path": "parts/AB-ACT-001/AB-ACT-001.svg",
+    "sha256": "2f000047e28a81e625d97a7f1397f9999b48a616738aff8f19f0c06e6ec30c28",
+    "bytes": 82247
+  },
+  {
+    "path": "parts/AB-ACT-003/AB-ACT-003.svg",
+    "sha256": "2606585b393c94b0ad19409a6eaf38cec6dd20dd946064adc3ec11ee3f818972",
+    "bytes": 28103
+  },
+  {
+    "path": "parts/AB-ACT-003/AB-ACT-003.step",
+    "sha256": "a8d6c018a2afe30b9281aeb54376f4a3dc9b76da4cab29f704ca0b29021012e0",
+    "bytes": 5767
+  },
+  {
+    "path": "parts/AB-ACT-004/AB-ACT-004.step",
+    "sha256": "874f254d7865aa11e431059e05ebdb384c87b8e3d233cd9bbd927d637696fa30",
+    "bytes": 38168
+  },
+  {
+    "path": "parts/AB-ACT-004/AB-ACT-004.svg",
+    "sha256": "51dd511a0c8bbee7d921981fa476c4785c93f36091641d37cf0add9e5076be1f",
+    "bytes": 15343
+  },
+  {
+    "path": "parts/AB-ACT-002/AB-ACT-002.svg",
+    "sha256": "2f27b54fb814dcc2bbe963fc9da112540f19dd949a1fc56b80d2415f151e7e56",
+    "bytes": 49069
+  },
+  {
+    "path": "parts/AB-ACT-002/AB-ACT-002.step",
+    "sha256": "4a98068c668bfeb9034f2066287b3d792a20c06b02feee2fac4e4a83ed49a4d4",
+    "bytes": 5778
+  }
+]

@@ -1,0 +1,315 @@
+{
+  "code": "AB-SP",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "service-kits",
+  "short": "Service kits",
+  "subtitle": "Parts that keep the platform serviceable",
+  "level": "Mechanical concept",
+  "priority": 4,
+  "description": "An identifiable caliper service set: backing plates, lining blocks, retainer pins and bushes. It is scoped to AI Braking concepts; no fit or compatibility with a competitor brake is implied.",
+  "targets": [
+    [
+      "Pad footprint",
+      "70 \u00d7 60 mm",
+      "Shared with AB-DC"
+    ],
+    [
+      "Lining concept thickness",
+      "8 mm",
+      "Wear allowance unapproved"
+    ],
+    [
+      "Retainer pin diameter",
+      "8 mm",
+      "Nominal concept"
+    ],
+    [
+      "Traceability",
+      "100% kits linked to parent revision",
+      "Process objective, not achieved factory evidence"
+    ]
+  ],
+  "decisions": [
+    "Separate wear parts from structural parts in the BOM and drawing numbering.",
+    "Source the friction compound and its retention process from a specialist.",
+    "Mark non-friction backing surfaces, avoiding stress-sensitive and rubbing surfaces."
+  ],
+  "materials": [
+    "Backing plate: C45 candidate, corrosion protection excluded from bond/friction areas.",
+    "Lining: supplier-controlled non-asbestos compound, not a generic material grade.",
+    "Pins/bushes: certified steel and purchased bronze candidates."
+  ],
+  "risks": [
+    "Friction coefficient changes with pressure, speed, temperature and wear.",
+    "Bond strength, rivet design, retainer fatigue and wear limits are not specified."
+  ],
+  "steps": [
+    "Verify parent brake revision and compound lot.",
+    "Inspect backing plate and clean bond surfaces using supplier process.",
+    "Bond/retain lining only to an approved supplier procedure.",
+    "Install pins and bushes with the engineer-approved fit and retention."
+  ],
+  "validation": [
+    "Bond/retention strength, dimensional fit and compound lot consistency.",
+    "Paired dynamometer testing of fade, recovery and wear."
+  ],
+  "hypotheses": [
+    [
+      "Identification errors",
+      "Zero wrong-revision installations target",
+      "Test scanning and human-readable part identification in service trials."
+    ],
+    [
+      "Service inventory",
+      "Shared kit target",
+      "Confirm common parts without extending compatibility beyond released drawings."
+    ]
+  ],
+  "sensors": [
+    "Record digital part/lot identity and wear measurement requirements; sensor design deferred."
+  ],
+  "parts": [
+    {
+      "id": "AB-SP-001",
+      "item": 1,
+      "name": "Backing plate 1",
+      "pos": [
+        -55,
+        0,
+        0
+      ],
+      "material": "C45 candidate",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "70 x 60 x 8; 2 x diameter 8.5 on 50 mm pitch.",
+        "Common nominal planform with AB-DC."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        -55,
+        0,
+        -30
+      ],
+      "dimensions": [
+        70.0,
+        60.0,
+        8.0
+      ],
+      "volume_mm3": 32692.08,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-002",
+      "item": 2,
+      "name": "Lining block 1",
+      "pos": [
+        -55,
+        0,
+        8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Specialist friction supplier",
+      "notes": [
+        "8 mm concept thickness; compound and retention unresolved."
+      ],
+      "role": "bought-envelope",
+      "color": "#a2b6c7",
+      "explode": [
+        -55,
+        0,
+        55
+      ],
+      "dimensions": [
+        70.0,
+        60.0,
+        8.0
+      ],
+      "volume_mm3": 33600.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-003",
+      "item": 3,
+      "name": "Retainer pin 1",
+      "pos": [
+        -55,
+        65,
+        0
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Turn/grind; retention detail pending",
+      "notes": [
+        "Diameter 8 x 85 smooth envelope; no final retaining feature."
+      ],
+      "role": "make-concept",
+      "color": "#38a5d0",
+      "explode": [
+        -55,
+        40,
+        35
+      ],
+      "dimensions": [
+        8.0,
+        8.0,
+        85.0
+      ],
+      "volume_mm3": 4272.566,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-004",
+      "item": 4,
+      "name": "Bush 1",
+      "pos": [
+        -55,
+        -65,
+        0
+      ],
+      "material": "Purchased bronze bearing candidate",
+      "process": "Buy or turn to approved fit",
+      "notes": [
+        "OD 28; bore 20; length 24; fit not assigned."
+      ],
+      "role": "make-concept",
+      "color": "#415a77",
+      "explode": [
+        -55,
+        -40,
+        20
+      ],
+      "dimensions": [
+        28.0,
+        28.0,
+        24.0
+      ],
+      "volume_mm3": 7238.229,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-005",
+      "item": 5,
+      "name": "Backing plate 2",
+      "pos": [
+        55,
+        0,
+        0
+      ],
+      "material": "C45 candidate",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "70 x 60 x 8; 2 x diameter 8.5 on 50 mm pitch.",
+        "Common nominal planform with AB-DC."
+      ],
+      "role": "make-concept",
+      "color": "#76c6dc",
+      "explode": [
+        55,
+        0,
+        -30
+      ],
+      "dimensions": [
+        70.0,
+        60.0,
+        8.0
+      ],
+      "volume_mm3": 32692.08,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-006",
+      "item": 6,
+      "name": "Lining block 2",
+      "pos": [
+        55,
+        0,
+        8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Specialist friction supplier",
+      "notes": [
+        "8 mm concept thickness; compound and retention unresolved."
+      ],
+      "role": "bought-envelope",
+      "color": "#d3dde5",
+      "explode": [
+        55,
+        0,
+        55
+      ],
+      "dimensions": [
+        70.0,
+        60.0,
+        8.0
+      ],
+      "volume_mm3": 33600.0,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-007",
+      "item": 7,
+      "name": "Retainer pin 2",
+      "pos": [
+        55,
+        65,
+        0
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Turn/grind; retention detail pending",
+      "notes": [
+        "Diameter 8 x 85 smooth envelope; no final retaining feature."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        55,
+        40,
+        35
+      ],
+      "dimensions": [
+        8.0,
+        8.0,
+        85.0
+      ],
+      "volume_mm3": 4272.566,
+      "quantity": 1
+    },
+    {
+      "id": "AB-SP-008",
+      "item": 8,
+      "name": "Bush 2",
+      "pos": [
+        55,
+        -65,
+        0
+      ],
+      "material": "Purchased bronze bearing candidate",
+      "process": "Buy or turn to approved fit",
+      "notes": [
+        "OD 28; bore 20; length 24; fit not assigned."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        55,
+        -40,
+        20
+      ],
+      "dimensions": [
+        28.0,
+        28.0,
+        24.0
+      ],
+      "volume_mm3": 7238.229,
+      "quantity": 1
+    }
+  ],
+  "intersections": [],
+  "part_count": 8,
+  "downloads": {
+    "step": "AB-SP-assembly.step",
+    "pdf": "AB-SP-review-pack.pdf",
+    "zip": "AB-SP-C0-review.zip"
+  }
+}

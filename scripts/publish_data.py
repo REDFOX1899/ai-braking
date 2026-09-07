@@ -45,7 +45,7 @@ public=dict(release='2026-09-07',domain='braking.fde.guru',manufacturers=manufac
 (P/'research.json').write_text(json.dumps(public,ensure_ascii=False))
 (R/'website/app/research-data.json').write_text(json.dumps(public,ensure_ascii=False))
 # Only named original reports and selected factual exports are published.
-exports={'engineering-handbook.md':'engineering/ENGINEERING-HANDBOOK.md','supplier-requirements.csv':'engineering/SUPPLIER-REQUIREMENTS.csv','requirements-template.csv':'engineering/REQUIREMENTS-TEMPLATE.csv','product-portfolio.md':'reports/PRODUCT-PORTFOLIO.md','programme-and-budget.md':'reports/PROGRAMME-AND-BUDGET.md','research-method.md':'reports/RESEARCH-METHOD.md','domain-handoff.md':'reports/PUBLICATION-AND-DOMAIN.md','reviewed-specifications.csv':'research/normalized/reviewed-specifications.csv','portfolio.csv':'engineering/portfolio.csv'}
+exports={'engineering-handbook.md':'engineering/ENGINEERING-HANDBOOK.md','supplier-requirements.csv':'engineering/SUPPLIER-REQUIREMENTS.csv','requirements-template.csv':'engineering/REQUIREMENTS-TEMPLATE.csv','product-portfolio.md':'reports/PRODUCT-PORTFOLIO.md','programme-and-budget.md':'reports/PROGRAMME-AND-BUDGET.md','research-method.md':'reports/RESEARCH-METHOD.md','domain-handoff.md':'reports/CLOUDFLARE-DEPLOYMENT.md','mechanical-development-plan.md':'reports/MECHANICAL-DEVELOPMENT-PLAN.md','mechanical-C0-build-log.md':'build-logs/2026-09-07-mechanical-C0.md','reviewed-specifications.csv':'research/normalized/reviewed-specifications.csv','portfolio.csv':'engineering/portfolio.csv'}
 (P/'downloads').mkdir(exist_ok=True)
 for target,source in exports.items():shutil.copyfile(R/source,P/'downloads'/target)
 shutil.copyfile(R/'output/pdf/ai-braking-engineering-handbook.pdf',P/'downloads/engineering-handbook.pdf')
@@ -53,6 +53,14 @@ shutil.copyfile(R/'build-logs/2026-09-07.md',P/'downloads/build-log-2026-09-07.m
 for m in manufacturers:shutil.copyfile(R/f"research/reports/{m['id']}.md",P/'downloads'/f"collection-{m['id']}.md")
 # Artifact allowlist records all approved output bytes, not entire repository directories.
 expected=['favicon.svg','research.json']+['downloads/'+k for k in exports]+['downloads/engineering-handbook.pdf','downloads/build-log-2026-09-07.md']+['downloads/collection-'+m['id']+'.md' for m in manufacturers]
+# Explicit original C0 release paths; no general archive-directory publication.
+products_path=R/'website/app/products-data.json'
+if products_path.exists():
+ for prod in json.loads(products_path.read_text()):
+  base='products/'+prod['slug']+'/'
+  expected += [base+name for name in [prod['downloads']['step'],prod['downloads']['pdf'],prod['downloads']['zip'],'bom.csv','geometry-checks.json','README.md','mesh.json','preview.svg']]
+  for part in prod['parts']:
+   expected += [base+'parts/'+part['id']+'/'+part['id']+ext for ext in ['.step','.svg']]
 allowed=[dict(path=rel,sha256=hashlib.sha256((P/rel).read_bytes()).hexdigest()) for rel in expected]
 (R/'reports/public-export-manifest.json').write_text(json.dumps(allowed,indent=2))
 print(json.dumps(public['counts']))

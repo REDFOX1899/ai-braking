@@ -1,0 +1,187 @@
+[
+  {
+    "path": "AB-DR-assembly.step",
+    "sha256": "977bb3b837c3c54730bc66ad2b02a1eac319a0ae10b648d8edda5c703d70a7fd",
+    "bytes": 431398
+  },
+  {
+    "path": "bom.json",
+    "sha256": "d7136df0b3cccbaa72a0f4771ef2aa968fb2c73a1e9cf3e9f7494f5827d66fe4",
+    "bytes": 9012
+  },
+  {
+    "path": "bom.csv",
+    "sha256": "d5553fe937ddc3b6121f8bc1c4a111bd3a064b5f59fc3290ae0785e10cf16fee",
+    "bytes": 2555
+  },
+  {
+    "path": "AB-DR-review-pack.pdf",
+    "sha256": "b3aad8a6e4f43a6cd60da46d0c7b7474fcb6d852505c65c3e77b6470a497e43b",
+    "bytes": 183114
+  },
+  {
+    "path": "README.md",
+    "sha256": "6a69d320a2d2db508c5fb5a4c46fe6885cdae2d2c0848d72e10b50f9b920a240",
+    "bytes": 1217
+  },
+  {
+    "path": "geometry-checks.json",
+    "sha256": "a0c4dbfb0c586df4d40e1ad20bb690da1157be17dae3b4c264c3170085810418",
+    "bytes": 2162
+  },
+  {
+    "path": "product_briefs.py",
+    "sha256": "b31eea6176350cbde613f2fa59ba5951434719fdeb761edfcbb864c200ac039b",
+    "bytes": 25061
+  },
+  {
+    "path": "build_models.py",
+    "sha256": "5484a34e752439ed623575352f3f39b76fe394d2c59ef14ca564bcef7197ea18",
+    "bytes": 27585
+  },
+  {
+    "path": "design-brief.json",
+    "sha256": "cda7c3a0b27e006d890ec638074389d69ffedd6c3e24fa30d4db6d8fe15680fe",
+    "bytes": 3249
+  },
+  {
+    "path": "parts/AB-DR-005/AB-DR-005.step",
+    "sha256": "370236e7f6275959a3bda952870c11e09cebbedde789718b2c46486db0dd5da7",
+    "bytes": 5974
+  },
+  {
+    "path": "parts/AB-DR-005/AB-DR-005.svg",
+    "sha256": "c67bb9db5dccf1b9923b03abc85aad2348a067d4788ad474114af13319a15931",
+    "bytes": 23896
+  },
+  {
+    "path": "parts/AB-DR-002/AB-DR-002.svg",
+    "sha256": "3d9e6db0eb7cf0b00b766a86666fbeb56ae899ba0d4ff23cae25908dcd83d682",
+    "bytes": 381773
+  },
+  {
+    "path": "parts/AB-DR-002/AB-DR-002.step",
+    "sha256": "12fe30f434a0b0fbddbd02f1b223dd9c061b0e8e3fb2c3d614fdf0a7ea8163fd",
+    "bytes": 48198
+  },
+  {
+    "path": "parts/AB-DR-003/AB-DR-003.svg",
+    "sha256": "0a07d700b55774359ab696092ec04a5acc53af2e2a8e9d9bf9a166c2f397a541",
+    "bytes": 51948
+  },
+  {
+    "path": "parts/AB-DR-003/AB-DR-003.step",
+    "sha256": "c7c9b812e25fdfa3b81d4ecd387de9731a8f15e2a9e4de78f6ac3b500ceddc63",
+    "bytes": 82203
+  },
+  {
+    "path": "parts/AB-DR-004/AB-DR-004.svg",
+    "sha256": "4f116046d2d7283761c97bc631d856ed47cd8c00759acc2380d288f8f9b5ced3",
+    "bytes": 70883
+  },
+  {
+    "path": "parts/AB-DR-004/AB-DR-004.step",
+    "sha256": "e3376285de055d2b5f416fabe648cdea9fff7162f7a64d5c4593644f8fef071d",
+    "bytes": 26777
+  },
+  {
+    "path": "parts/AB-DR-010/AB-DR-010.svg",
+    "sha256": "ec877cc2c10d98ce0e1b77f388f99b282187ec3cf46a411e2fceb242a60d317a",
+    "bytes": 23895
+  },
+  {
+    "path": "parts/AB-DR-010/AB-DR-010.step",
+    "sha256": "7dd32435eb647c4e1f79cdc4efba9f0ab83c4d21a3d9d77b3e824277c67c29ba",
+    "bytes": 5976
+  },
+  {
+    "path": "parts/AB-DR-011/AB-DR-011.svg",
+    "sha256": "93fa12a1e0c533a6419997a6220690138f17cd21e19af92e2bd16e4824b5a713",
+    "bytes": 36398
+  },
+  {
+    "path": "parts/AB-DR-011/AB-DR-011.step",
+    "sha256": "83a79903cc09e906eb32ed7738b9839aa36694c0610cf2b17a6be6b0bb9cddad",
+    "bytes": 19761
+  },
+  {
+    "path": "parts/AB-DR-001/AB-DR-001.svg",
+    "sha256": "dbce910b84d652af058fbbeca715b3d746603587fc0f1d84f3e51515baa5ba82",
+    "bytes": 94175
+  },
+  {
+    "path": "parts/AB-DR-001/AB-DR-001.step",
+    "sha256": "48346a92e9d9677d9f3a1f538be8de405bf6973fe053c88a5752495a889f4ebf",
+    "bytes": 34623
+  },
+  {
+    "path": "parts/AB-DR-006/AB-DR-006.svg",
+    "sha256": "ad398ee042f073dec55ca19e017f5d5cd06b4e440b0c4fa5cbe69a419203f4b6",
+    "bytes": 37550
+  },
+  {
+    "path": "parts/AB-DR-006/AB-DR-006.step",
+    "sha256": "4c2aab082977bc0cf2576604744fed920ca9e8e1d9dbb20a5fbb7436fca63222",
+    "bytes": 18294
+  },
+  {
+    "path": "parts/AB-DR-008/AB-DR-008.step",
+    "sha256": "92fffba98fda998514df29273b413d4118646acbedf5c710e8e957876fe956a3",
+    "bytes": 82203
+  },
+  {
+    "path": "parts/AB-DR-008/AB-DR-008.svg",
+    "sha256": "0090e987dc7fc41f5b2cbeba20dfadf52f51cd4017aab34f78090fb9afe08353",
+    "bytes": 51947
+  },
+  {
+    "path": "parts/AB-DR-009/AB-DR-009.step",
+    "sha256": "2b6cc315285496e3a69984640f6dc596ce8dd9ee8ed62a39dd10106aa2ba146f",
+    "bytes": 26779
+  },
+  {
+    "path": "parts/AB-DR-009/AB-DR-009.svg",
+    "sha256": "8ce41ea8213d9e1333b23179b18002916be9450d93b941f4c457ce4524a1917d",
+    "bytes": 70882
+  },
+  {
+    "path": "parts/AB-DR-007/AB-DR-007.svg",
+    "sha256": "23d2bb7730a8b74b60c83904edff34a4bae863509d8602f35dc158ded045b424",
+    "bytes": 36524
+  },
+  {
+    "path": "parts/AB-DR-007/AB-DR-007.step",
+    "sha256": "710e41eff0d7c5ca07a6f37b9e34647aa9030e310fac76fc748eabd4aa14b08d",
+    "bytes": 18281
+  },
+  {
+    "path": "parts/AB-DR-013/AB-DR-013.svg",
+    "sha256": "0da3153b06c0aefd5795450e3d126cf6930dfaa23e95a1d376d0a0b0e7fc3ae0",
+    "bytes": 45297
+  },
+  {
+    "path": "parts/AB-DR-013/AB-DR-013.step",
+    "sha256": "7d1c47d9b6830a7a36f3d3d9c55599c588e56f9a2d272cedb2abcf9444e10e97",
+    "bytes": 5763
+  },
+  {
+    "path": "parts/AB-DR-014/AB-DR-014.svg",
+    "sha256": "f27bc3e5e0ff329e59f6547d76680072fffb4918f57a87a94f80efd4c5b750a3",
+    "bytes": 4335
+  },
+  {
+    "path": "parts/AB-DR-014/AB-DR-014.step",
+    "sha256": "56c803aefd42cce0c880a0a615f7c4c8daf02cc370c3c50a8e7affe45d41e75d",
+    "bytes": 15536
+  },
+  {
+    "path": "parts/AB-DR-012/AB-DR-012.svg",
+    "sha256": "9fbd5cd05eedadaf063662cb057a0bd63b6dc1cc1979d18d47b57f756ac4220b",
+    "bytes": 35483
+  },
+  {
+    "path": "parts/AB-DR-012/AB-DR-012.step",
+    "sha256": "725832062e4fc9026e01edd698db3c5a1ddba22352d5a9edde20795f1424310c",
+    "bytes": 19764
+  }
+]

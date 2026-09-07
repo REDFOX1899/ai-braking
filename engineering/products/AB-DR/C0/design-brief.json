@@ -1,0 +1,79 @@
+{
+  "slug": "drum-brake",
+  "short": "Drum brake",
+  "subtitle": "The first service-brake platform",
+  "level": "Kinematic layout",
+  "priority": 2,
+  "description": "A spring-applied, thruster-released 315 mm drum concept with replaceable shoes, accessible pivots and a fabricated base. DIN compatibility is a future interface check, not claimed by this geometry.",
+  "targets": [
+    [
+      "Drum diameter",
+      "315 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Friction width",
+      "100 mm",
+      "Modelled geometry"
+    ],
+    [
+      "Study holding torque",
+      "500 N\u00b7m",
+      "Unverified requirements hypothesis"
+    ],
+    [
+      "Assumed minimum friction",
+      "0.30",
+      "Sensitivity input, not lining data"
+    ],
+    [
+      "Required total shoe normal force",
+      "10.58 kN",
+      "T / (\u03bcr); excludes self-energization"
+    ]
+  ],
+  "decisions": [
+    "Buy a qualified thruster first; put development effort into accessible metalwork and service interfaces.",
+    "Keep pivot pins and bushes separately replaceable rather than boring directly into welded levers.",
+    "Use a fabricated prototype base; casting economics follow actual batch volumes."
+  ],
+  "materials": [
+    "Base and lever plate: S355J2+N candidate; weld procedure and fatigue detail approval required.",
+    "Pins: 42CrMo4 candidate with controlled finish; bushes: purchased bearing-grade bronze candidate.",
+    "Lining: bought, characterized non-asbestos compound; bonding and mechanical retention require supplier approval."
+  ],
+  "risks": [
+    "Equalization, spring linkage and actuator transmission are layout placeholders; motion is not solved.",
+    "The assumed torque is not a rating and does not cover an emergency stop or hoist safety case.",
+    "Shoe contact geometry, drum heating and pivot loads require coupled assessment."
+  ],
+  "steps": [
+    "Locate base on the test fixture and inspect pivot-centre coordinates.",
+    "Fit clevis supports, levers, bushes and retained pivot pins.",
+    "Install carriers and lining; centre the drum and establish cold clearance.",
+    "Install purchased thruster and engineered equalizing/spring linkage after kinematic approval.",
+    "Check full release motion without friction contact before load testing."
+  ],
+  "validation": [
+    "Kinematic travel/clearance and load transfer before structural FEA.",
+    "Lever/pin bearing, bending, base weld fatigue and drum thermal calculations.",
+    "Static holding, dynamic torque, application/release time and endurance tests with the chosen lining."
+  ],
+  "hypotheses": [
+    [
+      "Shoe service time",
+      "20% reduction target",
+      "Timed same-duty shoe replacement against a selected conventional assembly."
+    ],
+    [
+      "Supplier lead time",
+      "To be measured",
+      "Compare two quotes for plate fabrication with equivalent cast components."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "AB-COUP-001",
+    "item": 1,
+    "name": "Hub -1",
+    "pos": [
+      0,
+      0,
+      -38
+    ],
+    "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Flange OD 160; bore 50; six diameter 11 on PCD 120.",
+      "No shaft key/locking or torque-transmitting flexible interface."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -100
+    ],
+    "dimensions": [
+      160.0,
+      160.0,
+      71.0
+    ],
+    "volume_mm3": 523062.61,
+    "quantity": 1
+  },
+  {
+    "id": "AB-COUP-002",
+    "item": 2,
+    "name": "Hub 1",
+    "pos": [
+      0,
+      0,
+      38
+    ],
+    "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "Flange OD 160; bore 50; six diameter 11 on PCD 120.",
+      "No shaft key/locking or torque-transmitting flexible interface."
+    ],
+    "role": "make-concept",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      100
+    ],
+    "dimensions": [
+      160.0,
+      160.0,
+      71.0
+    ],
+    "volume_mm3": 523062.61,
+    "quantity": 1
+  },
+  {
+    "id": "AB-COUP-003",
+    "item": 3,
+    "name": "Flexible-element reserved envelope",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy complete coupling or engineered flexible element",
+    "notes": [
+      "Reserved space, not a functioning elastic or gear mechanism."
+    ],
+    "role": "interface-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      0,
+      80,
+      0
+    ],
+    "dimensions": [
+      145.0,
+      145.0,
+      60.0
+    ],
+    "volume_mm3": 759872.723,
+    "quantity": 1
+  }
+]

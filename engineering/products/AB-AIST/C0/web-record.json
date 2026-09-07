@@ -1,0 +1,501 @@
+{
+  "code": "AB-AIST",
+  "revision": "C0",
+  "date": "2026-09-07",
+  "slug": "mill-duty-brake",
+  "short": "Mill-duty brake",
+  "subtitle": "An export interface study",
+  "level": "Kinematic layout",
+  "priority": 8,
+  "description": "A 12-inch drum layout explores a mill-duty envelope using the same modelling primitives. No AISE/AIST interchangeability, duty classification or compliance is asserted.",
+  "targets": [
+    [
+      "Drum diameter",
+      "304.8 mm / 12 in",
+      "Study geometry"
+    ],
+    [
+      "Shoe width",
+      "100 mm",
+      "Not a standard interface"
+    ],
+    [
+      "Study holding torque",
+      "500 N\u00b7m",
+      "Hypothesis; duty not received"
+    ],
+    [
+      "Mounting pattern",
+      "Unreleased",
+      "Customer interface drawing required"
+    ]
+  ],
+  "decisions": [
+    "Keep a separate interface family instead of relabelling the DIN-oriented concept.",
+    "Buy actuation until the severe-duty force/time envelope is known.",
+    "Prioritize access for inspection and replacement in dirty environments."
+  ],
+  "materials": [
+    "S355J2+N candidate structure with environment-specific coating.",
+    "Rotor and lining pair require mill-duty temperature and contamination assessment."
+  ],
+  "risks": [
+    "All mounting dimensions are original placeholders, not an AIST drawing.",
+    "High cycle duty, hot surroundings and corrosion require a separate load spectrum."
+  ],
+  "steps": [
+    "Obtain machine interface dimensions and applicable standard revision.",
+    "Review base, pivot and thruster positions against that interface.",
+    "Proceed with the drum-platform assembly sequence only after separate design approval."
+  ],
+  "validation": [
+    "Interface metrology and full duty-cycle definition.",
+    "Contaminated/environmental endurance and thermal testing."
+  ],
+  "hypotheses": [
+    [
+      "Maintenance access",
+      "20% faster inspection target",
+      "Timed inspection against the customer\u2019s installed mill brake."
+    ],
+    [
+      "Reuse",
+      "Shared non-interface components",
+      "Measure actual reuse after duty loads are approved."
+    ]
+  ],
+  "sensors": [
+    "Advisory position / wear sensing with replaceable brackets; no AI-controlled brake release.",
+    "Record supplier sensor range, supply, connector, EMC, ingress and temperature limits before selection.",
+    "Define independent machine safety interface and diagnostic fault response with the responsible controls engineer."
+  ],
+  "parts": [
+    {
+      "id": "AB-AIST-001",
+      "item": 1,
+      "name": "Four-hole base",
+      "pos": [
+        0,
+        0,
+        10
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "520 x 240 x 20; 4 x diameter 18 THRU.",
+        "Hole centres X +/-230, Y +/-90 from part origin.",
+        "Machine base datum; mounting preload unassigned."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        0,
+        0,
+        -80
+      ],
+      "dimensions": [
+        520.0,
+        240.0,
+        20.0
+      ],
+      "volume_mm3": 2475642.48,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-002",
+      "item": 2,
+      "name": "Study brake drum",
+      "pos": [
+        0,
+        0,
+        252.4
+      ],
+      "material": "C45 prototype candidate; friction/thermal qualification required",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "OD 304.8; friction width 100 within 110 mm axial envelope.",
+        "Web bore 90; 6 x diameter 13 on PCD 125.",
+        "Shaft hub and retention not detailed."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        -150,
+        20
+      ],
+      "dimensions": [
+        304.8,
+        110.0,
+        304.8
+      ],
+      "volume_mm3": 2478251.774,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-003",
+      "item": 3,
+      "name": "Pivot clevis -1",
+      "pos": [
+        -194.4,
+        0,
+        52.5
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Clevis pin bore 20; nominal ear gap 56 mm.",
+        "Foot 4 x diameter 9 at (+/-20,+/-35); base mating holes pending."
+      ],
+      "role": "make-concept",
+      "color": "#38a5d0",
+      "explode": [
+        -60,
+        0,
+        -20
+      ],
+      "dimensions": [
+        65.0,
+        100.0,
+        65.0
+      ],
+      "volume_mm3": 169706.904,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-004",
+      "item": 4,
+      "name": "Lever -1",
+      "pos": [
+        -194.4,
+        0,
+        52.5
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "32 x 24 section; pin centres Z 0, 205, 260 in local coordinates.",
+        "Nominal pin bore 20; bush fit not detailed."
+      ],
+      "role": "make-concept",
+      "color": "#415a77",
+      "explode": [
+        -110,
+        0,
+        0
+      ],
+      "dimensions": [
+        32.0,
+        24.0,
+        290.0
+      ],
+      "volume_mm3": 200100.533,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-005",
+      "item": 5,
+      "name": "Lower pivot pin -1",
+      "pos": [
+        -194.4,
+        0,
+        52.5
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Turn/grind; specify retention after review",
+      "notes": [
+        "Diameter 19.8 study clearance in nominal 20 bore.",
+        "No final fit, hardness or axial retainer design."
+      ],
+      "role": "make-concept",
+      "color": "#76c6dc",
+      "explode": [
+        -70,
+        100,
+        0
+      ],
+      "dimensions": [
+        19.8,
+        105.0,
+        19.8
+      ],
+      "volume_mm3": 32330.287,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-006",
+      "item": 6,
+      "name": "Lining -1",
+      "pos": [
+        0,
+        0,
+        252.4
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy friction lining / machine carrier to approved retention drawing",
+      "notes": [
+        "1 mm radial study gap at drum; not a release-clearance specification.",
+        "Carrier pivots and lining retention remain to be designed."
+      ],
+      "role": "bought-envelope",
+      "color": "#d3dde5",
+      "explode": [
+        -90,
+        0,
+        30
+      ],
+      "dimensions": [
+        37.176,
+        100.0,
+        180.0
+      ],
+      "volume_mm3": 153301.183,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-007",
+      "item": 7,
+      "name": "Shoe carrier -1",
+      "pos": [
+        0,
+        0,
+        252.4
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Buy friction lining / machine carrier to approved retention drawing",
+      "notes": [
+        "1 mm radial study gap at drum; not a release-clearance specification.",
+        "Carrier pivots and lining retention remain to be designed."
+      ],
+      "role": "make-concept",
+      "color": "#5e91b7",
+      "explode": [
+        -90,
+        0,
+        30
+      ],
+      "dimensions": [
+        41.423,
+        100.0,
+        180.0
+      ],
+      "volume_mm3": 265899.66,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-008",
+      "item": 8,
+      "name": "Pivot clevis 1",
+      "pos": [
+        194.4,
+        0,
+        52.5
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "Clevis pin bore 20; nominal ear gap 56 mm.",
+        "Foot 4 x diameter 9 at (+/-20,+/-35); base mating holes pending."
+      ],
+      "role": "make-concept",
+      "color": "#a2b6c7",
+      "explode": [
+        60,
+        0,
+        -20
+      ],
+      "dimensions": [
+        65.0,
+        100.0,
+        65.0
+      ],
+      "volume_mm3": 169706.904,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-009",
+      "item": 9,
+      "name": "Lever 1",
+      "pos": [
+        194.4,
+        0,
+        52.5
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Saw/laser blank; CNC critical faces and bores",
+      "notes": [
+        "32 x 24 section; pin centres Z 0, 205, 260 in local coordinates.",
+        "Nominal pin bore 20; bush fit not detailed."
+      ],
+      "role": "make-concept",
+      "color": "#38a5d0",
+      "explode": [
+        110,
+        0,
+        0
+      ],
+      "dimensions": [
+        32.0,
+        24.0,
+        290.0
+      ],
+      "volume_mm3": 200100.533,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-010",
+      "item": 10,
+      "name": "Lower pivot pin 1",
+      "pos": [
+        194.4,
+        0,
+        52.5
+      ],
+      "material": "42CrMo4 candidate; heat treatment / fit unapproved",
+      "process": "Turn/grind; specify retention after review",
+      "notes": [
+        "Diameter 19.8 study clearance in nominal 20 bore.",
+        "No final fit, hardness or axial retainer design."
+      ],
+      "role": "make-concept",
+      "color": "#415a77",
+      "explode": [
+        70,
+        100,
+        0
+      ],
+      "dimensions": [
+        19.8,
+        105.0,
+        19.8
+      ],
+      "volume_mm3": 32330.287,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-011",
+      "item": 11,
+      "name": "Lining 1",
+      "pos": [
+        0,
+        0,
+        252.4
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy friction lining / machine carrier to approved retention drawing",
+      "notes": [
+        "1 mm radial study gap at drum; not a release-clearance specification.",
+        "Carrier pivots and lining retention remain to be designed."
+      ],
+      "role": "bought-envelope",
+      "color": "#76c6dc",
+      "explode": [
+        90,
+        0,
+        30
+      ],
+      "dimensions": [
+        37.176,
+        100.0,
+        180.0
+      ],
+      "volume_mm3": 153301.183,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-012",
+      "item": 12,
+      "name": "Shoe carrier 1",
+      "pos": [
+        0,
+        0,
+        252.4
+      ],
+      "material": "S355J2+N candidate; condition and design properties unapproved",
+      "process": "Buy friction lining / machine carrier to approved retention drawing",
+      "notes": [
+        "1 mm radial study gap at drum; not a release-clearance specification.",
+        "Carrier pivots and lining retention remain to be designed."
+      ],
+      "role": "make-concept",
+      "color": "#d3dde5",
+      "explode": [
+        90,
+        0,
+        30
+      ],
+      "dimensions": [
+        41.423,
+        100.0,
+        180.0
+      ],
+      "volume_mm3": 265899.66,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-013",
+      "item": 13,
+      "name": "Thruster reserved space",
+      "pos": [
+        297.4,
+        0,
+        140
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Buy selected thruster; replace with vendor STEP",
+      "notes": [
+        "Nonfunctional body envelope; linkage not included."
+      ],
+      "role": "bought-envelope",
+      "color": "#5e91b7",
+      "explode": [
+        160,
+        0,
+        40
+      ],
+      "dimensions": [
+        100.0,
+        100.0,
+        190.0
+      ],
+      "volume_mm3": 1492256.51,
+      "quantity": 1
+    },
+    {
+      "id": "AB-AIST-014",
+      "item": 14,
+      "name": "Spring/equalizer reserved space",
+      "pos": [
+        0,
+        0,
+        464.8
+      ],
+      "material": "Supplier-controlled; illustrative reserved envelope",
+      "process": "Engineer spring/linkage after kinematics",
+      "notes": [
+        "Reserved volume only; no spring, force path or release motion solved."
+      ],
+      "role": "interface-envelope",
+      "color": "#a2b6c7",
+      "explode": [
+        0,
+        0,
+        110
+      ],
+      "dimensions": [
+        160.0,
+        50.0,
+        45.0
+      ],
+      "volume_mm3": 360000.0,
+      "quantity": 1
+    }
+  ],
+  "intersections": [],
+  "part_count": 14,
+  "downloads": {
+    "step": "AB-AIST-assembly.step",
+    "pdf": "AB-AIST-review-pack.pdf",
+    "zip": "AB-AIST-C0-review.zip"
+  }
+}

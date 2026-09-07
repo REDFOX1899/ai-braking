@@ -1,0 +1,119 @@
+[
+  {
+    "id": "AB-BUF-001",
+    "item": 1,
+    "name": "Mounting plate",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "material": "S355J2+N candidate; condition and design properties unapproved",
+    "process": "Saw/laser blank; CNC critical faces and bores",
+    "notes": [
+      "240 x 240 x 25; 4 x diameter 22 on 180 square.",
+      "Foundation bolts must be sized for supplier peak force."
+    ],
+    "role": "make-concept",
+    "color": "#5e91b7",
+    "explode": [
+      0,
+      0,
+      -70
+    ],
+    "dimensions": [
+      240.0,
+      240.0,
+      25.0
+    ],
+    "volume_mm3": 1401986.729,
+    "quantity": 1
+  },
+  {
+    "id": "AB-BUF-002",
+    "item": 2,
+    "name": "Absorber body envelope",
+    "pos": [
+      0,
+      0,
+      137.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy rated absorber",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#a2b6c7",
+    "explode": [
+      0,
+      0,
+      30
+    ],
+    "dimensions": [
+      130.0,
+      130.0,
+      250.0
+    ],
+    "volume_mm3": 3318307.24,
+    "quantity": 1
+  },
+  {
+    "id": "AB-BUF-003",
+    "item": 3,
+    "name": "Rod envelope",
+    "pos": [
+      0,
+      0,
+      337.5
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Vendor stroke model required",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#38a5d0",
+    "explode": [
+      0,
+      0,
+      100
+    ],
+    "dimensions": [
+      55.0,
+      55.0,
+      150.0
+    ],
+    "volume_mm3": 356374.417,
+    "quantity": 1
+  },
+  {
+    "id": "AB-BUF-004",
+    "item": 4,
+    "name": "Impact face envelope",
+    "pos": [
+      0,
+      0,
+      430
+    ],
+    "material": "Supplier-controlled; illustrative reserved envelope",
+    "process": "Buy supplier face/bumper",
+    "notes": [
+      "All dimensions nominal. Fits, GD&T and edge details awaiting engineer release."
+    ],
+    "role": "bought-envelope",
+    "color": "#415a77",
+    "explode": [
+      0,
+      0,
+      150
+    ],
+    "dimensions": [
+      180.0,
+      180.0,
+      35.0
+    ],
+    "volume_mm3": 890641.517,
+    "quantity": 1
+  }
+]
